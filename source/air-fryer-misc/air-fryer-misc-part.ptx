@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<part xml:id="af-misc" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Air Fryer &amp; Miscellaneous</title>
+
+  <!-- include sections -->
+  <!-- <xi:include href="air-fryer/air-fryer-chapter.ptx" /> -->
+  <!-- <xi:include href="misc/misc-chapter.ptx" /> -->
+
+</part>

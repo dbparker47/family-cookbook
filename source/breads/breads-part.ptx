@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<part xml:id="bread" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Breads</title>
+
+  <!-- include sections -->
+  <!-- <xi:include href="biscuits-rolls/biscuits-rolls-chapter.ptx" /> -->
+  <!-- <xi:include href="classic-bread/classic-bread-chapter.ptx" /> -->
+
+</part>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<part xml:id="dessert" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Desserts</title>
+
+  <!-- include sections -->
+  <!-- <xi:include href="cakes-brownies/cakes-brownies-chapter.ptx" /> -->
+  <!-- <xi:include href="cookies-bars/cookies-bars-chapter.ptx" /> -->
+  <!-- <xi:include href="pies/pies-chapter.ptx" /> -->
+  <!-- <xi:include href="other-desserts/other-desserts-chapter.ptx" /> -->
+
+</part>

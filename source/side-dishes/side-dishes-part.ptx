@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<part xml:id="side-dish" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Side Dishes</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="potatoes-vegetables/potatoes-vegetables-chapter.ptx" />
+  <xi:include href="rice-dish/rice-dish-chapter.ptx" />
+  <xi:include href="salads/salads-chapter.ptx" />
+
+</part>
