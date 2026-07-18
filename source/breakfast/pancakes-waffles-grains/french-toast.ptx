@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="f-toast" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>French Toast</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 extra-large eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1/4 teaspoon salt (optional)</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Lots of bread</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,17 @@
     <ol>
       <li>
         <p>
-          
+          Whisk together all non-bread ingredients in a shallow bowl.
         </p>
       </li>
       <li>
         <p>
-          
+          Turn the bread slices in the egg mixture until thoroughly saturated but not falling apart.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Cook on the griddle.
         </p>
       </li>
     </ol>

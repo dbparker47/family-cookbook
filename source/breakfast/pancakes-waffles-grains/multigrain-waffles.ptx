@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="multi-waffles" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Multigrain Waffles</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 cups whole-wheat flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup cornmeal</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m>cup oats</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 tablespoon honey</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon baking powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 eggs (or 3 eggs and 4 egg whites)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cups milk (or buttermilk)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup applesauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons canola oil</cell>
+    </row>
+    <row>
+      <cell>5 tablespoons butter, melted</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon vanilla extract (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +52,22 @@
     <ol>
       <li>
         <p>
-          
+          Mix dry ingredients together.
         </p>
       </li>
       <li>
         <p>
-          
+          Mix wet ingredients together.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour wet ingredients into dry ingredients. Mix until just combined.
         </p>
       </li>
       <li>
         <p>
-          
+          Cook on the waffle iron.
         </p>
       </li>
     </ol>
@@ -72,7 +78,12 @@
     <ul>
       <li>
         <p>
-          
+          Original recipe called for 3 eggs and 4 egg whites.  I changed that to 5 eggs so I didn't have to deal with 4 orphan egg yolks.
+        </p>
+      </li>
+      <li>
+        <p>
+          This makes a lot of waffles.  You can make smaller batches according to how many eggs you put in (e.g. a <m>\frac{2}{5}</m> recipe with 2 eggs).
         </p>
       </li>
     </ul>

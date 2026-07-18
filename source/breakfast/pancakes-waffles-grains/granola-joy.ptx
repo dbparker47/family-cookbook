@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="granola" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Granola (Grandma Joy)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 cups oats</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups sliced almonds</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup packed light brown sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> teaspoons cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup canola oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup honey</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup dried cranberries</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup dried blueberries</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,32 @@
     <ol>
       <li>
         <p>
-          
+          In a large bowl, mix oats, almonds, brown sugar, salt, and cinnamon.
         </p>
       </li>
       <li>
         <p>
-          
+          In a small pan, warm the canola oil and honey. Whisk in vanilla.
         </p>
       </li>
       <li>
         <p>
-          
+          Carefully pour over liquid over oat mixture, and Stir gently with a wooden spoon.
         </p>
       </li>
       <li>
         <p>
-          
+          Spread granola in a 15'' x 10'' x 1'' pan, and bake at <m>300\circ</m> for 40 minutes.  Stir carefully every 10 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Transfer granola-filled pan to a wire rack and cool completely.  Stir in dried fruit.
+        </p>
+      </li>
+      <li>
+        <p>
+          Seal granola in an airtight container or self-sealing plastic bag.  Store at room temperature for a week or in the freezer for up to 3 months.
         </p>
       </li>
     </ol>

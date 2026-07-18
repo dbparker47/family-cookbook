@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sourdough-waff-cakes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sourdough Pancakes &amp; Waffles</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup (or more) sourdough starter</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Water to adjust thickness of batter</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Blueberries, bananas, or other appropriate fruit for pancakes (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,27 @@
     <ol>
       <li>
         <p>
-          
+          Melt butter in a pan and add milk.  Heat to warm.
         </p>
       </li>
       <li>
         <p>
-          
+          Mix starter, salt, brown sugar, flour, and butter/milk mixture and mix to form a thick batter.  Let it stand at room temperature for 8-14 hours.
         </p>
       </li>
       <li>
         <p>
-          
+          Mix in eggs and baking soda.
         </p>
       </li>
       <li>
         <p>
-          
+          Add water so the batter is thick or thin enough for you.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cook on the griddle with fruit or waffle iron not with fruit.
         </p>
       </li>
     </ol>
@@ -72,7 +74,12 @@
     <ul>
       <li>
         <p>
-          
+          The original recipe called for 1 cup starter.  I use a lot more than that with the same recipe, and I have been happy with the results.
+        </p>
+      </li>
+      <li>
+        <p>
+          I make pancakes with either blueberries or sliced bananas.  I add the fruit to the batter right after I put it on the griddle and cover it with batter so it doesn't burn when I flip the pancakes.
         </p>
       </li>
     </ul>

@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="apple-cake" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Baked Apple Pancake</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>3 medium tart apples, peeled and sliced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon cinnamon</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>6 tablespoons confectioners' sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 tablespoons butter, melted and cooled, divided</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup milk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon vanilla</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,27 @@
     <ol>
       <li>
         <p>
-          
+          Place apple slices in a bowl with lemon juice.  Toss with cinnamon and confectioners' sugar.
         </p>
       </li>
       <li>
         <p>
-          
+          Heat a 10-inch ovenproof skillet over medium heat.  Add apples and 4 tablespoons butter.  Cook on low-medium heat, stirring, for 4 minutes. Remove from heat when apples are tender.
         </p>
       </li>
       <li>
         <p>
-          
+          With an electric mixer, beat eggs, salt, flour, milk, and vanilla until smooth.  Beat in the remaining 2 tablespoons of butter.
         </p>
       </li>
       <li>
         <p>
-          
+          Spread apples evenly in skillet.  Pour batter over the top. Bake about 20 minutes at <m>425\circ</m> until no moist spots are left in the batter.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove from oven and immediately flip over onto a large plate.  Sprinkle with confectioners' sugar and serve warm.
         </p>
       </li>
     </ol>
