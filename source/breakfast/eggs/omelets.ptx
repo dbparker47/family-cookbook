@@ -1,44 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="omelet" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Omelets</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>12 extra-large eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup milk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Toppings of your choice (e.g. cheddar, tomato, oranges, lightly sauteed mushrooms)</cell>
     </row>
   </tabular>
 
@@ -46,22 +22,32 @@
     <ol>
       <li>
         <p>
-          
+          Beat eggs and milk together.
         </p>
       </li>
       <li>
         <p>
-          
+          Heat small pan.  Put a small amount of canola oil in pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour <m>\frac{1}{2}</m> cup of egg mixture into the pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Immediately place tomatoes and mushrooms in omelet.
+        </p>
+      </li>
+      <li>
+        <p>
+          After draining top wet part to underneath the omelet, place cheese in the omelet.  Cook until cheese melts and omelet is dryish on top.
+        </p>
+      </li>
+      <li>
+        <p>
+          Fold omelet and put on plate.
         </p>
       </li>
     </ol>
