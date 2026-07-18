@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="cinn-rolls" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cinnamon Rolls (Grandma Joy)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Dough:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>4 \frac{1}{2}</m> to 5 cups all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{4}</m> teaspoons active dry yeast</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Filling:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup packed brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup all-purpose flour</cell>
+    </row>
+    <row>
+      <cell>1 tablespoon ground cinnamon</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup raisins or 1 cup finely chopped apples (optional)</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup chopped pecans (optional)</cell>
+    </row>
+    <row>
+      <cell>1 tablespoon half-and-half or light cream</cell>
+    </row>
+    <row>
+      <cell><alert>Powdered sugar glaze</alert> or <alert>cream cheese frosting</alert></cell>
     </row>
   </tabular>
 
@@ -46,22 +64,27 @@
     <ol>
       <li>
         <p>
-          
+          In large mixer bowl, combine <m>2 \frac{1}{4}</m> cups flour and yeast.  In small saucepan, heat milk, butter, sugar, and salt until just warm (120 degrees or so) and butter is almost melted.  Stir constantly.  Add to flour mixture, then eggs.  Beat with electric mixer on low for 30 seconds, scraping sides of bowl constantly.  Beat on high speed for 3 minutes.  Stir in as much of remaining flour (with wooden spoon) as possible.
         </p>
       </li>
       <li>
         <p>
-          
+          Turn dough onto lightly floured surface.  Knead in enough remaining flour to make moderately soft dough that is smooth and elastic (3-5 minutes total).  Shape into ball.  Place in greased bowl, turning once.  Cover and let rise in warm place until it doubles. (approx. 1 hour).
         </p>
       </li>
       <li>
         <p>
-          
+          Filling:  Combine brown sugar, flour, and cinnamon.  Cut in butter until crumbly, and set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Punch dough down.  Turn onto lightly floured surface.  Cover and let rest for 10 minutes.  Roll dough into 12" square.  Sprinkle filling over dough square, and top with raisins and nuts.  Roll up jelly roll style, and pinch edges to seal.  Slice roll into eight 1.5-inch pieces.  Arrange dough pieces, cut side up, in a greased 13" x 9" x 2" baking pan.  Cover dough loosely with plastic wrap, leaving room for rolls to rise.  Refrigerate overnight.
+        </p>
+      </li>
+      <li>
+        <p>
+          Uncover rolls and let stand at room temperature for 30 minutes.  Break any surface bubbles with greased toothpick.  Brush dough with half-and-half or cream.  Bake at <m>375^\circ</m> for 25-30 minutes or until light brown.  Might have to cover loosely with foil for last 5-10 minutes to prevent over-browning.  Remove rolls.  Brush again with half-and-half or cream.  Cool 1 minute.  Carefully invert rolls onto wire rack.  Cool slightly, and invert again onto serving platter.  Drizzle with glaze or frosting.
         </p>
       </li>
     </ol>

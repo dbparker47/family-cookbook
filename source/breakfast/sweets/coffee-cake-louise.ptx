@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="coff-cake-louise" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Coffee Cake (Grandma Louise)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Cake:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cup plain yogurt or sour cream</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Topping:</term></cell>
+    </row>
+    <row>
+      <cell>1 cup brown sugar</cell>
+    </row>
+    <row>
+      <cell>1 heaping tablespoon flour</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons melted butter</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon cinnamon</cell>
     </row>
   </tabular>
 
@@ -46,22 +58,32 @@
     <ol>
       <li>
         <p>
-          
+          Cream the sugar and butter.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the eggs; add all dry ingredients; add yogurt and vanilla; mix well.
         </p>
       </li>
       <li>
         <p>
-          
+          Grease and flour bundt pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Mix the topping ingredients together; sprinkle some topping in bundt pan.
+        </p>
+      </li>
+      <li>
+        <p>
+          Alternate pouring batter and sprinkling topping in bundt pan.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>350\circ</m> for 40 minutes.
         </p>
       </li>
     </ol>

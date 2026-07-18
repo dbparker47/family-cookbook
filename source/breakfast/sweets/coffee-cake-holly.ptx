@@ -1,44 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="coff-cake-holly" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cinnamon-Crisp Coffee Cake (Holly)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Filling:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup white sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons cinnamon</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 tablespoons cocoa</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Crumbs:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 tablespoons white sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons confectioner's sugar, sifted</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 tablespoons butter, in <m>\frac{1}{2"}</m>" cubes</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon vanilla</cell>
+    </row>
+    <row>
+      <cell><term>Cake:</term></cell>
+    </row>
+    <row>
+      <cell>2 cups flour</cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> cup white sugar</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon baking powder</cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> teaspoon salt</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon baking soda</cell>
+    </row>
+    <row>
+      <cell>8 tablespoons butter, cut into <m>\frac{1}{2}</m>" cubes.</cell>
+    </row>
+    <row>
+      <cell>2 teaspoons vanilla</cell>
+    </row>
+    <row>
+      <cell>2 eggs</cell>
+    </row>
+    <row>
+      <cell>1 cup buttermilk or plain Greek yogurt</cell>
+    </row>
+    <row>
+      <cell><term>Glaze:</term></cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> cup confectioner's sugar, sifted</cell>
+    </row>
+    <row>
+      <cell>Pinch of cinnamon</cell>
+    </row>
+    <row>
+      <cell>2-3 teaspoons water</cell>
     </row>
   </tabular>
 
@@ -46,22 +91,52 @@
     <ol>
       <li>
         <p>
-          
+          Prepare an 9" square pan with parchment, then lightly grease the sides of the pan.
         </p>
       </li>
       <li>
         <p>
-          
+          In a small bowl, combine white sugar, cinnamon, and cocoa for filling.
         </p>
       </li>
       <li>
         <p>
-          
+          Crumbs:  In a medium bowl, whisk together the flour, sugars, cinnamon, and salt.  Add the butter and vanilla; toss to combine.  Use a fork to work in the butter until crumbs form and no dry spots remain.  The crumbs should be irregular, ranging in size from a pea to a walnut.  Set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Cake:  In a large bowl, combine the flour, sugar, baking powder, salt, and baking soda.  Add the butter and mix at low speed using an electric hand mixer until the mixture looks sandy (1-2 minutes).
+        </p>
+      </li>
+      <li>
+        <p>
+          Beat in the vanilla and eggs, then mix until no dry spots of flour remain.  Stop the mixer and scrape the bowl and beater attachment as needed; the mixture will be thick.  Add yogurt and stir until batter is smooth.  Stop to scrape the bowl and mix again at low speed for 30 seconds.
+        </p>
+      </li>
+      <li>
+        <p>
+          Transfer half the batter (about <m>1 \frac{1}{2}</m> cups, 420g) into the prepared pan, spreading it all the way to the edges.  Sprinkle the filling evenly across the batter.
+        </p>
+      </li>
+      <li>
+        <p>
+          Transfer the remaining batter atop the filling and gently spread to the edges.  The batter will be thick; smooth out with a spatula.  Sprinkle the crumbs evenly over the batter and gently press to adhere.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>350^\circ</m> for 45-50 minutes, until it's set in the middle and light brown.
+        </p>
+      </li>
+      <li>
+        <p>
+          For the glaze, in a small bowl, stir together the glaze ingredients until smooth, starting with smaller amount of water.  Add water until glaze has the right consistency.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove the cake with the parchment.  Place the cake, still on the parchment, on a wire rack to cool slightly.  Drizzle the glaze over the cake.
         </p>
       </li>
     </ol>
