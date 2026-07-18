@@ -8,6 +8,22 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="alfredo-bella.ptx" />
+  <xi:include href="artichoke-pasta.ptx" />
+  <xi:include href="asparagus-mushroom-rigatoni.ptx" />
+  <xi:include href="half-marathon-pasta.ptx" />
+  <xi:include href="jammy-onion-miso-pasta.ptx" />
+  <xi:include href="lasagne-chicken.ptx" />
+  <xi:include href="lasagne-classic.ptx" />
+  <xi:include href="macaroni-cheese-nana.ptx" />
+  <xi:include href="pasta-fresca.ptx" />
+  <xi:include href="peanut-butter-noodles.ptx" />
+  <xi:include href="pesto-classic.ptx" />
+  <xi:include href="pesto-spinach-basil.ptx" />
+  <xi:include href="portobello-asparagus-pasta.ptx" />
+  <xi:include href="spaghetti-sauce-tomato.ptx" />
+  <xi:include href="spaghetti-sauce-vegetable.ptx" />
+  <xi:include href="tagliatelle-tutto-bene.ptx" />
+  <xi:include href="tomatoes-basil-balsamic-bow-tie.ptx" />
 
 </chapter>

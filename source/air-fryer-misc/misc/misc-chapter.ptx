@@ -8,6 +8,18 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="misc-baked-squash.ptx" />
+  <xi:include href="misc-cream-cheese-frosting.ptx" />
+  <xi:include href="misc-custard-powder.ptx" />
+  <xi:include href="misc-evaporated-milk.ptx" />
+  <xi:include href="misc-popcorn-toppings.ptx" />
+  <xi:include href="misc-powdered-sugar-glaze.ptx" />
+  <xi:include href="misc-pretzel-treats.ptx" />
+  <xi:include href="misc-ramen-egg.ptx" />
+  <xi:include href="misc-sauerkraut.ptx" />
+  <xi:include href="misc-sourdough-starter.ptx" />
+  <xi:include href="misc-stir-fry-sauce.ptx" />
+  <xi:include href="misc-taco-seasoning.ptx" />
+  <xi:include href="misc-vinagrette-dressing.ptx" />
 
 </chapter>

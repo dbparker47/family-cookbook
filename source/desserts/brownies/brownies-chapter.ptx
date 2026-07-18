@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="brownie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Brownies</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="brownies-extra-rich.ptx" />
+  <xi:include href="brownies-regular.ptx" />
+  <xi:include href="brownies-mug.ptx" />
+  <xi:include href="brownies-peanut-butter.ptx" />
+
+</chapter>

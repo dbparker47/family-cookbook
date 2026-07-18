@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="cookie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cookies</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="cookie-chocolate-chip.ptx" />
+  <xi:include href="cookie-chocolate-chip-mug.ptx" />
+  <xi:include href="cookie-gingerbread.ptx" />
+  <xi:include href="cookie-snowballs-joy.ptx" />
+  <xi:include href="cookie-sugar.ptx" />
+
+</chapter>

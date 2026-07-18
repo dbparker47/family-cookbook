@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pies</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="pie-apple-joy.ptx" />
+  <xi:include href="pie-blueberry.ptx" />
+  <xi:include href="pie-chocolate-silk.ptx" />
+  <xi:include href="pie-pudding-genevieve.ptx" />
+  <xi:include href="pie-rhubarb.ptx" />
+  <xi:include href="pie-squash.ptx" />
+  <xi:include href="pie-sweet-potato.ptx" />
+  <xi:include href="crust-regular.ptx" />
+  <xi:include href="crust-graham.ptx" />
+  <xi:include href="crust-gingersnap.ptx" />
+
+</chapter>

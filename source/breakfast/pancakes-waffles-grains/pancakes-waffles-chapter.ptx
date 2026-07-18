@@ -8,6 +8,12 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="french-toast.ptx" />
+  <xi:include href="french-toast-mug.ptx" />
+  <xi:include href="granola-joy.ptx" />
+  <xi:include href="multigrain-waffles.ptx" />
+  <xi:include href="pumpkin-pancakes.ptx" />
+  <xi:include href="sourdough-pancakes-waffles.ptx" />
+  <xi:include href="three-grain-pancakes.ptx" />
 
 </chapter>

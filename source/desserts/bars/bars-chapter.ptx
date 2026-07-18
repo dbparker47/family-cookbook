@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="cookie-bar" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cookies &amp; Bars</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="bar-apple-squares.ptx" />
+  <xi:include href="bar-baklava.ptx" />
+  <xi:include href="bar-blueberry-crumb.ptx" />
+  <xi:include href="bar-caramel-squares.ptx" />
+  <xi:include href="bar-chocolate-chip-oatmeal.ptx" />
+  <xi:include href="bar-chocolate-peanut-butter.ptx" />
+  <xi:include href="bar-fudge-easy-joy.ptx" />
+  <xi:include href="bar-fudge-peeny-butter.ptx" />
+  <xi:include href="bar-lemon.ptx" />
+  <xi:include href="bar-nanaimo.ptx" />
+  <xi:include href="bar-passion.ptx" />
+  <xi:include href="bar-raspberry-oatmeal.ptx" />
+
+</chapter>

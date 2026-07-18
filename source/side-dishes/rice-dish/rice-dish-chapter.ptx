@@ -8,6 +8,9 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="butternut-squash-risotto.ptx" />
+  <xi:include href="greek-pilaf.ptx" />
+  <xi:include href="rice-broccoli-feta-saute.ptx" />
+  <xi:include href="wild-rice-broccoli-tomatoes-feta.ptx" />
 
 </chapter>

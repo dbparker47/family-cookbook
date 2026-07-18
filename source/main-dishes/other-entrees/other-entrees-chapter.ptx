@@ -8,6 +8,21 @@
   </introduction>
 
   <!-- include sections -->
+  <xi:include href="burritos-spanish-rice.ptx" />
+  <xi:include href="burritos-wet.ptx" />
+  <xi:include href="chicken-not-pie.ptx" />
+  <xi:include href="chicken-roasted.ptx" />
+  <xi:include href="chicken-salad-santa-rosa.ptx" />
+  <xi:include href="chili-silly.ptx" />
+  <xi:include href="curry-lentil-sweet-potato.ptx" />
   <xi:include href="curry-red-dwarf.ptx" />
+  <xi:include href="grain-dish.ptx" />
+  <xi:include href="stir-fry-charlie.ptx" />
+  <xi:include href="stir-fry-hoisin.ptx" />
+  <xi:include href="vegetable-couscous.ptx" />
+  <xi:include href="veggie-burger.ptx" />
+  <xi:include href="wild-rice-patties.ptx" />
+  <xi:include href="zuccanoes.ptx" />
+  <xi:include href="zucchini-feta-pancakes.ptx" />
 
 </chapter>

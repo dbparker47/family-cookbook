@@ -8,6 +8,16 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="bread-pudding.ptx" />
+  <xi:include href="doughnuts-apple-cider.ptx" />
+  <xi:include href="doughnuts-basic.ptx" />
+  <xi:include href="faktong-sangkaya.ptx" />
+  <xi:include href="ice-cream-bag.ptx" />
+  <xi:include href="ice-cream-no-churn.ptx" />
+  <xi:include href="mystery-chocolate-dessert.ptx" />
+  <xi:include href="pumpkin-bread.ptx" />
+  <xi:include href="puppy-chow-muddy-buddies.ptx" />
+  <xi:include href="strawberry-rhubarb-crisp.ptx" />
+  <xi:include href="upside-down-peach-crisp-mug.ptx" />
 
 </chapter>

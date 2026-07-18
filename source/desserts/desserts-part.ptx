@@ -4,8 +4,10 @@
   <title>Desserts</title>
 
   <!-- include sections -->
-  <!-- <xi:include href="cakes-brownies/cakes-brownies-chapter.ptx" /> -->
-  <!-- <xi:include href="cookies-bars/cookies-bars-chapter.ptx" /> -->
+  <!-- <xi:include href="brownies/brownies-chapter.ptx" /> -->
+  <!-- <xi:include href="cakes/cakes-chapter.ptx" /> -->
+  <!-- <xi:include href="bars/bars-chapter.ptx" /> -->
+  <!-- <xi:include href="cookies/cookies-chapter.ptx" /> -->
   <!-- <xi:include href="pies/pies-chapter.ptx" /> -->
   <!-- <xi:include href="other-desserts/other-desserts-chapter.ptx" /> -->
 

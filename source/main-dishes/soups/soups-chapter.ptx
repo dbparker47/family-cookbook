@@ -8,6 +8,24 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="avocado-banana.ptx" />
+  <xi:include href="black-bean.ptx" />
+  <xi:include href="butternut-squash-garbanzo.ptx" />
+  <xi:include href="chicken-noodle.ptx" />
+  <xi:include href="chilled-avocado.ptx" />
+  <xi:include href="chinese-noodle.ptx" />
+  <xi:include href="creamy-wild-rice.ptx" />
+  <xi:include href="curried-peanut.ptx" />
+  <xi:include href="eggplant-supper.ptx" />
+  <xi:include href="french-onion-famous-barr.ptx" />
+  <xi:include href="irish-potato-chowder.ptx" />
+  <xi:include href="mediterranean-lemon.ptx" />
+  <xi:include href="ramen-shoyu.ptx" />
+  <xi:include href="roasted-garlic-butternut.ptx" />
+  <xi:include href="split-pea.ptx" />
+  <xi:include href="thai-red-curry-noodle.ptx" />
+  <xi:include href="tomato-potato-lentil.ptx" />
+  <xi:include href="tomato-rice.ptx" />
+  <xi:include href="vegetable.ptx" />
 
 </chapter>

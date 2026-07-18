@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="hotdish" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hotdishes</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="hotdish-black-bean-enchilada.ptx" />
+  <xi:include href="hotdish-couscous-spinach.ptx" />
+  <xi:include href="hotdish-enchilada-casserole.ptx" />
+  <xi:include href="hotdish-meatless-loaf.ptx" />
+  <xi:include href="hotdish-meatloaf.ptx" />
+  <xi:include href="hotdish-scheherazade.ptx" />
+
+</chapter>

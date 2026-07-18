@@ -8,6 +8,9 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="beef-burgundy.ptx" />
+  <xi:include href="beef-stew.ptx" />
+  <xi:include href="sassy-sausage.ptx" />
+  <xi:include href="teryaki-pulled-pork.ptx" />
 
 </chapter>

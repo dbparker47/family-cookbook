@@ -8,6 +8,8 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="butternut-senator-russell.ptx" />
+  <xi:include href="potatoes-mashed-colcannon.ptx" />
+  <xi:include href="green-beans-holiday.ptx" />
 
 </chapter>
