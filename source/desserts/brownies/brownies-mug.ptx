@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="mug-brown" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mug Brownie</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons cocoa</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 tablespoons canola oil</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>2 tablespoons water</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,12 @@
     <ol>
       <li>
         <p>
-          
+          Mix ingredients in a mug.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Microwave for 50 seconds.
         </p>
       </li>
     </ol>
