@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="choc-chip-mug" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chocolate Chip Cookie (Mug)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Pinch of salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon each brown/white sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 egg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoons vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 heaping tablespoons flour</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 tablespoon chocolate chips</cell>
     </row>
   </tabular>
 
@@ -46,22 +34,12 @@
     <ol>
       <li>
         <p>
-          
+          Melt butter.  Add sugar, vanilla, and egg.  Mix together.  Add flour and stir.  Add chocolate chips and stir.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Microwave for 50 seconds on half power (one cookie).
         </p>
       </li>
     </ol>

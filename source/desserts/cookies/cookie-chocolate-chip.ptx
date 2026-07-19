@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="choc-chip" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chocolate Chip Cookies</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup packed brown sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking soda, dissolved in 2 teaspoons hot water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups chocolate chips</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 cup chopped walnuts (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,32 @@
     <ol>
       <li>
         <p>
-          
+          Cream together butter, sugar, brown sugar until smooth.
         </p>
       </li>
       <li>
         <p>
-          
+          Beat in the eggs, one at a time, and then stir in vanilla.  Add in dissolved baking soda and salt.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in flour, chololate chips, and nuts.  Drop large spoonfuls onto ungreased pans (20 cookies per sheet).
         </p>
       </li>
       <li>
         <p>
-          
+          Bake for 20 minutes at <m>350^\circ</m>, or until edges are nicely browned.
+        </p>
+      </li>
+      <li>
+        <p>
+          For air fryer, bake 4 cookies on parchment paper with holes cut in them for 12? minutes at <m>325^\circ</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          If making as cookie bars, bake at <m>375^\circ</m> for 31 minutes for a full recipe and 25 minutes for half recipe.
         </p>
       </li>
     </ol>
@@ -72,7 +79,7 @@
     <ul>
       <li>
         <p>
-          
+          If making cookie bars, use <m>1 \frac{1}{2}</m> cups chocolate chips.
         </p>
       </li>
     </ul>
