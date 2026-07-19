@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="caramel-bar" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Caramel Squares</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Shortbread Crust:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter, softened</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>3 tablespoons brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Caramel:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 14-ounce can sweetened condensed milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Topping:</term></cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>6 ounces baking chocolate (milk or semisweet?)</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,32 @@
     <ol>
       <li>
         <p>
-          
+          To make the shortbread crust: Sift flour into a bowl. Rub in butter with your fingertips until the mixture resembles fine bread crumbs. Mix in brown sugar and shape dough into a ball.
         </p>
       </li>
       <li>
         <p>
-          
+          Press dough into a greased 9-inch square pan. Prick all over with a fork.  Bake at <m>375^\circ</m> until set and golden brown, about 18 to 20 minutes. Let cool.
         </p>
       </li>
       <li>
         <p>
-          
+          To make the caramel: Combine condensed milk, butter, and brown sugar in a nonstick saucepan over medium-low heat. Cook, stirring constantly, until caramel comes to a boil. Reduce heat and cook until golden and pulling away from the sides of the pan, 5 to 10 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour caramel over cooled crust and refrigerate until firm to the touch, about 1 hour.
+        </p>
+      </li>
+      <li>
+        <p>
+          To make the chocolate topping: Place chocolate in top of a double boiler over simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread melted chocolate over cooled caramel. Refrigerate until chocolate hardens, about 15 minutes. Cut into bars.
         </p>
       </li>
     </ol>

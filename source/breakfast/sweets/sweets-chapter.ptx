@@ -7,7 +7,6 @@
     <p> Text before the first section. </p>
   </introduction>
 
-  <!-- include sections -->
   <xi:include href="baked-apple-pancake.ptx" />
   <xi:include href="bubble-bread-joy.ptx" />
   <xi:include href="cinnamon-rolls-joy.ptx" />

@@ -3,8 +3,8 @@
 <part xml:id="break" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Breakfast</title>
 
-  <!-- <xi:include href="pancakes-waffles/pancakes-waffles-chapter.ptx" /> -->
+  <xi:include href="pancakes-waffles-grains/pancakes-waffles-grains-chapter.ptx" />
   <xi:include href="eggs/eggs-chapter.ptx" />
-  <!-- <xi:include href="sweets/sweets-chapter.ptx" /> -->
+  <xi:include href="sweets/sweets-chapter.ptx" />
 
 </part>

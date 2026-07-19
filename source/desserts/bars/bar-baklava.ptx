@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="baklava" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Baklava</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>16 ounces phyllo dough thawed by package instructions</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 tablespoons unsalted butter, melted</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound walnuts, finely chopped (about 4 cups)</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon ground cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup white sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup honey</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Melted chocolate chips &amp; chopped walnuts for garnish (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +40,79 @@
     <ol>
       <li>
         <p>
-          
+          Thaw phyllo dough by package instructions (this is best done overnight in the fridge, then place it on the counter for 1 hr before starting your recipe to bring it to room temp).
         </p>
       </li>
       <li>
         <p>
-          
+          Trim phyllo dough to fit your baking dish. My phyllo package had 2 rolls with a total of 40 sheets that measured 9x14 so I had to trim them slightly. You can trim one stack at a time then cover with a damp towel to keep from drying out.
         </p>
       </li>
       <li>
         <p>
-          
+          Butter the bottom and sides of a 13" x 9" non-stick baking pan.
         </p>
       </li>
       <li>
         <p>
-          
+          In a medium saucepan, combine 1 cup sugar, <m>\frac{1}{2}</m> cup honey, 2 Tbsp lemon juice, and <m>\frac{3}{4}</m> cup water. Bring to a boil over med/high heat, stirring until sugar is dissolved, then reduce heat to med/low and boil additional 4 min without stirring. Remove from heat and let syrup cool while preparing baklava.
+        </p>
+      </li>
+      <li>
+        <p>
+          Pulse walnuts 10 times in a food process or until coarsely ground/ finely chopped. In a medium bowl, stir together: 4 cups finely chopped walnuts and 1 tsp cinnamon.
+        </p>
+      </li>
+      <li>
+        <p>
+          Place 10 phyllo sheets into baking pan one at a time, brushing each sheet with butter once it's in the pan before adding the next (i.e. place phyllo sheet into pan, brush the top with butter, place next phyllo sheet in pan, butter the top, etc. etc.). Keep remaining phyllo covered with a damp towel at all times. Spread about <m>\frac{1}{5}</m> of nut mixture (about <m>\frac{3}{4}</m> cup) over phyllo dough.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add 5 buttered sheets of phyllo, then another layer of nuts. Repeat x 4. Finish off with 10 layers of buttered phyllo sheets. Brush the very top with butter.   Here is the order of the layers:
+          <ul>
+            <li>
+              <p>
+                10 buttered phyllo sheets, <m>\frac{3}{4}</m> cup nut mixture
+              </p>
+            </li>
+            <li>
+              <p>
+                5 buttered phyllo sheets, <m>\frac{3}{4}</m> cup nut mixture
+              </p>
+            </li>
+            <li>
+              <p>
+                5 buttered phyllo sheets, <m>\frac{3}{4}</m> cup nut mixture
+              </p>
+            </li>
+            <li>
+              <p>
+                5 buttered phyllo sheets, <m>\frac{3}{4}</m> cup nut mixture
+              </p>
+            </li>
+            <li>
+              <p>
+                5 buttered phyllo sheets, <m>\frac{3}{4}</m> cup nut mixture
+              </p>
+            </li>
+            <li>
+              <p>
+                10 buttered phyllo sheets and butter the top
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Cut pastry into <m>1 \frac{1}{2}</m>" wide strips, then cut diagonally to form diamond shapes. Bake at <m>325^\circ</m>F for 1 hour and 15 min or until tops are golden brown.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove from oven and immediately spoon cooled syrup evenly over the hot baklava (you'll hear it sizzle). This will ensure that it stays crisp rather than soggy. Let baklava cool completely, uncovered and at room temp. For best results, let baklava sit 4-6 hours or overnight at room temperature for the syrup to penetrate and soften the layers. Garnish baklava with finely chopped nuts or drizzle with melted chocolate. Store at room temp, covered with a tea towel for 1 to 2 weeks.
         </p>
       </li>
     </ol>

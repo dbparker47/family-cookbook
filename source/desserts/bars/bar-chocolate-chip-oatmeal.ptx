@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="oatmeal-choc-chip-bar" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Oatmeal Chocolate Chip Bars</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup butter, softened</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{4}</m> cups firmly packed brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 /frac{3}{4}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> cups oats</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 ounces chocolate chips</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,32 @@
     <ol>
       <li>
         <p>
-          
+          Beat butter and sugars until creamy.
         </p>
       </li>
       <li>
         <p>
-          
+          Add eggs, milk, and vanilla; beat well.
         </p>
       </li>
       <li>
         <p>
-          
+          Add combined flour, baking soda, and salt; mix well.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in oats and chocolate chips; mix well.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread dough in 9'' x 13'' pan.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>375^\circ</m> for 35-40 minutes.
         </p>
       </li>
     </ol>
