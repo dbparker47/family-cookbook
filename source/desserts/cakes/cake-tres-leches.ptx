@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="tres-leches" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Tres Leches Cake</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter, melted and cooled, plus more for baking dish</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking powder</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 large eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup sugar, divided</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>14 ounces sweetened condensed milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 ounces evaporated milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup whole milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups heavy cream</cell>
+    </row>
+    <row>
+      <cell>5 cups fresh fruit (e.g. oranges, berries) for serving</cell>
     </row>
   </tabular>
 
@@ -46,22 +49,32 @@
     <ol>
       <li>
         <p>
-          
+          In a medium bowl, whisk together flour, baking powder, and salt.
         </p>
       </li>
       <li>
         <p>
-          
+          In a large bowl, using an electric mixer, beat eggs and <m>\frac{3}{4}</m> cup sugar on high until pale and thick, about 4 minutes. Add vanilla and beat to combine.
         </p>
       </li>
       <li>
         <p>
-          
+          With mixer on low, gradually add flour mixture and beat to combine. With a rubber spatula, fold in melted butter until incorporated.
         </p>
       </li>
       <li>
         <p>
-          
+          Transfer batter to prepared dish and bake until top is golden brown and a toothpick inserted in center comes out clean (30 minutes) rotating dish halfway through.
+        </p>
+      </li>
+      <li>
+        <p>
+          In a medium bowl, whisk together milks. Poke warm cake all over with a wooden skewer or toothpick, then pour milk mixture over top and let cool to room temperature, about 1 hour.
+        </p>
+      </li>
+      <li>
+        <p>
+          Whip cream and <m>\frac{1}{4}</m> cup sugar to medium peaks. To serve, spread whipped cream evenly over cooled cake. Top with fruit if desired.
         </p>
       </li>
     </ol>
