@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="rasp-oat-bar" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Raspberry Oatmeal Bars</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup rolled oats</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup packed light brown sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{8}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter, softened</cell>
     </row>
   </tabular>
 
@@ -46,22 +31,27 @@
     <ol>
       <li>
         <p>
-          
+          Combine flour, oats, brown sugar, baking soda, and salt in a large bowl. Rub in butter using a silicone spatula to form a crumbly mixture.
         </p>
       </li>
       <li>
         <p>
-          
+          Line 8" x 8" square pan with greased foil. Press 2 cups oat mixture into the bottom of the pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Spread jam to within 1/4 inch of the edge.
         </p>
       </li>
       <li>
         <p>
-          
+          Sprinkle remaining crumb mixture on top; press down lightly into jam.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>350^\circ</m> for 35-40 minutes. Let it cool before cutting into bars.
         </p>
       </li>
     </ol>

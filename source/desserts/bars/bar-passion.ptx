@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="passion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Passion Bars</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 cups quick cooking oats</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup brown sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup butter, softened</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>14 ounce can sweetened condensed milk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup peanut butter</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,12 @@
     <ol>
       <li>
         <p>
-          
+          In a large bowl, stir together the oats, flour, brown sugar, salt and baking soda. Cut in the butter to form a crumbly mixture. Reserve <m>1 \frac{1}{2}</m> cups of the crumbs, and pat the rest evenly into the bottom of the a greased 9" x 13" pan. In a medium bowl, stir together the sweetened condensed milk and peanut butter. Spread evenly over the oatmeal layer. Sprinkle the chocolate chips over the peanut butter layer, then crumble the reserved crust over the top.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Bake at <m>350^\circ</m> for 30 to 35 minutes, until golden brown. Cool completely before cutting into bars.
         </p>
       </li>
     </ol>
