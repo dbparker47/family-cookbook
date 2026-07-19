@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="lem-cake" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lemon Cake</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
+  <row>
+    <cell><term>Cake:</term></cell>
+  </row>
     <row>
-      <cell></cell>
+      <cell>1 lemon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cups all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons baking powder</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 ounces lemon yogurt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup unsalted butter, softened</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{3}{4}</m> cups sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Frosting:</term></cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> cup unsalted butter, softened</cell>
+    </row>
+    <row>
+      <cell>16 ounces confectioner's sugar</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons lemon juice (from above)</cell>
     </row>
   </tabular>
 
@@ -46,22 +58,32 @@
     <ol>
       <li>
         <p>
-          
+          Coat two 9-inch round cake pans with nonstick cooking spray.  Line pans with waxed paper (trace cake pan on waxed paper and cut out circle first).  Spray paper.
         </p>
       </li>
       <li>
         <p>
-          
+          For cake, combine flour, baking powder, and salt in a medium-size bowl.  In a measuring cup, whisk together milk, yogurt, and vanilla.  In a large bowl, beat butter and sugar together on medium speed until light and fluffy.  Beat in eggs, one at a time, beating well after each.
         </p>
       </li>
       <li>
         <p>
-          
+          On low speed, beat flour mixture into butter mixture in three additions, alternating with milk mixture.  Beat well after each addition.  Fold in zest.  Divide batter evenly between the two prepared pans.
         </p>
       </li>
       <li>
         <p>
-          
+          Bake layers at <m>350^\circ</m> for 35 minutes or until cake springs back when pressed lightly.  Cool in pans on wire rack for 10 minutes.  Carefully invert cake  layers directly onto racks, remove and discard waxed paper, and let layers cool completely.
+        </p>
+      </li>
+      <li>
+        <p>
+          For frosting, once layers are cool, beat butter, 1 cup of confectioners' sugar, the lemon juice, and 2 tablespoons water in a large bowl until smooth.  Gradually beat in the remaining confectioners' sugar until good spreading consistency.
+        </p>
+      </li>
+      <li>
+        <p>
+          To frost cake, place one layer on a plate or stand.  Spread top of layer with 1 cup frosting.  Stack second layer on first, and begin frosting side of cake. Continue around side of cake, then finish top, swirling decoratively.  Serve immediately, or refrigerate before slicing and serving.
         </p>
       </li>
     </ol>

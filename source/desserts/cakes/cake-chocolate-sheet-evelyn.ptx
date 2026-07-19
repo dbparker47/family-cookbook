@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="chocolate-sheet" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chocolate Sheet Cake (Aunt Evelyn) </title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Cake:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup oil</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4 tablespoons cocoa (30 gm)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups flour (250 gm)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups sugar (400 gm)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs, beaten</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon cinnamon (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon baking soda</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup buttermilk or clabbered milk</cell>
+    </row>
+    <row>
+      <cell><term>Frosting:</term></cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
+    </row>
+    <row>
+      <cell>6 tablespoons milk</cell>
+    </row>
+    <row>
+      <cell>4 tablespoons cocoa (30 gm)</cell>
+    </row>
+    <row>
+      <cell><m>3 \frac{1}{2}</m> to 4 cups powdered sugar (480 gm)</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon vanilla</cell>
+    </row>
+    <row>
+      <cell>1 cup nuts (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +70,27 @@
     <ol>
       <li>
         <p>
-          
+          For the cake, bring butter, oil, cocoa, and water to a boil.  Pour over the sugar and flour, and blend well.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the eggs, vanilla, cinnamon, baking soda, and milk.  Blend well.
         </p>
       </li>
       <li>
         <p>
-          
+          Place in a greased 9" x 13" pan.  Bake at <m>400^\circ</m> for 20 minutes or until a toothpick comes out dry.
         </p>
       </li>
       <li>
         <p>
-          
+          For the frosting, melt the butter and mix in the milk and cocoa well.  Bring to a rapid boil and remove from heat.
+        </p>
+      </li>
+      <li>
+        <p>
+          Stir in powdered sugar until smooth. Add vanilla and nuts.  Spread on cake as soon as it comes out of the oven.
         </p>
       </li>
     </ol>

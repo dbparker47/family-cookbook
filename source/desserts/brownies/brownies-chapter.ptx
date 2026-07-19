@@ -8,8 +8,9 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="brownies-extra-rich.ptx" />
   <xi:include href="brownies-regular.ptx" />
+  <xi:include href="brownies-genevieve.ptx" />
+  <xi:include href="brownies-extra-rich.ptx" />
   <xi:include href="brownies-mug.ptx" />
   <xi:include href="brownies-peanut-butter.ptx" />
 
