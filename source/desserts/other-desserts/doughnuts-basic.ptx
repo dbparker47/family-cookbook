@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="dough-basic" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Doughnuts - Basic</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> teaspoons baking powder</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>9 tablespoons butter, melted</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup milk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 egg, lightly beaten</cell>
     </row>
   </tabular>
 
@@ -46,22 +31,17 @@
     <ol>
       <li>
         <p>
-          
+          Combine all dry ingredients in one mixing bowl; combine all wet ingredients in another mixing bowl.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour wet ingredients into dry ingredients; mix until batter is smooth.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Cook in doughnut maker.
         </p>
       </li>
     </ol>

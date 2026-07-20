@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sugar-cookie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sugar Cookies</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>3 \frac{1}{2}</m> cups sifted flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup butter, softened</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup white sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Powdered sugar, for rolling out dough</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><alert>Icing</alert></cell>
     </row>
   </tabular>
 
@@ -46,22 +37,37 @@
     <ol>
       <li>
         <p>
-          
+          Resift flour with the salt.
         </p>
       </li>
       <li>
         <p>
-          
+          Beat butter and sugar in a medium bowl until creamy.  Add egg and vanilla, and beat until blended.
         </p>
       </li>
       <li>
         <p>
-          
+          Add flour mixture into butter mixture, and mix just enough to combine the ingredients.  Refrigerate dough until firm (2 hours?).
         </p>
       </li>
       <li>
         <p>
-          
+          Roll out some dough until it is <m>\frac{1}{8}</m> inch thick.  Cut cookie dough into shapes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake on ungreased cookie sheet for 10 minutes for people and 8 minutes for candy canes at <m>375^\circ</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          For air fryer, place in basket.  Bake 3 <q>people</q> cookies at <m>375^\circ</m> for 5-6 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Put on icing after cookies have cooled a little.
         </p>
       </li>
     </ol>

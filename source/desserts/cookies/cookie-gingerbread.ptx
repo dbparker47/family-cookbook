@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ginger-cookie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Gingerbread Cookies</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon cloves</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon baking soda</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>2 \frac{1}{2}</m> teaspoons ground ginger</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> teaspoons cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{3}{4}</m> sticks butter (14 tablespoons)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup packed brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 egg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><alert>Glaze</alert> (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,32 @@
     <ol>
       <li>
         <p>
-          
+          Sift flour, baking soda, ginger, cinnamon, and cloves into large bowl.
         </p>
       </li>
       <li>
         <p>
-          
+          Beat butter and brown sugar in a medium bowl until creamy.  Add egg and vanilla extract, and beat until blended.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir flour mixture into butter mixture, blending well.  Refrigerate dough until firm.
         </p>
       </li>
       <li>
         <p>
-          
+          Roll out some dough until it is <m>\frac{3}{8}</m> inch thick.  Cut cookie dough into shapes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake on ungreased cookie sheet for 15 minutes for people and 11 minutes for candy canes at <m>350^\circ</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Put icing on after they cool a little.
         </p>
       </li>
     </ol>
