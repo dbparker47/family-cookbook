@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="fak-sang" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Faktong Sangkaya</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 small-ish kabocha squash (or pie pumpkin?)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup coconut milk, full-fat</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup brown sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon rice flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 whole eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 egg yolk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon vanilla extract</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,22 @@
     <ol>
       <li>
         <p>
-          
+          Stir the coconut milk, salt, and sugar together in a pot and heat it over medium-low, stirring occasionally until the sugar dissolves. Turn off the heat and pour the mixture into a measuring cup. Allow it to cool to room temperature.</cell>
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, use a strong paring knife to carve around the stem of the kabocha squash. Remove the <q>lid</q> and hold onto it for decorative plating purposes, or discard it. Scoop out the seeds and soft fibrous center. Discard that stuff. Pour water into a large pot with a steamer insert at the bottom, the water should not be high enough to touch the bottom of the pumpkin. Place the hollowed out kabocha inside.</cell>
         </p>
       </li>
       <li>
         <p>
-          
+          Spoon a couple tablespoons of the cooled coconut milk mixture into a separate bowl and whisk the rice flour into it until it dissolves. Add it back into the rest of the coconut milk. In a large bowl, whisk together the eggs and then slowly incorporate the coconut milk mixture.</cell>
         </p>
       </li>
       <li>
         <p>
-          
+          Hold a sieve over the top of the kabocha and pour the custard through the sieve directly into the squash. Stop once it just reaches the top of the inside cavity. (You may have extra custard depending on the size of the squash.) Put the lid on the steamer and steam the faktong sangkaya over medium-low heat for 45 to 50 minutes. When it’s done, the center custard will puff up, and internal temperature will read <m>150^\circ</m>F to <m>160^\circ</m>F. Allow the faktong sankaya to cool for at least 20 minutes before handling and slicing into wedges. (perhaps sprinkle slices with a little salt.)</cell>
         </p>
       </li>
     </ol>
