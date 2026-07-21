@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="pump-bread" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pumpkin Bread</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>3 cups sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>3 \frac{1}{2}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon baking soda</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>1 \frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon cloves</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon nutmeg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup cooking oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups pumpkin puree</cell>
     </row>
   </tabular>
 
@@ -46,12 +46,12 @@
     <ol>
       <li>
         <p>
-          
+          Place all dry ingredients (through nutmeg) in a bowl, and make a hole in the middle.  Mix in wet ingredients.
         </p>
       </li>
       <li>
         <p>
-          
+          Put mixture in greased and floured pans.  Bake 1 to <m>1 \frac{1}{2}</m> hours at <m>325^\circ</m>. Makes 4 small loaves.
         </p>
       </li>
       <li>
