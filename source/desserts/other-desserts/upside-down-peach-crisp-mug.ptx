@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="peach-crisp-mug" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Upside Down Peach Crisp (Mug)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons oats (asks for quick oats, soak old-fashioned oats?</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon chopped pecans</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon lemon zest</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 peach, chopped</cell>
     </row>
   </tabular>
 
@@ -46,22 +34,12 @@
     <ol>
       <li>
         <p>
-          
+          Briefly microwave oil in a 16-oz mug to thin it out.  Stir in oats, pecans, brown sugar, flour, lemon zest, and <m>\frac{1}{4}</m> teaspoon cinnamon.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          In a bowl, toss peach, flour, and <m>\frac{1}{4}</m> teaspoon cinnamon.  Add peaches to mug and microwave until bubbly, about 2 minutes.
         </p>
       </li>
     </ol>

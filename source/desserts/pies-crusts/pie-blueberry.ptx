@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="blue-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Blueberry Pie</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><alert>Regular Pie Crust</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>3 \frac{1}{2}</m> to 4 tablespoons corn starch</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 cups (approximately 2 pounds) blueberries</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 teaspoon grated lemon zest</cell>
     </row>
   </tabular>
 
@@ -46,22 +31,17 @@
     <ol>
       <li>
         <p>
-          
+          Mix sugar, cornstarch, and cinnamon, and sprinkle over blueberries.
         </p>
       </li>
       <li>
         <p>
-          
+          Line pie dish with one pie crust. Pour berry mixture into the crust, and dot with butter. Cut remaining pastry into <m>\frac{1}{2}</m> to <m>\frac{3}{4}</m> inch wide strips, and make lattice top. Crimp and flute edges.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Bake pie on lower shelf of oven at <m>425\circ</m> for about 50 minutes, or until crust is golden brown.
         </p>
       </li>
     </ol>

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="choc-silk" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chocolate Silk Pie</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><alert>Graham Pie Crust</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 to 5 large eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> to 1 cup sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 to <m>2 \frac{1}{2}</m> tablespoons water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>10 to <m>12 \frac{1}{2}</m> tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 to 4 ounces bittersweet or semisweet chocolate, melted and cooled slightly</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> to 2 teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup heavy cream</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons confectioner's sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Chocolate shavings, for garnish</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,17 @@
     <ol>
       <li>
         <p>
-          
+          Fill a medium pot with 1 inch water over medium heat. Whisk the eggs with <m>\frac{1}{2}</m> to <m>\frac{2}{3}</m> cup of the sugar and the water in a large heatproof bowl that will fit over the pot without touching the water. Place the bowl over the simmering water and continue whisking constantly until the eggs become thick and fluffy, and a drizzle of the mixture will hold its shape and sit on top of the custard, about 5 minutes. Remove from the heat and set aside to cool, whisking occasionally so the eggs do not scramble.
         </p>
       </li>
       <li>
         <p>
-          
+          Combine the butter, salt and remaining <m>\frac{1}{4}</m> to <m>\frac{1}{3}</m> cup sugar in a medium bowl and beat in a stand mixer or with hand beaters on medium-high speed until fluffy. Pour in the chocolate and <m>1 \frac{1}{4}</m> to <m>1 \frac{1}{2}</m> teaspoons of the vanilla and continue to beat, scraping down the sides of the bowl as needed, until combined. Add the custard and continue to beat until the filling is thick, fluffy and smooth, about 5 minutes.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Spread into the pie crust and cover with plastic wrap. Chill until cold and set, 2 to 3 hours. Before serving, whip the cream with the confectioners' sugar and remaining <m>\frac{1}{4}</m> teaspoon vanilla until it forms soft peaks. Spread over the pie filling and garnish with chocolate shavings.
         </p>
       </li>
     </ol>

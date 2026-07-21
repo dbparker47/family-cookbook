@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="rhu-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Rhubarb Pie </title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><alert>Regular Pie Crust</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{2}{3}</m> cups white sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 tablespoons all-purpose flour</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4+ cups chopped rhubarb</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 tablespoon butter</cell>
     </row>
   </tabular>
 
@@ -46,17 +28,17 @@
     <ol>
       <li>
         <p>
-          
+          Combine sugar and flour in a bowl; sprinkle <m>\frac{1}{4}</m> of the sugar mixture over the prepared bottom crust.
         </p>
       </li>
       <li>
         <p>
-          
+          Heap rhubarb on top and sprinkle with remaining sugar mixture. Dot with butter and cover with top crust.
         </p>
       </li>
       <li>
         <p>
-          
+          Bake pie at <m>450\circ</m> for 15 minutes.  Reduce temperature to <m>350\circ</m> F and continue baking until filling is bubbly and crust is golden brown, 40 to 45 minutes.
         </p>
       </li>
       <li>

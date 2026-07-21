@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="app-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Apple Pie (Grandma Joy)</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><alert>Regular Pie Crust</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>8 to 9 Tart Apples</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon all-purpose flour</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon cinnamon</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Dots of butter</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,17 @@
     <ol>
       <li>
         <p>
-          
+          Break crust into two pieces.  Flatten each with a rolling pin.  Put one into pie pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Put apples on crust in pie pan.  Mix flour, sugar, and cinnamon together and pour over apples.  Dot with butter.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Bake at <m>425\circ</m> for 25 minutes with aluminum foil around the edge of the crust.  Bake 25 minutes more without aluminum foil.
         </p>
       </li>
     </ol>

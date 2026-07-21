@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sweet-pot-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sweet Potato Pie</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Half-recipe of <alert>Regular Pie Crust</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 medium sweet potatoes, baked (3 cups, cooked)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter, melted</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 large eggs, beaten</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup milk, whole or evaporated</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon cinnamon (less?)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon ground or grated fresh ginger (less?)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon nutmeg (less?)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{8}</m> teaspoon ground cloves or allspice (less?)</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,17 @@
     <ol>
       <li>
         <p>
-          
+          Mix together filling ingredients.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour filling into crust.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Bake at <m>400\circ</m> for 60 minutes, or until center of pie barely jiggles when you shake it.
         </p>
       </li>
     </ol>
