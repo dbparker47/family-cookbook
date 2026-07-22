@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ench-cass" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Enchilada Casserole</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 pound ground beef</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large onion, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups salsa</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>15 ounces black beans, rinsed and drained</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>8 ounces corn</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons <alert>taco seasoning</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon ground cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 flour tortillas</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup plain yogurt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup Mexican or cheddar cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup shredded lettuce</cell>
+    </row>
+    <row>
+      <cell>1 medium tomato</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> cup minced fresh cilantro</cell>
     </row>
   </tabular>
 
@@ -46,22 +52,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook beef and onion over medium heat; drain.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in salsa, beans, corn, taco seasoning, and cumin.  Place three tortillas in a 2-quart baking dish coated with cooking spray. Layer with half the meat mixture, yogurt, and cheese. Repeat layers.
         </p>
       </li>
       <li>
         <p>
-          
+          Cover and bake at <m>400^\circ</m>. for 25 minutes.  Uncover and bake 5 to 10 minutes longer or until heated through.
         </p>
       </li>
       <li>
         <p>
-          
+          Let stand for 5 minutes before topping with lettuce, tomato, and cilantro.
         </p>
       </li>
     </ol>

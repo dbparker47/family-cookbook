@@ -9,6 +9,7 @@
 
   <!-- include sections -->
   <xi:include href="misc-baked-squash.ptx" />
+  <xi:include href="misc-cashew-sauce.ptx" />
   <xi:include href="misc-cream-cheese-frosting.ptx" />
   <xi:include href="misc-custard-powder.ptx" />
   <xi:include href="misc-evaporated-milk.ptx" />

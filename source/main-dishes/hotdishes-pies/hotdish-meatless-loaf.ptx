@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="meatless-loaf" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Meatless Loaf</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 cups minced onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound mushrooms, chopped</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>1 \frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon each basil, thyme, dill</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 to 4 medium cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> pounds carrots, grated</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups bread crumbs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup packed grated cheddar cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs, beaten</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><alert>Cashew sauce</alert></cell>
     </row>
   </tabular>
 
@@ -46,22 +46,22 @@
     <ol>
       <li>
         <p>
-          
+          Lightly oil a 9" x 13" in baking pan.  Preheat the oven to <m>350^\circ</m>.
         </p>
       </li>
       <li>
         <p>
-          
+          In a large skillet, saute onions in butter over medium heat for about 5 minutes.  Add mushrooms, salt, herbs, and garlic, and continue to saute for about 10 more minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          In a large bowl, combine carrots, bread crumbs, cheese, and eggs.  Add the sauteed mixture and mix well.  Spread into prepared pan and sprinkle with bread crumbs.  Cover the pan with foil.
         </p>
       </li>
       <li>
         <p>
-          
+          Bake for 30 minutes covered, then uncover and bake 15 minutes more. Cover with cashew sauce.
         </p>
       </li>
     </ol>

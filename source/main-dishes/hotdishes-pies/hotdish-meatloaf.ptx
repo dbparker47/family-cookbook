@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="m-loaf" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Meat Loaf</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>12 ounces ground chuck</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 ounces ground sirloin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups onions, finely chopped</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup rolled oats</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup ketchup</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup fresh parsley</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 extra-large eggs, lightly beaten</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon ground thyme</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon salt (optional)</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon black pepper (optional)</cell>
     </row>
   </tabular>
 
@@ -46,17 +43,17 @@
     <ol>
       <li>
         <p>
-          
+          Combine all ingredients in a large bowl. Knead mixture with your hands until everything is well blended.  Do not overmix.
         </p>
       </li>
       <li>
         <p>
-          
+          Fill the loaf pan with the meat mixture, mounding the top. Place the pan on a baking sheet and bake at <m>350^\circ</m> until the meat is firm to the touch and has shrunk from the sides of the pan, or until an instant-read thermometer reads <m>160^\circ</m>. This will take 1 to <m>1 \frac{1}{4}</m> hours.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour off the excess fat and let stand for 15 minutes.
         </p>
       </li>
       <li>
