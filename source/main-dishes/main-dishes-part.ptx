@@ -4,10 +4,11 @@
   <title>Main Dishes</title>
 
   <!-- include sections -->
-  <!-- <xi:include href="crock-pot/crock-pot-chapter.ptx" /> -->
-  <!-- <xi:include href="hotdishes-pies/hotdishes-pies-chapter.ptx" /> -->
-  <!-- <xi:include href="pasta/pasta-chapter.ptx" /> -->
-  <!-- <xi:include href="soups/soups-chapter.ptx" /> -->
-  <!-- <xi:include href="other-entrees/other-entrees-chapter.ptx" /> -->
+  <xi:include href="crock-pot/crock-pot-chapter.ptx" />
+  <xi:include href="hotdishes/hotdishes-chapter.ptx" />
+  <xi:include href="pasta/pasta-chapter.ptx" />
+  <xi:include href="pies/pies-chapter.ptx" />
+  <xi:include href="soups/soups-chapter.ptx" />
+  <xi:include href="other-entrees/other-entrees-chapter.ptx" />
 
 </part>
