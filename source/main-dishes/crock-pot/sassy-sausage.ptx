@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sass-saus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sassy Sausage</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>30 ounces black beans</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound frozen corn</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 quart canned tomatoes</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 cups wild rice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon chile powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 clove garlic</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>2 sausages</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,7 @@
     <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Toss it all into the crockpot.  Cook on low for a long time.
         </p>
       </li>
     </ol>

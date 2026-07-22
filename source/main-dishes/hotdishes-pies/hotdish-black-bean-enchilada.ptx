@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="bean-enchilada" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Black Bean Veggie Enchiladas</title>
 
   <p>
     Ingredients:
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 onion, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 green pepper, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup sliced mushrooms</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 garlic clove, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 ounces black beans, rinsed and drained</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup frozen corn, thawed</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons <alert>taco seasoning</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried cilantro</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 whole wheat tortillas</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup enchilada sauce</cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> cup Mexican or cheddar cheese</cell>
     </row>
   </tabular>
 
@@ -46,22 +49,22 @@
     <ol>
       <li>
         <p>
-          
+          Saute onion, pepper, mushrooms, and garlic in the olive oil.
         </p>
       </li>
       <li>
         <p>
-          
+          Add beans, corn, taco seasoning, and cilantro.  Saute 2 to 3 minutes more.
         </p>
       </li>
       <li>
         <p>
-          
+          Spoon <m>\frac{1}{2}</m> cup bean mixture down the center of each tortilla.  Roll up and place seam side down in a 13" x 9" x 2" baking dish coated with cooking spray.  Pour sauce over the top.  Sprinkle with cheese.
         </p>
       </li>
       <li>
         <p>
-          
+          Bake, uncovered, at <m>350^\circ</m> for 25 to 30 minutes or until heated through.
         </p>
       </li>
     </ol>
