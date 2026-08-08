@@ -6,9 +6,8 @@
 
   <book xml:id="my-great-book">
     <title>Family Recipe Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <subtitle>Recipes from the Parkers, Connicks, Edwards, and Hamptons</subtitle>
 
-    <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <xi:include href="./breakfast/breakfast-part.ptx" />
@@ -19,7 +18,6 @@
     <xi:include href="./side-dishes/side-dishes-part.ptx" />
     <xi:include href="./air-fryer-misc/air-fryer-misc-part.ptx" />
 
-    <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
   </book>
