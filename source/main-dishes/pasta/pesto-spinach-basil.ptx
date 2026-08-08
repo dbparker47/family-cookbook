@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sb-pesto" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spinach Basil Pesto</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 jar sun-dried tomatoes (not sure how much that is)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 to 4 cloves garlic</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 wedge feta cheese (not sure how much that is)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Some chopped fresh basil (1 package)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>10 oz spinach, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 red peppers, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> to <m>\frac{3}{4}</m> cup Parmesan cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup pine nuts, lightly toasted</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Fusilli pasta</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,7 @@
     <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Mix ingredients (except pine nuts) in a bowl.  Let sit all day.  Stir occasionally.
         </p>
       </li>
     </ol>

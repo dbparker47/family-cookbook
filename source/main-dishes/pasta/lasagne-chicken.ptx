@@ -1,44 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="chick-las" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lasagna - Chicken (Jill Vanderstoep)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cloves garlic, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup flour</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon salt (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups chicken broth</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups mozzarella cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup parmesan cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon oregano</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon pepper (optional)</cell>
+    </row>
+    <row>
+      <cell>8 ounces lasagna noodles, uncooked</cell>
+    </row>
+    <row>
+      <cell>2 cups cottage cheese</cell>
+    </row>
+    <row>
+      <cell>2 cups chicken, cooked and cubed</cell>
+    </row>
+    <row>
+      <cell>20 ounces chopped spinach</cell>
     </row>
   </tabular>
 
@@ -46,22 +61,42 @@
     <ol>
       <li>
         <p>
-          
+          Melt butter in large pan and add garlic.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in flour and salt. Add milk and broth and whisk to prevent lumps.  Heat until it boils, stirring constantly.  Boil for 1 minute.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in mozzarella cheese and <m>\frac{1}{2}</m> cup parmesan cheese.  Add onion, basil, oregano, and pepper.  Stir constantly over low heat until cheese melts.
         </p>
       </li>
       <li>
         <p>
-          
+          Spread <m>\frac{1}{4}</m> of the cheese sauce (from above) in a 9" x 13" ungreased pan.  Top with 3 uncooked noodles.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread half of the cottage cheese, <m>\frac{1}{4}</m> of the cheese sauce, and top with 3 uncooked noodles.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread the remaining cottage cheese; layer the chicken; put spinach over chicken; spread <m>\frac{1}{4}</m> of the cheese sauce.  Top with 3 uncooked noodles.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread remaining cheese sauce, and top with <m>\frac{1}{2}</m> cup parmesan cheese.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>350^\circ</m> for 40 minutes until bubbly and starting to brown. Let stand for 10 to 15 minutes before serving.
         </p>
       </li>
     </ol>

@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="brownie-cakey" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Super Cakey Brownies (Grandma Genevieve)</title>
+<section xml:id="" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Brownies (Grandma Genevieve)</title>
 
   <p>
     Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 stick butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 eggs</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4 ounces unsweetened chocolate melted and cooled</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons vanilla</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup milk</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups walnuts (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,22 @@
     <ol>
       <li>
         <p>
-          
+          Cream the butter and sugar.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the eggs and beat until smooth.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the chocolate, vanilla, flour, &amp; milk, and mix it all together.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in walnuts, if desired.  Bake at <m>325^\circ</m> for 30 minutes in a 9" x 13" pan, because what kind of dummy would try baking it in a 9" x 9" inch pan?
         </p>
       </li>
     </ol>
@@ -72,7 +63,7 @@
     <ul>
       <li>
         <p>
-          
+          These brownies are really good, and super cake-y.
         </p>
       </li>
     </ul>

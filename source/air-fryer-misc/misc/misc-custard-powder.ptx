@@ -1,44 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="cust-powd" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Custard Powder</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup milk powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup corn starch</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> tablespoons vanilla sugar (alternatively, use sugar and vanilla extract in equal amounts when using)</cell>
     </row>
   </tabular>
 
@@ -46,22 +22,12 @@
     <ol>
       <li>
         <p>
-          
+          Add the milk powder, corn starch, and vanilla to a fine mesh sieve over a large bowl. Whisk well to combine.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Transfer to an airtight container and store in the pantry.
         </p>
       </li>
     </ol>
@@ -72,7 +38,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Nanaimo Bars</alert>
         </p>
       </li>
     </ul>

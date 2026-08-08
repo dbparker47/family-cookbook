@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ev-milk" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Evaporated Milk</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Whole milk</cell>
     </row>
   </tabular>
 
@@ -46,22 +16,22 @@
     <ol>
       <li>
         <p>
-          
+          Decide how much evaporated milk you want.
         </p>
       </li>
       <li>
         <p>
-          
+          Multiply that amount by 2.25.  This is how much regular milk you need.
         </p>
       </li>
       <li>
         <p>
-          
+          Gently boil milk until you have the desired amount.  Set stove at 5.5 and stir constantly to maximize evaporation and minimize milk temperature.
         </p>
       </li>
       <li>
         <p>
-          
+          Used in <alert>Fudge (Easy, Grandma Joy)</alert>
         </p>
       </li>
     </ol>

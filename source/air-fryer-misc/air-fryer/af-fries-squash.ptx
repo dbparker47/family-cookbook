@@ -1,44 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="fr-sq" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Fries/Squash</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Potatoes, sweet potatoes, or peeled squash, washed and sliced into fries or cubes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Seasonings (e.g. salt, pepper, smoked paprika)</cell>
     </row>
   </tabular>
 
@@ -46,22 +22,17 @@
     <ol>
       <li>
         <p>
-          
+          Slice potatoes/squash into fries or cubes.
         </p>
       </li>
       <li>
         <p>
-          
+          In a mixing bowl, mix oil and seasonings.  Add the potatoes/squash and toss through the oil/seasoning mixture.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Place the fries/cubes in the air fryer basket. Air fry at <m>400^\circ</m> for 14 minutes (fries) or 19 minutes? (squash), tossing halfway through.
         </p>
       </li>
     </ol>

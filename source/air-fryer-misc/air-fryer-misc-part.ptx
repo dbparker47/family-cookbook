@@ -4,7 +4,7 @@
   <title>Air Fryer &amp; Miscellaneous</title>
 
   <!-- include sections -->
-  <!-- <xi:include href="air-fryer/air-fryer-chapter.ptx" /> -->
-  <!-- <xi:include href="misc/misc-chapter.ptx" /> -->
+  <xi:include href="./air-fryer/air-fryer-chapter.ptx" />
+  <xi:include href="./misc/misc-chapter.ptx" />
 
 </part>

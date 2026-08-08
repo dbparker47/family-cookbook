@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="pot-roll" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Potato Rolls (Grandma Joy)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups warm water (110-115 degrees)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 package active dry yeast (<m>\frac{1}{4}</m> ounce)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup soft shortening</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup lukewarm mashed potatoes</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>7 to <m>7 \frac{1}{2}</m> cups flour</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,17 @@
     <ol>
       <li>
         <p>
-          
+          In bowl, dissolve yeast in water.  (you can add about <m>\frac{1}{2}</m> teaspoon sugar to get it to grow better.) Stir in sugar, salt, shortening, eggs, and potatoes.  Mix in flour with hand until dough is easy to handle.
         </p>
       </li>
       <li>
         <p>
-          
+          Turn onto lightly floured board.  Knead until smooth and elastic.   Place greased side up in a greased bowl.  Cover with damp cloth.  Place in refrigerator.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          About 2 hours before baking, shape dough into rolls.  (you can make 3 small balls to make clover-leafed rolls.)  Cover and let rise until double, <m>1 \frac{1}{2}</m> to 2 hours.  Bake at <m>400^\circ</m> for 11 minutes (13 minutes for pyrex cake pan).  Makes 4 dozen medium rolls.
         </p>
       </li>
     </ol>

@@ -1,44 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="veg-cous" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vegetable Couscous</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 garlic cloves, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion, diced</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 teaspoons ground cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon turmeric</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon paprika</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{8}</m> teaspoon cayenne pepper (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 zucchini, cut into <m>\frac{1}{2}</m> inch cubes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 bunch broccoli, cut up</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 carrots chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 red pepper, diced</cell>
+    </row>
+    <row>
+      <cell>Any other vegetables you'd like</cell>
+    </row>
+    <row>
+      <cell>1 15-ounce can of chickpeas, rinsed and drained</cell>
+    </row>
+    <row>
+      <cell>1 16-oz can tomatoes, finely chopped, with their juice</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup raisins (optional)</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons butter</cell>
+    </row>
+    <row>
+      <cell>1 cup couscous</cell>
+    </row>
+    <row>
+      <cell><m>1 \frac{1}{2}</m> cups vegetable stock</cell>
     </row>
   </tabular>
 
@@ -46,22 +67,22 @@
     <ol>
       <li>
         <p>
-          
+          Heat the olive oil in a large skillet over medium-high heat.  Add the garlic and onion and saute until soft. Sprinkle in the cumin, turmeric, paprika, and cayenne and cook 2 minutes more, stirring often.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in the zucchini, broccoli, carrots, pepper, and any other vegetables.  Also stir in the chickpeas, tomatoes, and raisins.  Cover the pan and lower the heat to medium. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.  (The juices should be thickened at this point.  If they are not, remove the cover and boil a few minutes until thick.)
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, prepare the couscous.  Bring the stock, salt, and butter to a boil.  Stir in the couscous, cover, remove from heat, and let sit 5 minutes or for up to 20 minutes.  Fluff with a fork before serving.
         </p>
       </li>
       <li>
         <p>
-          
+          Serve the couscous with the vegetable mixture mounded in the center.
         </p>
       </li>
     </ol>

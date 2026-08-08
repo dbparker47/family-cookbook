@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="cream-cheese-frost" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cream Cheese Frosting</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>3 ounces cream cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>3 \frac{1}{2}</m> cups powdered sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon vanilla</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Some milk (but not too much)</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,7 @@
     <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Stir together ingredients in a bowl.
         </p>
       </li>
     </ol>
@@ -72,7 +39,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Grandma's Cinnamon Rolls (Joy)</alert>
         </p>
       </li>
     </ul>

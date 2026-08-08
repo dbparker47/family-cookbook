@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="p-fresca" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pasta Fresca</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 cups chopped ripe tomatoes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 to 8 large basil leaves</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large garlic clove</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Salt and pepper to taste</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound bow-tie pasta</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound mozzarella cheese, cut into <m>\frac{1}{2}</m> inch cubes</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Grated parmesan cheese (optional)</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,17 @@
     <ol>
       <li>
         <p>
-          
+          Bring a large pot of water to a rapid boil.
         </p>
       </li>
       <li>
         <p>
-          
+          In a blender or food processor, puree the tomatoes, basil, garlic, and olive oil until smooth.  Add salt and pepper to taste.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Cook the pasta.  Drain.  Toss the pasta immediately with the cubed mozzarella cheese,  Add the sauce and mix well. Top with grated parmesan cheese.
         </p>
       </li>
     </ol>

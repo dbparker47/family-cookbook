@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sp-pea" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Split Pea Soup</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound sausage or ham</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound split peas</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6+ cups water</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>5 to 6 carrots</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried parsley</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3+ ribs celery</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 bay leaves</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Salt and pepper to taste</cell>
     </row>
   </tabular>
 
@@ -46,22 +40,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook carrots, celery, and onion patiently in a pot.
         </p>
       </li>
       <li>
         <p>
-          
+          Toss everything else into the pot.
         </p>
       </li>
       <li>
         <p>
-          
+          Bring to a boil.
         </p>
       </li>
       <li>
         <p>
-          
+          Simmer for 1.5 hours
         </p>
       </li>
     </ol>

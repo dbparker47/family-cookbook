@@ -4,7 +4,7 @@
   <title>Breads</title>
 
   <!-- include sections -->
-  <!-- <xi:include href="biscuits-rolls/biscuits-rolls-chapter.ptx" /> -->
-  <!-- <xi:include href="classic-bread/classic-bread-chapter.ptx" /> -->
+  <xi:include href="./biscuits-rolls/biscuits-rolls-chapter.ptx" />
+  <xi:include href="./classic-bread/classic-bread-chapter.ptx" />
 
 </part>

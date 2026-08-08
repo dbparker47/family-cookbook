@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="med-lemon" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mediterranean Lemon Soup</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup finely minced onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon salt</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup cooked brown rice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cup vegetable stock</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 beaten eggs, room temperature</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 teaspoon dried crushed mint</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,17 @@
     <ol>
       <li>
         <p>
-          
+          In a soup sized pan, saute the onion in butter with salt and pepper until the onion is soft and translucent.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the rice, stock, and lemon juice.  Heat is covered, over a low flame until it boils gently.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Stir the soup rapidly as you drizzle in the beaten egg. Add mint; remove from heat.
         </p>
       </li>
     </ol>

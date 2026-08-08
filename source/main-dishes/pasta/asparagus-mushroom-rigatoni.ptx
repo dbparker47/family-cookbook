@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="asp-mush-rig" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Asparagus Mushroom Rigatoni</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>5 tablespoons olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cloves garlic, thinly sliced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> pound shiitake mushrooms, sliced</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> pound asparagus, cut into 1-inch spears</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound rigatoni pasta</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons fresh parsley, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons lemon zest</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Parmesan cheese</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,22 @@
     <ol>
       <li>
         <p>
-          
+          Heat 3 tablespoons of oil in a large saucepan over medium-high heat.  Add garlic.  When it turns gold, add mushrooms. Saute until darkened, about 5 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add asparagus and toss gently to coat, sauteing a few minutes more.
         </p>
       </li>
       <li>
         <p>
-          
+          Boil pasta simultaneously. After last step, turn saucepan heat to high and add a cup of pasta water.  Cook until water reduces by half, about 30 seconds.
         </p>
       </li>
       <li>
         <p>
-          
+          With slotted spoon, add pasta to saucepan.  Toss over high heat for 1 minute.  Turn off heat and toss with parsley, lemon zest, and cheese.  Drizzle with remaining olive oil.
         </p>
       </li>
     </ol>

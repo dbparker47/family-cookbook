@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="cran-sq-pasta" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cranberry Squash Pasta Salad</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>5 cups bow-tie pasta</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 cups <alert>Baked Butternut Squash</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound cooked sausage</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4 cups sliced mushrooms, sauteed</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup dried cranberries</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup chopped fresh sage</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons walnut oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon balsamic vinegar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cloves garlic, finely minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon black pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon red pepper flakes</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,17 @@
     <ol>
       <li>
         <p>
-          
+          Boil pasta.
         </p>
       </li>
       <li>
         <p>
-          
+          Add squash, sausage, mushrooms, cranberries, and sage.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Mix together oil, vinegar, garlic, pepper, and pepper flakes as a dressing.  Pour over pasta and toss.
         </p>
       </li>
     </ol>

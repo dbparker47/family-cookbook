@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="span-burr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spanish Rice Burritos</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>12 flour tortillas</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>14 oz can of diced tomatoes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cup brown rice</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>2 \frac{1}{2}</m> cup water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 oz can of black beans</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> lb ground beef (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup salsa</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon honey</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 clove garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{8}</m> teaspoon pepper (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 medium onion, chopped</cell>
+    </row>
+    <row>
+      <cell><m>1/2</m> teaspoon dried oregano</cell>
+    </row>
+    <row>
+      <cell>Cheddar cheese</cell>
+    </row>
+    <row>
+      <cell>Plain yogurt or sour cream</cell>
+    </row>
+    <row>
+      <cell>Green onions</cell>
     </row>
   </tabular>
 
@@ -46,22 +58,27 @@
     <ol>
       <li>
         <p>
-          
+          Cook the onions, garlic, and meat in a small saute pan.  Set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Combine rice and water in a medium pot and cook covered for 20 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the diced tomatoes, salt, pepper, and oregano.  Cook for about 15 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in the black beans, meat, onion, and garlic, and heat through.
+        </p>
+      </li>
+      <li>
+        <p>
+          To serve, place some of the mixture on a tortilla and sprinkle cheese on it.  Top with green onions and yogurt.
         </p>
       </li>
     </ol>

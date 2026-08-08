@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="zucc-canoes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Zuccanoes</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 medium sized zucchini (about 7 inches long)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large onion, diced</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1/2</m> lb mushrooms, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 medium cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups cooked brown rice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups finely minced almonds</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Grated swiss cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Small handfuls of freshly minced herbs if available (parsley, basil, thyme, dill, chives)</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,27 @@
     <ol>
       <li>
         <p>
-          
+          Cut the zucchini lengthwise down the middle.  Use a spoon to scoop out the insides, leaving a canoe with <m>\frac{1}{4}</m> inch shell.  Finely mince the scrapings; set the canoes aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Heat the olive oil in a medium size skillet.  Add onion and salt, and saute over medium heat until the onion is soft.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the zucchini innards, garlic, and mushrooms, and saute another 10 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Place rice and almonds in a medium sized bowl.  Stir in the saute and lemon juice and mix well.  Season to taste with optional herbs.
+        </p>
+      </li>
+      <li>
+        <p>
+          Fill the zucchini shells, top with cheese and bake at <m>350^\circ</m> for 30 to 40 minutes until heated through.  Serve hot.
         </p>
       </li>
     </ol>

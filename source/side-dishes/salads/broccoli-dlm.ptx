@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Broccoli Salad (Dorothy Lane Market)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Salad:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 bunches broccoli, washed, trimmed, and cut into flowerettes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup raisins</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> cup chopped onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>10 to 15 slices bacon, cooked crisp, drained, and crumbled</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Dressing:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup mayonnaise</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons vinegar</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup sugar</cell>
     </row>
   </tabular>
 
@@ -46,22 +40,17 @@
     <ol>
       <li>
         <p>
-          
+          Toss together broccoli, raisins, onion, and bacon.
         </p>
       </li>
       <li>
         <p>
-          
+          Combine dressing ingredients and pour over salad.  Do not stir.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Refrigerate, covered, overnight.  Mix well before serving.
         </p>
       </li>
     </ol>

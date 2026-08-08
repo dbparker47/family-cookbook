@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="bake-squash" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Baked Squash</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Butternut Squash, each one halved lengthwise and seeded</cell>
     </row>
   </tabular>
 
@@ -46,22 +16,17 @@
     <ol>
       <li>
         <p>
-          
+          Place squash, cut sides down, on an aluminum foil-covered cookie sheet.
         </p>
       </li>
       <li>
         <p>
-          
+          Bake in oven at <m>375^\circ</m> for 40 minutes.  Squash should be tender and easily pierced with a fork.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Let cool, and scoop out flesh.
         </p>
       </li>
     </ol>
@@ -72,7 +37,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Senator Russell Potatoes</alert>, <alert>Butternut Squash Risotto</alert>, <alert>Cranberry Squash Pasta Salad</alert>, and <alert>Squash Pie</alert>.
         </p>
       </li>
     </ul>

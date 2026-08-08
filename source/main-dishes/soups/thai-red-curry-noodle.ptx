@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="red-curry-noodle" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Thai Red Curry Noodle Soup </title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> pounds chicken breast, cut into 1-inch chunks</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Salt &amp; pepper, to taste</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>3 garlic cloves, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 red bell pepper, diced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion, diced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons red curry paste</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon grated ginger</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 cups broth</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 13.5-ounce can coconut milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>8 ounces rice noodles</cell>
+    </row>
+    <row>
+      <cell>1 tablespoon fish sauce</cell>
+    </row>
+    <row>
+      <cell>2 teaspoons brown sugar</cell>
+    </row>
+    <row>
+      <cell>3 green onions, sliced</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup chopped cilantro leaves</cell>
+    </row>
+    <row>
+      <cell>1/4 cup chopped basil leaves</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons lime juice</cell>
     </row>
   </tabular>
 
@@ -46,22 +64,37 @@
     <ol>
       <li>
         <p>
-          
+          Heat olive oil in a large stockpot or Dutch oven over medium heat. Season chicken with salt and pepper, to taste. Add chicken to the stockpot and cook until golden, about 2 to 3 minutes; set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Add garlic, bell pepper and onion. Cook, stirring occasionally, until tender, about 3 to 4 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in red curry paste and ginger until fragrant, about 1 minute.
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in chicken broth and coconut milk, scraping any browned bits from the bottom of the pot.
+        </p>
+      </li>
+      <li>
+        <p>
+          Stir in chicken. Bring to a boil; reduce heat and cook, stirring occasionally, until reduced, about 10 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Stir in rice noodles, fish sauce and brown sugar until noodles are tender, about 5 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove from heat; stir in green onions, cilantro, basil and lime juice; season with salt and pepper, to taste.  Serve immediately. 
         </p>
       </li>
     </ol>

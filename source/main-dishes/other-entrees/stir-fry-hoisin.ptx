@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="hoisin-sf" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Stir Fry with Hoisin Sauce</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>10 ounces super firm tofu</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>8 ounces mushrooms</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon rice wine or sherry</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> teaspoon freshly grated lemon zest</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>kosher salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon black pepper (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 bunch broccoli, cut into 1-inch florets and blanched</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Sauce:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> tablespoons hoisin sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2  teaspoons rice wine or sherry</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoons soy sauce</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> teaspoon honey (optional)</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon cornstarch</cell>
+    </row>
+    <row>
+      <cell>1 tablespoon canola oil</cell>
+    </row>
+    <row>
+      <cell>2 cloves garlic, minced</cell>
+    </row>
+    <row>
+      <cell>2 teaspoons minced fresh ginger</cell>
+    </row>
+    <row>
+      <cell>2 scallions, finely chopped</cell>
     </row>
   </tabular>
 
@@ -46,22 +64,22 @@
     <ol>
       <li>
         <p>
-          
+          Press the tofu for 30 minutes.  Blot dry and cut into 1-inch squares, each <m>\frac{1}{2}</m> inch thick.  Toss with rice wine, lemon zests, and a little salt and pepper.  Let marinate for 10 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Combine hoisin sauce, rice wine, soy sauce, sugar, and cornstarch in a small bowl. Mix well.
         </p>
       </li>
       <li>
         <p>
-          
+          Heat a wok almost to smoking over a high flame.  Swirl in canola oil.  Add minced garlic, ginger, and scallions.  Stir-fry these ingredients for 15 seconds, or until fragrant but not brown.  Add the tofu, mushrooms, and broccoli and stir-fry for 1 to 2 minutes, or until thoroughly heated.  Stir in the sauce and boil for 30 seconds.
         </p>
       </li>
       <li>
         <p>
-          
+          Correct the seasoning, adding soy sauce if necessary, and serve at once.
         </p>
       </li>
     </ol>

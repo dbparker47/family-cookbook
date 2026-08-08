@@ -8,8 +8,8 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="potatoes-vegetables/potatoes-vegetables-chapter.ptx" />
-  <xi:include href="rice-dish/rice-dish-chapter.ptx" />
-  <xi:include href="salads/salads-chapter.ptx" />
+  <xi:include href="./potatoes-vegetables/potatoes-vegetables-chapter.ptx" />
+  <xi:include href="./rice-dish/rice-dish-chapter.ptx" />
+  <xi:include href="./salads/salads-chapter.ptx" />
 
 </part>

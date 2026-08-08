@@ -1,44 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ir-pot-chowd" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Irish Potato Chowder</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>7 tablespoons butter, divided</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>7 tablespoons flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup chopped onion</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{2}{3}</m> cup diced carrots</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup diced celery</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried parsley</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon freeze-dried chives</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 cups vegetable stock</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 cups diced potatoes (about <m>1 \frac{1}{4}</m> pounds)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cups milk</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> cup sour cream</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon cayenne pepper</cell>
+    </row>
+    <row>
+      <cell>Salt and pepper to taste</cell>
     </row>
   </tabular>
 
@@ -46,22 +55,22 @@
     <ol>
       <li>
         <p>
-          
+          To make roux, melt <m>5 \frac{1}{2}</m> tablespoons butter in a small sauce pan.  Stir in flour until well blended.  Cook over low heat, stirring often, for 3 to 5 minutes.  Remove from heat and set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Melt remaining <m>1 \frac{1}{2}</m> tablespoons butter in a soup pot; add onions, carrots, celery, basil, parsley, and chives; cook 10 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add stock and potatoes and simmer until potatoes are tender (about 15 to 20 minutes).
         </p>
       </li>
       <li>
         <p>
-          
+          Stir in milk; return to simmer and whisk in roux until liquid is thickened and smooth.  Simmer 10 minutes, stirring occasionally, then add sour cream, cayenne, and season to taste with salt and pepper.
         </p>
       </li>
     </ol>

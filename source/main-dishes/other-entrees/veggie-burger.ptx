@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="veg-burger" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Veggie Burgers</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup onion, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup frozen corn, thawed and drained</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup red bell pepper, finely chopped</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> cup walnuts, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 garlic cloves, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon chile powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon ground cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup solid pack pumpkin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup cottage cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 egg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 slice firm-textured white bread, cubed</cell>
+    </row>
+    <row>
+      <cell>1 to 2 tablespoons chopped parsley</cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> cup (3 ounces) Monterey Jack cheese</cell>
+    </row>
+    <row>
+      <cell><m>\frac{2}{3}</m> cup roasted wheat germ</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon pepper (optional)</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
+    </row>
+    <row>
+      <cell>Salsa &amp; Buns</cell>
     </row>
   </tabular>
 
@@ -46,22 +64,22 @@
     <ol>
       <li>
         <p>
-          
+          Spray a large nonstick skillet with cooking spray.  Cook onion over medium heat until tender, about 7 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add corn, red bell pepper, walnuts, garlic, chili powder, and cumin.  Cook until vegetables are heated through, about 3 minutes. Transfer to mixing bowl and cool.  Wipe skillet with paper towel.
         </p>
       </li>
       <li>
         <p>
-          
+          In a food processor, combine pumpkin, cottage cheese, egg, bread, and parsley. Process until well blended.  Add to vegetable mixture along with Monterey Jack cheese, wheat germ, salt, and pepper.  Mix well.  Cover and refrigerate at least 30 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Form mixture into 6 patties, each about 3/4-inch thick.  Spray skillet with cooking spray.  Add patties and cook over medium heat until golden, about 6 minutes per side.  Serve immediately.
         </p>
       </li>
     </ol>

@@ -1,44 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ramen-sh" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Ramen (Shoyu)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Marinade for Caramelized Soy Chicken:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons mirin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon dark soy sauce (or mushroom dark soy sauce)</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 tablespoon light soy sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon cayenne pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cloves garlic, chopped finely</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 pieces chicken thighs, boneless</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Glaze for Chicken:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons dark soy sauce (or mushroom dark soy sauce)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Shoyu Ramen:</term></cell>
+    </row>
+    <row>
+      <cell>5 cups chicken stock</cell>
+    </row>
+    <row>
+      <cell>4 scallions, trimmed and cut into 3-inch pieces</cell>
+    </row>
+    <row>
+      <cell>5 cloves garlic, smashed not chopped</cell>
+    </row>
+    <row>
+      <cell>2-inch piece of ginger, sliced</cell>
+    </row>
+    <row>
+      <cell>Fresh red chili (up to 4) or up to 1 tablespoon chili flakes</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> cup light soy sauce</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> cup mirin</cell>
+    </row>
+    <row>
+      <cell>8 ounces fresh shiitake mushrooms, stems trimmed and sliced</cell>
+    </row>
+    <row>
+      <cell>6 pieces dried shiitake (optional)</cell>
+    </row>
+    <row>
+      <cell>4 portions dried ramen noodles</cell>
+    </row>
+    <row>
+      <cell><term>Steamed Greens:</term></cell>
+    </row>
+    <row>
+      <cell>1 large bunch of Asian greens (e.g. yu choy, spinach, or baby bok choy)</cell>
+    </row>
+    <row>
+      <cell>Sesame oil (drizzle)</cell>
+    </row>
+    <row>
+      <cell>2 to 3 cloves garlic, finely sliced (optional)</cell>
+    </row>
+    <row>
+      <cell><term>Toppings:</term></cell>
+    </row>
+    <row>
+      <cell><alert>Ramen eggs</alert></cell>
+    </row>
+    <row>
+      <cell>Sliced radishes</cell>
+    </row>
+    <row>
+      <cell>Bean sprouts</cell>
+    </row>
+    <row>
+      <cell>4 scallions, finely sliced</cell>
+    </row>
+    <row>
+      <cell>Chili garlic oil</cell>
     </row>
   </tabular>
 
@@ -46,22 +106,62 @@
     <ol>
       <li>
         <p>
-          
+          For carmelized soy chicken, place all the ingredients for the chicken marinade in a bowl. Mix well to coat the chicken. If time permits, allow the chicken to marinate for at least 1 hour.
         </p>
       </li>
       <li>
         <p>
-          
+          Place all the ingredients for the chicken marinade in a bowl. Mix well to coat the chicken. If time permits, allow the chicken to marinate for at least 1 hour.
         </p>
       </li>
       <li>
         <p>
-          
+          Place the chicken pieces on the baking sheet, skin side down (or smooth side down), evenly spaced apart. Then place the baking sheet in the preheated oven (upper third).
         </p>
       </li>
       <li>
         <p>
-          
+          Let the chicken roast for 15 minutes at <m>425^\circ</m>. While the chicken is cooking, mix the brown sugar and dark soy sauce for the glaze, and start making the ramen. (Please note that the cook time for the chicken will vary depending on the size and thickness of the chicken thigh pieces you are using.)
+        </p>
+      </li>
+      <li>
+        <p>
+          After 15 minutes, flip the chicken pieces over and spoon the glaze over them. Let the chicken cook for a further 10 to 15 minutes. Then remove from the oven and let them cool down.
+        </p>
+      </li>
+      <li>
+        <p>
+          Slice the chicken and set aside.
+        </p>
+      </li>
+      <li>
+        <p>
+          For the ramen, while the chicken is cooking, Place two saucepans on the stove.  In one saucepan (Pot 1), place the stock, ginger, garlic, spring onions, chili (if using), soy sauce, and mirin. Stir and cover the pot. Let it come to a boil at medium high to high heat. Then lower the heat to medium and let it simmer for 20 to 25 minutes. Taste the base and add more salt if needed. To add more flavor to the stock base, add dried shiitake mushrooms to the broth.
+        </p>
+      </li>
+      <li>
+        <p>
+          While Pot 1 is simmering, add water to Pot 2 and bring it to a boil.  Add the dried noodles to the boiling water and cook according to package directions.  Drain noodles and divide into 4 bowls.
+        </p>
+      </li>
+      <li>
+        <p>
+          When the ramen base in Pot 1 has cooked for 20 to 25 minutes, strain to remove the garlic, ginger, chili, scallions, and dried mushrooms.  Slice mushrooms and set aside.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add the strained stock back into the pot and add the mushrooms (fresh and dried).  Let it cook for 5 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Heat greens on stove at medium heat for 2-4 minutes or put in microwave for 30 seconds.  Just enough so that they are not quite wilted.
+        </p>
+      </li>
+      <li>
+        <p>
+          Evenly divide the hot stock between the bowls with ramen noodles. Top with greens, chicken, eggs, scallions, radishes, or other toppings.
         </p>
       </li>
     </ol>

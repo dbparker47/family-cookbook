@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="pop-top" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Popcorn Toppings</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Sweet and Salty (For 1/4 cup popcorn):</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon honey</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Salt to taste</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,41 @@
     <ol>
       <li>
         <p>
-          
+          Melt butter; add other ingredients; and then combine, keeping warm while popcorn pops.
         </p>
       </li>
+    </ol>
+  </p>
+
+  <p>
+    Ingredients
+  </p>
+  <tabular>
+     <row>
+      <cell><term>Cinnamon and Sugar (For 1/4 cup popcorn)</term></cell>
+    </row>
+    <row>
+      <cell>3 tablespoons sugar</cell>
+    </row>
+    <row>
+      <cell>1 tablespoon butter</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> teaspoon cinnamon</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon vanilla extract</cell>
+    </row>
+    <row>
+      <cell>Salt to taste</cell>
+    </row>
+  </tabular>
+
+  <p>Instructions
+    <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Melt butter; add other ingredients; and then combine, keeping warm while popcorn pops.
         </p>
       </li>
     </ol>

@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sp-kopita" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spanakopita (Spinach Pie)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large onion, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> to <m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 teaspoon dried basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> pounds fresh spinach, stemmed and finely chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 medium cloves of garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound feta cheese, cut into cubes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 to 16 ounces cottage cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> to <m>\frac{1}{2}</m> cup olive oil (for the filo dough)</cell>
+    </row>
+    <row>
+      <cell>1 pound filo pastry leaves - defrosted</cell>
     </row>
   </tabular>
 
@@ -46,22 +49,22 @@
     <ol>
       <li>
         <p>
-          
+          Heat 1 tablespoon olive oil in a Dutch oven (large pot).  Add onion, salt, garlic, and herbs, and saute until the onion is soft.  Add spinach, turn up the heat and cook, stirring often until the spinach wilts.
         </p>
       </li>
       <li>
         <p>
-          
+          Sprinkle in the flour, stir and cook over medium heat 2 to 3 minutes more.  Remove from the heat.
         </p>
       </li>
       <li>
         <p>
-          
+          Mix in the cheeses.  Taste to correct seasoning.
         </p>
       </li>
       <li>
         <p>
-          
+          Oil a 9" x 13" baking dish. Place a sheet of filo dough in the oiled dish, letting the pastry edges climb up the sides.  Brush lightly with oil, and add one or two more sheets.  Keep going until you have a pile of about 8 oiled sheets.  Add half of the filling, spreading it to the edges, then repeat with about 8 more sheets of oiled filo, followed by the remaining filling. Layer the rest of the filo over the filling, brushing oil in between.  Oil the top, tuck in the edges, and bake at <m>350^\circ</m> uncovered for about 45 minutes or until golden and crispy.  Cut into squares and serve hot or warm.
         </p>
       </li>
     </ol>

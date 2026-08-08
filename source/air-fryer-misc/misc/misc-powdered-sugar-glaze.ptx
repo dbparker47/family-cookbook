@@ -1,44 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="powd-sug-glaze" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Powdered Sugar Glaze</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Confectioners' sugar, sifted</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Milk</cell>
     </row>
   </tabular>
 
@@ -46,22 +19,17 @@
     <ol>
       <li>
         <p>
-          
+          Gently warm milk in a small pot.
         </p>
       </li>
       <li>
         <p>
-          
+          Add sugar until glaze has the consistency you want.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Drizzle over your dessert with a spoon.
         </p>
       </li>
     </ol>
@@ -72,7 +40,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Cinnamon Rolls (Grandma Joy)</alert>
         </p>
       </li>
     </ul>

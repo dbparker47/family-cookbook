@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="charlie-sf" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Stir Fry (Charlie)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Canola oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Garlic</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Ginger</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>Green onions</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Broccoli</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Mushrooms</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Bok choy</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Chicken (1+ pounds) or super firm tofu</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><alert>Stir Fry Sauce</alert></cell>
     </row>
   </tabular>
 
@@ -46,17 +40,17 @@
     <ol>
       <li>
         <p>
-          
+          Cook garlic, ginger, and green onions in canola oil for 10 seconds
         </p>
       </li>
       <li>
         <p>
-          
+          Add in other ingredients in reverse order of time needed to cook.  Bok choy, sauce, and any additional flavorings come last.
         </p>
       </li>
       <li>
         <p>
-          
+          Cook for 1 minute.  Done.
         </p>
       </li>
       <li>
@@ -72,7 +66,7 @@
     <ul>
       <li>
         <p>
-          
+          You may notice the lack of quantities for the ingredients. Use whatever makes sense to you.  It is hard to get the <q>proportions</q> incorrect.
         </p>
       </li>
     </ul>

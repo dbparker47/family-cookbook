@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="stuffed-leaves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Stuffed Grape Leaves</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 recipe <alert>Greek Rice Pilaf</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Approximately 24 grape leaves</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>10 \frac{1}{2}</m> ounces silken tofu</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 tablespoons lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,27 @@
     <ol>
       <li>
         <p>
-          
+          Preheat oven to <m>325^\circ</m> F.  Lightly oil a baking tray.
         </p>
       </li>
       <li>
         <p>
-          
+          Place each leaf down flat on a clean surface.  Add a heaping tablespoon of filling near the stem end.  Roll tightly, folding in the sides.
         </p>
       </li>
       <li>
         <p>
-          
+          Arrange the stuffed leaves on the prepared tray.  Bake about 20 minutes or until heated through.
         </p>
       </li>
       <li>
         <p>
-          
+          While the stuffed leaves are baking, place the remaining ingredients in a blender or food processor and whip.
+        </p>
+      </li>
+      <li>
+        <p>
+          Serve the sauce in a side dish.
         </p>
       </li>
     </ol>

@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="zucc-feta-cakes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Zucchini Feta Pancakes</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 eggs, separated (yolks optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 packed cups coarsely grated zucchini</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup finely crumbled feta cheese</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> cup finely minced onions</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>A little salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{3}</m> cup flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Oil for frying</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Plain yogurt for topping</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,27 @@
     <ol>
       <li>
         <p>
-          
+          Beat the egg whites until stiff.
         </p>
       </li>
       <li>
         <p>
-          
+          In a medium sized bowl, combine the zucchini, egg yolks, feta, scallions, seasonings, and flour.  Mix well.
         </p>
       </li>
       <li>
         <p>
-          
+          Fold the egg whites into the zucchini mixture.
         </p>
       </li>
       <li>
         <p>
-          
+          Heat a little oil in a heavy skillet.  When it is very hot, add spoonfuls of batter, and fry on both sides until golden and crisp.
+        </p>
+      </li>
+      <li>
+        <p>
+          Serve immediately, topped with yogurt.
         </p>
       </li>
     </ol>

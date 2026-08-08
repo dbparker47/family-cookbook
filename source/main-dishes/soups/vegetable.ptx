@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="veg-soup" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vegetable Soup</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>5 to 6 carrots</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>3+ celery ribs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon thyme</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>28 oz diced tomatoes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 quarts stock</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Lots of vegetables (corn, green beans lima beans, peas, potatoes, zucchini, etc.)</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,22 @@
     <ol>
       <li>
         <p>
-          
+          Gently sautee onions, carrots, celery, and garlic.  Cook patiently.
         </p>
       </li>
       <li>
         <p>
-          
+          Add in broth and tomatoes.  Bring to a boil.  Bring down to simmer.
         </p>
       </li>
       <li>
         <p>
-          
+          Add in vegetables.  Simmer for 30 to 40 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Put in pasta 20 minutes before end.
         </p>
       </li>
     </ol>

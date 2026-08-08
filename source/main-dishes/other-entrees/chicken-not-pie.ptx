@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="chick-not-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chicken Not Pie</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 leeks, washed well, dried, and chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup dry white wine</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>1 cup vegetable stock</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon chopped fresh thyme or tarragon</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 boneless chicken breasts</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 large red potatoes, cut into 1-inch cubes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 medium carrots, cut into coins</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound sugar snap peas, trimmed</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound asparagus, cut into 1-inch pieces</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons lemon juice</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,32 @@
     <ol>
       <li>
         <p>
-          
+          Put half the oil in a large skillet on medium heat.  Add leeks, salt, and pepper, and cook for 5 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add wine, stock, and thyme, and boil 1 minute.
         </p>
       </li>
       <li>
         <p>
-          
+          Add chicken, reduce heat, cover, simmer till barely cooked (5 minutes), then remove.
         </p>
       </li>
       <li>
         <p>
-          
+          Add potatoes.  Bring to a boil, then simmer 5 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add carrots, and cook a few minutes.  The liquid should thicken (if not turn up heat and cook for a few minutes while stirring).
+        </p>
+      </li>
+      <li>
+        <p>
+          Slowly add remaining oil while stirring.  Add peas and asparagus.  Cook for 3 minutes.  Chop chicken; return to skillet with any chicken juices and the lemon juice.  Warm through.
         </p>
       </li>
     </ol>

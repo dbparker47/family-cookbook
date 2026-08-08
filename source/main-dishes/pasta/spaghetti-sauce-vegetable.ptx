@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="spag-veg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spaghetti Sauce - Vegetable</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 garlic cloves</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> pound ground round</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4 to 8 ounces mushrooms</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 green bell pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 ounces tomato paste</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 ounces diced tomatoes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon thyme</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon fennel</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> to 1 teaspoon cayenne pepper (optional)</cell>
+    </row>
+    <row>
+      <cell>1 teaspoon dried basil</cell>
     </row>
   </tabular>
 
@@ -46,22 +49,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook onion and garlic until onion is soft.
         </p>
       </li>
       <li>
         <p>
-          
+          Add beef and cook until almost done.
         </p>
       </li>
       <li>
         <p>
-          
+          Add bell pepper and mushrooms.  Cook until mushrooms just start to turn color.
         </p>
       </li>
       <li>
         <p>
-          
+          Add tomato paste, diced tomatoes, and spices.  Simmer for 30 minutes.
         </p>
       </li>
     </ol>

@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="biscuit-hazel" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Biscuits (Grandma Hazel)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 cups flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon baking powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon salt</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> cup shortening</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> to <m>\frac{3}{4}</m> cup milk or buttermilk</cell>
     </row>
   </tabular>
 
@@ -46,22 +28,37 @@
     <ol>
       <li>
         <p>
-          
+          Combine flour, baking powder, and salt.
         </p>
       </li>
       <li>
         <p>
-          
+          Cut in shortening until mixture resembles coarse crumbs.
         </p>
       </li>
       <li>
         <p>
-          
+          With a fork, blend in just enough milk until dough leaves the sides of the bowl.
         </p>
       </li>
       <li>
         <p>
-          
+          Knead gently 2 to 3 times on a lightly floured surface.
+        </p>
+      </li>
+      <li>
+        <p>
+          Roll dough to <m>\frac{1}{2}</m>-inch thickness, and cut biscuits without twisting the biscuit cutter.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spray baking sheet with cooking spray, and place biscuits on the baking sheets, 1 inch apart for crisp-sided biscuits or almost touching for softer sided biscuits.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>500^\circ</m> for 8 to 10 minutes.
         </p>
       </li>
     </ol>

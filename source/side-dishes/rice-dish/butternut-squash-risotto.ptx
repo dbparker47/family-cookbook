@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="butt-sq-ris" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Butternut Squash Risotto</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 pound <alert>Baked Butternut Squash</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>7 \frac{1}{2}</m> to 8 cups vegetable stock</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoon parsley</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> teaspoon ground nutmeg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Salt and pepper to taste</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups Arborio rice</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,27 @@
     <ol>
       <li>
         <p>
-          
+          Scoop out the pulp from the cooled squash halves and place in a food processor with <m>1/4</m> cup of the stock.  Puree until smooth.  Transfer to a saucepan and add the parsley and nutmeg.  Season with salt and pepper.  Cover to keep warm, adding a little stock if the puree begins to dry out.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour the stock into a saucepan and bring to a boil. Reduce the heat to low so that the stock barely simmers. In a saucepan, over medium heat, warm the olive oil. Add the onion and saute until soft and translucent, about 15 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the rice, stir to coat with the oil, and cook stirring, until the edges are translucent, 3 to 4 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add a ladleful of the simmering stock and continue to stir constantly over medium heat.  When the stock is almost fully absorbed, add another ladleful.  Stir steadily to keep the rice from sticking and continue to add more stock, a ladleful at a time, as soon as each ladleful is almost absorbed.
+        </p>
+      </li>
+      <li>
+        <p>
+          The risotto is done when the rice is tender but firm, about 20 minutes total.  Stir in the squash puree and season with salt and pepper.
         </p>
       </li>
     </ol>

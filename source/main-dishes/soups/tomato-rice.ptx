@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="tom-rice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Tomato Rice Soup</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 onion</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cloves garlic</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 carrots</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>2 stalks celery</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 quarts tomatoes with juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{8}</m> tsp cayenne pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1+ tablespoon honey</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup brown rice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 cups broth</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> tablespoons lemon juice</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,27 @@
     <ol>
       <li>
         <p>
-          
+          Gently sautee onions, carrots celery, and garlic.  Cook patiently.
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, cook rice most of the way.
         </p>
       </li>
       <li>
         <p>
-          
+          Put vegetables in food processor, along with all or most of tomatoes, cayenne pepper, and honey.
         </p>
       </li>
       <li>
         <p>
-          
+          Return everything to the pot and add rice and broth.  Bring to boil and simmer for 30 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add lemon juice and serve.
         </p>
       </li>
     </ol>

@@ -12,12 +12,12 @@
     <xi:include href="./frontmatter.ptx" />
 
     <xi:include href="./breakfast/breakfast-part.ptx" />
-    <!-- <xi:include href="./main-dishes/main-dishes-part.ptx" /> -->
+    <xi:include href="./main-dishes/main-dishes-part.ptx" />
     <xi:include href="./desserts/desserts-part.ptx" />
-    <!-- <xi:include href="./breads/breads-part.ptx" /> -->
-    <!-- <xi:include href="./appetizers/appetizers-part.ptx" /> -->
-    <!-- <xi:include href="./side-dishes/side-dishes-part.ptx" /> -->
-    <!-- <xi:include href="./air-fryer-misc/air-fryer-misc-part.ptx" /> -->
+    <xi:include href="./breads/breads-part.ptx" />
+    <xi:include href="./appetizers/appetizers-part.ptx" />
+    <xi:include href="./side-dishes/side-dishes-part.ptx" />
+    <xi:include href="./air-fryer-misc/air-fryer-misc-part.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

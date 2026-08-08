@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="humm" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hummus</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{3}</m> cups garbanzo beans, cooked</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup tahini</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup sesame oil</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> cup lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon Kosher salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Dash of cayenne pepper</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup water</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,7 @@
     <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Mash it all together.
         </p>
       </li>
     </ol>

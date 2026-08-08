@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="greek-rice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Greek Rice Pilaf</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups raw brown rice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{4}</m> cups water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 tablespoons olive oil</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>1 \frac{1}{2}</m> cup minced onions</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 small stalk celery, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup pine nuts</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 to 5 medium cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 to 4 tablespoons lemon juice</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup fresh minced parsley</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 tablespoons dried mint</cell>
     </row>
   </tabular>
 
@@ -46,22 +46,17 @@
     <ol>
       <li>
         <p>
-          
+          Place rice and water in a small saucepan.  Bring to a boil, cover, and simmer until tender (about 40 minutes).
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, heat the olive oil in a small skillet.  Add onion and cook slowly for about 15 minutes.  Add the celery and salt, and saute until the celery is tender (10 minutes). Add the pine nuts and garlic, saute for 5 minutes.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Stir the sauteed mixture into the cooked rice along with the lemon juice and herbs.  Mix well.
         </p>
       </li>
     </ol>
@@ -72,7 +67,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Stuffed Grape Leaves</alert>
         </p>
       </li>
     </ul>

@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="whole-wheat-sourdough" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Whole Wheat Sourdough Bread</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Leaven:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon active <alert>sourdough starter</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>75 gm whole wheat flour (<m>\frac{1}{2}</m> cup)</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>75 gm water (<m>\frac{1}{3}</m> cup)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><alert>Dough:</alert></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>525 gm water (<m>2 \frac{1}{2}</m> cups), divided</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon salt</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>700 gm whole wheat flour (<m>5 \frac{1}{2}</m> cups)</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,107 @@
     <ol>
       <li>
         <p>
-          
+          For the leaven on the night before baking: In a glass bowl, combine flour with water, add starter, and mix thoroughly to form a thick batter.  Try mixing starter with water first, then adding flour to mix starter more evenly.  Also, use more water if the leaven is too thick.
         </p>
       </li>
       <li>
         <p>
-          
+          Cover with towel and leave out overnight in draft-free spot.  The leaven is ready if it floats in water.  It should be very wet.
         </p>
       </li>
       <li>
         <p>
-          
+          For the bread, place 50 gm (about <m>\frac{1}{2}</m> cup) of water in a small bowl.  Mix in salt until it dissolves.
         </p>
       </li>
       <li>
         <p>
-          
+          Add remaining 475 gm (2 cups) water to the leaven.  Stir with spatula or use hands to dissolve leaven in water.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add flour to leaven and water.  Stir with spatula until no more dry flour and dough is shaggy (not scooby?).
+        </p>
+      </li>
+      <li>
+        <p>
+          Cover the bowl with plastic wrap or towel.  Let sit for 30 minutes to 4 hours.
+        </p>
+      </li>
+      <li>
+        <p>
+          Mix in the dissolved salt.  Work in by pinching and squeezing the dough.  Dough should be wet and loose.
+        </p>
+      </li>
+      <li>
+        <p>
+          For the bulk fermenting of dough (which takes 4 to 5 hours): Every 30 minutes, turn the dough in the bowl. Wet your hand, work it down the side of the bowl, and pull up the dough from the bottom, stretching it upward and folding it over the top.  Give bowl a quarter turn.  Repeat 3 times.  Smell and taste.  Do this a total of 6 times (<m>2 \frac{1}{2}</m> hours). You know you are done when it feels <q>billowy and cohesive</q> (sticks more to itself than to bowl).  Smells mildly yeasty and slightly sour.
+        </p>
+      </li>
+      <li>
+        <p>
+          Let dough rise undisturbed for 30 to 60 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          For dividing and shaping dough: Sprinkle work surface with flour, and spill dough on surface.  With plastic dough scraper (or whatever is handy), divide the mass in half.  Using floured hands and dough scraper, shape halves into globes.  Cover with a towel and let rest for 20 to 30 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Flip one of the globes onto its back, grab the edge of the dough farthest away from you with all your fingers, stretch it away from you, and fold it back over the top.  Do the same with the edge closest to you, and then to each side.  This should make a rectangle.  Take each corner in turn and fold over the top.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cup hands around the dough and roll it away until it is a short, taut cylinder, seams on bottom.  Now would be the time to roll dough in reserved bran.
+        </p>
+      </li>
+      <li>
+        <p>
+          For proofing, line two proofing baskets (i.e. mixing bowls) with clean kitchen towels.  Dust heavily with flour.
+        </p>
+      </li>
+      <li>
+        <p>
+          Put flour on top and sides of loaves.  Place upside down in proofing baskets.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cover bowls with towels and let them rest in warm spot for 3 to 4 hours (dough will be puffy).
+        </p>
+      </li>
+      <li>
+        <p>
+          Alternatively, you can put shaped loaves in refrigerator for 12 to 15 hours or overnight).  Give an hour or so at room temperature before baking.
+        </p>
+      </li>
+      <li>
+        <p>
+          For baking, place two Dutch ovens or heavy-bottomed pots with lids in oven, and heat to 500 degrees.
+        </p>
+      </li>
+      <li>
+        <p>
+          Carefully tip proofing baskets to place loaves in Dutch ovens with seam sides down.  Score loaves with sharp knife.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cover and bake for 20 minutes.  Reduce temperature to <m>450^\circ</m> and bake another 10 minutes.  Remove lids and bake for 15 to 25 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Non-Fancy Pants:  Preheat to <m>450^\circ</m>.  Spray cookie sheet and place both loaves on it.  Turn down heat to <m>400^\circ</m> and bake for at most 30 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove loaf and tap on bottom (should sound hollow).  Set on cooling rack.
         </p>
       </li>
     </ol>

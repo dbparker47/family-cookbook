@@ -1,44 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="cran-sauce" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cranberry Sauce</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>12 ounces cranberries</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup water or orange juice</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 cup sugar</cell>
     </row>
   </tabular>
 
@@ -46,22 +22,22 @@
     <ol>
       <li>
         <p>
-          
+          Boil water.
         </p>
       </li>
       <li>
         <p>
-          
+          Add sugar, stirring in until dissolved.
         </p>
       </li>
       <li>
         <p>
-          
+          Add cranberries.  Bring to boil, then simmer with an open top for 10 minutes or until cranberries pop.
         </p>
       </li>
       <li>
         <p>
-          
+          Let cool to room temperature and thicken.  Refrigerate.
         </p>
       </li>
     </ol>
@@ -72,7 +48,7 @@
     <ul>
       <li>
         <p>
-          
+          Instead of putting in orange juice, I will put in a cup of water and some orange juice concentrate.  Works well.
         </p>
       </li>
     </ul>

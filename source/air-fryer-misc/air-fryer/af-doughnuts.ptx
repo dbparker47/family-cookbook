@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="af-dough" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Doughnuts</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Dough:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup milk, lukewarm (about 110°F)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> tsp active dry yeast, or instant yeast</cell>
     </row>
     <row>
-    <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup granulated sugar, plus 1 tsp</cell>
     </row>
     <row>
-      <cell></cell>
+    <cell><m>\frac{1}{2}</m> tsp salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 egg</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup unsalted butter, melted</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cups all-purpose flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Glaze:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 Tbsp unsalted butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups powdered sugar</cell>
+    </row>
+    <row>
+      <cell>2 tsp vanilla extract</cell>
+    </row>
+    <row>
+      <cell>4 Tbsp hot water, or as needed</cell>
     </row>
   </tabular>
 
@@ -46,22 +52,47 @@
     <ol>
       <li>
         <p>
-          
+          In the bowl of a stand mixer fitted with the dough hook, gently stir together lukewarm milk, 1 tsp of sugar, and yeast. Let it sit for 10 minutes until foamy.
         </p>
       </li>
       <li>
         <p>
-          
+          Add sugar, salt, egg, melted butter and 2 cups of flour to the milk mixture. Mix on low speed until combined, then with the mixer running add the remaining cup of flour slowly, until the dough no longer sticks to the bowl. Increase speed to medium-low and knead for 5 minutes, until the dough is elastic and smooth.
         </p>
       </li>
       <li>
         <p>
-          
+          Place the dough into a greased bowl and cover it with plastic wrap. Let rise in a warm place until doubled. Dough is ready if you make a dent with your finger and the indention remains.
         </p>
       </li>
       <li>
         <p>
-          
+          Turn the dough out onto a floured surface, punch it down and gently roll out to about <m>\frac{1}{2}</m> inch thickness. Cut out 10 to 12 donuts using a 3-inch round cutter and a 1-inch round cutter to remove center.
+        </p>
+      </li>
+      <li>
+        <p>
+          Transfer donuts and donut holes to lightly floured parchment paper and cover loosely with greased plastic wrap. Let donuts rise until doubled in volume, about 30 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spray air fryer basket with oil spray, carefully transfer donuts to air fryer basket in a single layer. Spray donuts with oil spray and cook at <m>350^\circ</m> until golden brown, about 5 to 6 minutes. Repeat with remaining donuts and holes.
+        </p>
+      </li>
+      <li>
+        <p>
+          While the donuts are in the Air Fryer, melt butter in a small saucepan over medium heat. Stir in powdered sugar and vanilla extract until smooth. Remove from heat and stir in hot water one tablespoon at a time until the icing is somewhat thin, but not watery. Set aside.
+        </p>
+      </li>
+      <li>
+        <p>
+          Dip hot donuts and donut holes in the glaze using forks to submerge them. Place on a wire rack set over a rimmed baking sheet to allow excess glaze to drip off. Let sit until glaze hardens, about 10 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Store doughnuts and glaze separately in the refrigerator.  For later consumption, re-heat doughnuts in air at <m>350^\circ</m> for 4 minutes.  Heat some of glaze in small saucepan and dip doughnuts as above.
         </p>
       </li>
     </ol>

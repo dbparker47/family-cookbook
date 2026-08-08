@@ -1,44 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="sour-starter" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sourdough Starter </title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Flour</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-    <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Water</cell>
     </row>
   </tabular>
 
@@ -46,22 +19,7 @@
     <ol>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Days 1, 2, 3, 4, &amp; 5:  In the morning, add about <m>\frac{1}{2}</m> cup flour and enough water to make a thick batter.  Stir vigorously.
         </p>
       </li>
     </ol>
@@ -72,7 +30,12 @@
     <ul>
       <li>
         <p>
-          
+          This process works best when the temperature is relatively warm (at least <m>67^\circ</m>).  When it is colder, the yeast needs an extra day to grow.  So I reduce the flour to <m>\frac{1}{4}</m> cup on days 2 &amp; 3 and add another <m>\frac{1}{2}</m> cup on day 6.
+        </p>
+      </li>
+      <li>
+        <p>
+          Used in <alert>Whole Wheat Sourdough Bread</alert> and <alert>Sourdough Pancakes &amp; Waffles</alert>
         </p>
       </li>
     </ul>

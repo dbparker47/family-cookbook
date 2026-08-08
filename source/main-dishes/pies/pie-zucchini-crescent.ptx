@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="zucc-cresc" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Zucchini Crescent Pie</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>4 cups thinly sliced zucchini</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 medium onion, chopped</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> to <m>\frac{1}{2}</m> cup butter</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> cup fresh parsley, chopped (2 tablespoons dried)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon garlic powder (or one clove)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs, beaten</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>8 ounces mozarella or muenster cheese, shredded</cell>
+    </row>
+    <row>
+      <cell>8 ounce can crescent dinner rolls</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons mustard</cell>
     </row>
   </tabular>
 
@@ -46,22 +52,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook and stir zucchini, onion, and butter for 10 minutes.  Stir in parsley, salt, pepper, garlic, basil, and oregano.
         </p>
       </li>
       <li>
         <p>
-          
+          Combine eggs and cheese.  Stir in zucchini mixture.
         </p>
       </li>
       <li>
         <p>
-          
+          Separate dinner rolls into 8 triangles, and place in an ungreased 10-inch pie pan.  Press over bottom and up sides of the pan to form a crust.  Spread crust with mustard.
         </p>
       </li>
       <li>
         <p>
-          
+          Pour vegetable mixture into crust.  Bake at <m>375^\circ</m> for 18 to 20 minutes or until center is set.  Let stand 10 minutes.
         </p>
       </li>
     </ol>
@@ -72,7 +78,7 @@
     <ul>
       <li>
         <p>
-          
+          An alternative to the crescent roll crust is the <alert>Regular Pie Crust</alert>
         </p>
       </li>
     </ul>

@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="pb-noodles" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Peanut Butter Noodles</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> to 2 pounds pasta (spaghetti, spaghettini, or rotini)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 tablespoons sesame oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{2}{3}</m> cup natural-style peanut butter</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> cup soy sauce (tamari preferably)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons Chinese rice wine (or sherry)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon water</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> tablespoons rice vinegar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 tablespoons firmly packed light brown sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon minced fresh ginger (or <m>\frac{1}{2}</m> teaspoon dried ginger)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon cayenne pepper (optional)</cell>
+    </row>
+    <row>
+      <cell>1 cucumber, peeled, cut lengthwise, seeded, julienned (optional)</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> cup chopped fresh cilantro</cell>
     </row>
   </tabular>
 
@@ -46,22 +52,17 @@
     <ol>
       <li>
         <p>
-          
+          Cook the spaghetti al dente.  Drain and rinse under cold water.  Drain very well again.  With your hands, toss the noodles with 2 tablespoons of the sesame oil.  Cover and chill until ready to combine with the peanut sauce, or up to 24 hours.
         </p>
       </li>
       <li>
         <p>
-          
+          To make the sauce, combine the remaining 2 tablespoons sesame oil with all the other ingredients.  Stir until well mixed.  The sauce can be kept in the refrigerator, covered, up to 24 hours before using.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Just before serving, gently toss the noodles with the sauce.
         </p>
       </li>
     </ol>
@@ -72,7 +73,7 @@
     <ul>
       <li>
         <p>
-          
+          If you don't have rice vinegar handy, other vinegars work as well.
         </p>
       </li>
     </ul>

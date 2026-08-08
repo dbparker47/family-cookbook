@@ -1,44 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="chili" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chili (Silly)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> to 1 pound ground round</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 quart diced tomatoes</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 chopped onion</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>3 cloves garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>12 to 16 ounces corn</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 tablespoon Worcestershire sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon chili powder (original called for 2 tablespoons)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon ground cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried marjoram or oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 tablespoons honey</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 bay leaf</cell>
+    </row>
+    <row>
+      <cell>16 ounces tomato sauce</cell>
+    </row>
+    <row>
+      <cell>30 ounces spicy chili beans</cell>
+    </row>
+    <row>
+      <cell>15 ounces dark red kidney beans, drained and rinsed</cell>
+    </row>
+    <row>
+      <cell>15 ounces garbanzo beans, drained and rinsed</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{4}</m> teaspoon cinnamon</cell>
+    </row>
+    <row>
+      <cell>Cheddar cheese, oyster crackers, plain yogurt, and hot pepper sauce for toppings</cell>
     </row>
   </tabular>
 
@@ -46,22 +64,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook onions and garlic in pot at medium heat until soft.
         </p>
       </li>
       <li>
         <p>
-          
+          Add ground beef and cook until almost done.
         </p>
       </li>
       <li>
         <p>
-          
+          Place and stir together all remaining ingredients in a big pot (except the cheese, crackers, yogurt and hot sauce, you silly!).
         </p>
       </li>
       <li>
         <p>
-          
+          Bring to boil; then simmer for 30 minutes.
         </p>
       </li>
     </ol>

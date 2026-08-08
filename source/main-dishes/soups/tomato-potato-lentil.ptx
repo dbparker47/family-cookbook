@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="tom-pot-lent" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Tomato, Potato, and Lentil Soup</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>6 plum (Roma) tomatoes, quartered lengthwise</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups dried lentils</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>3 tablespoons olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 onion, minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 carrot, peeled and minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 celery stalk minced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>6 cups vegetable stock</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound red new potatoes, unpeeled and quartered</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 tablespoon minced fresh rosemary</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,22 @@
     <ol>
       <li>
         <p>
-          
+          Preheat an oven to <m>250^\circ</m>.  Place the tomatoes, cut sides up, on a rack set on a baking sheet.  Sprinkle with salt and place in the oven for about 2 hours.  The tomatoes will dehydrate and intensify in flavor but should still be a little soft.  Remove from the oven and set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, pick over the lentils and discard any damaged lentils or impurities.  Place in a bowl and add water to cover generously.  Let soak for 1 hour.  Drain and set aside.
         </p>
       </li>
       <li>
         <p>
-          
+          In a saucepan over medium heat, warm the olive oil. Add the onion, carrot, and celery and saute until golden brown and soft.  Add the stock, drained lentils, and potatoes and bring to a boil.  Reduce the heat to low and simmer, uncovered, until the lentils and potatoes are tender, 30 to 40 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Add the reserved tomatoes and the rosemary and continue to simmer, stirring gently to retain the shape of the tomatoes, until the flavors have blended, about 15 minutes longer.  Season with salt and pepper.
         </p>
       </li>
     </ol>

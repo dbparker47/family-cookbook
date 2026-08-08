@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="alfredo" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Alfredo Pasta (Bella)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups milk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 cloves garlic</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>4 cups broth</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound fettucine (or other suitable pasta)</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1+ pounds chicken, cooked and cubed</cell>
     </row>
   </tabular>
 
@@ -46,22 +31,22 @@
     <ol>
       <li>
         <p>
-          
+          Melt butter in a medium saucepan over medium low heat.  Saute garlic.
         </p>
       </li>
       <li>
         <p>
-          
+          Add milk, broth, and pasta.
         </p>
       </li>
       <li>
         <p>
-          
+          Simmer over medium heat (stirring occasionally) until pasta cooks and sauce thickens (about 20 minutes).
         </p>
       </li>
       <li>
         <p>
-          
+          If including chicken, add chicken for last few minutes of the pasta cooking.
         </p>
       </li>
     </ol>

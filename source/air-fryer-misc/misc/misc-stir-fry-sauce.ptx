@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="charlie-sauce" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Stir Fry Sauce (Charlie)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup light soy sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup all purpose soy sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup oyster sauce</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> cup Chinese wine (or dry sherry)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup cornstarch or cornflour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons sesame oil</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 to 2 teaspoons ground white pepper</cell>
     </row>
   </tabular>
 
@@ -46,22 +37,12 @@
     <ol>
       <li>
         <p>
-          
+          Combine ingredients. Shake or stir to combine.
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Store in fridge and shake or stir before use.
         </p>
       </li>
     </ol>
@@ -72,7 +53,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Stir Fry (Charlie)</alert>
         </p>
       </li>
     </ul>

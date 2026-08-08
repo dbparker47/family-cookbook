@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="ram-egg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Ramen Egg</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Marinade</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup mirin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> cup soy sauce</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{4}</m> cup dark soy sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup water (if marinating longer than 6 hours)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Spices (optional)</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon cayenne pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cloves garlic</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 star anise</cell>
     </row>
   </tabular>
 
@@ -46,22 +40,22 @@
     <ol>
       <li>
         <p>
-          
+          Bring eggs to a boil.  Remove from heat, and let sit 10 minutes.  Put in cold water until cool.
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, put marinade ingredients in a tall container with airtight lid.  Whisk to combine.  If adding additional spices, bring marinade just to simmer in a small saucepan with spices.  Remove from heat and let it cool to room temperature.
         </p>
       </li>
       <li>
         <p>
-          
+          Peel eggs and place in marinade in the tall airtight container.  Add <m>\frac{1}{2}</m> cup water if marinating longer than 6 hours.  Let sit for 2 to 24 hours.
         </p>
       </li>
       <li>
         <p>
-          
+          Remove eggs from marinade and place in an airtight container.  Store for up to 5 days.  Marinade can be stored in airtight container for up to 3 weeks.
         </p>
       </li>
     </ol>
@@ -72,7 +66,7 @@
     <ul>
       <li>
         <p>
-          
+          Used in <alert>Ramen (Shoyu)</alert>
         </p>
       </li>
     </ul>

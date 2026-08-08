@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="port-asp-pasta" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Portobello &amp; Asparagus Pasta</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>Some pesto</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>Parmesan cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> pounds pasta</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell>32 medium asparagus spears</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 tablespoon olive oil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 large portobello mushroom caps, sliced (remove gills with spoon)</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>4 teaspoons chopped parsley</cell>
     </row>
   </tabular>
 
@@ -46,22 +34,17 @@
     <ol>
       <li>
         <p>
-          
+          Boil pasta; after 5 minutes, add asparagus.
         </p>
       </li>
       <li>
         <p>
-          
+          In saute pan, heat olive oil.  Add portobello and cook till tender (7 minutes).
         </p>
       </li>
       <li>
         <p>
-          
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Drain pasta and asparagus, reserving <m>\frac{1}{2}</m> cup water.  Transfer pasta and asparagus back to pot with half of reserved water.  Mix in pesto and drizzle with remaining water.  Toss and serve.
         </p>
       </li>
     </ol>

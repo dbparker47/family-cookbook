@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="scheherazade" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Scheherazade (Soybean) Casserole</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>1 cup bulgur</cell>
+    </row>
+    <row>
+      <cell>1 cup boiling water</cell>
+    </row>
+    <row>
+      <cell>1 tablespoons olive oil</cell>
+    </row>
+    <row>
+    <cell>1 large onion, minced</cell>
+    </row>
+    <row>
+      <cell>3 large cloves of garlic, minced</cell>
+    </row>
+    <row>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
       <cell></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 teaspoon cumin</cell>
     </row>
     <row>
-    <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> teaspoon basil</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 large bell pepper, diced</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{3}{4}</m> cup dry soybeans - soak in water for at least for 4 hours</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>14 ounce can diced tomato, drained</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons tomato paste (half a small can)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup finely minced parsley</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> to 2 cups feta cheese, cut up into small pieces</cell>
     </row>
   </tabular>
 
@@ -46,22 +58,32 @@
     <ol>
       <li>
         <p>
-          
+          Lightly oil a 9'' x 13'' baking pan.
         </p>
       </li>
       <li>
         <p>
-          
+          Place the bulgur in a small bowl.  Add the boiling water, cover with a plate and let stand at least 15 minutes.
         </p>
       </li>
       <li>
         <p>
-          
+          Meanwhile, heat the olive oil in a large skillet.  Add onion, garlic, salt,and seasonings.  Stir occasionally as you saute over medium heat until soft.  Add bell pepper and saute about 5 minutes more.
         </p>
       </li>
       <li>
         <p>
-          
+          Drain the soybeans, if necessary, and place them in a blender or food processor with 1 cup fresh water.  Grind until the soybeans resemble a coarse batter.  Transfer to a large bowl.
+        </p>
+      </li>
+      <li>
+        <p>
+          Add the soaked bulgur and sauteed vegetables to the soybeans.  Stir in the tomatoes.  Add tomato paste, parsley, and 1 cup of the feta.  Mix well.
+        </p>
+      </li>
+      <li>
+        <p>
+          Spread into the baking pan and sprinkle the remaining feta on top.  Cover and bake for 30 minutes at <m>375^\circ</m>, then uncover and bake 15 minutes more with the oven turned down to <m>350^\circ</m>.  Serve hot.
         </p>
       </li>
     </ol>

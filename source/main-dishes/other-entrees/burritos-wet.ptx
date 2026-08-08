@@ -1,44 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="wet-burr" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Burritos - Wet</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Innards:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 pound ground beef</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> cup chopped onion</cell>
     </row>
     <row>
-    <cell></cell>
+      <cell>1 clove garlic, minced</cell>
     </row>
     <row>
-      <cell></cell>
+    <cell>2 teaspoons chili powder</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon dried oregano</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon ground cumin</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m> teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{4}</m> teaspoon pepper</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 ounces black beans</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><term>Sauce:</term></cell>
+    </row>
+    <row>
+      <cell>2 tablespoons butter</cell>
+    </row>
+    <row>
+      <cell>3 tablespoons flour</cell>
+    </row>
+    <row>
+      <cell><m>1 \frac{3}{4}</m> cup water</cell>
+    </row>
+    <row>
+      <cell>8 ounces tomato sauce</cell>
+    </row>
+    <row>
+      <cell><m>1 \frac{1}{2}</m> teaspoons chili powder</cell>
+    </row>
+    <row>
+      <cell>Boullion cube</cell>
+    </row>
+    <row>
+      <cell><m>\frac{3}{4}</m> teaspoon cumin</cell>
     </row>
   </tabular>
 
@@ -46,22 +67,27 @@
     <ol>
       <li>
         <p>
-          
+          In a large skillet cook ground beef, onion, and garlic.  Drain well.
         </p>
       </li>
       <li>
         <p>
-          
+          Add chili powder, oregano, cumin, salt, and pepper; simmer for 5 minutes. Add beans and <m>\frac{1}{2}</m> cup of the sauce (see below). Cook until heated through; keep warm.
         </p>
       </li>
       <li>
         <p>
-          
+          For sauce, melt the butter and stir in the flour until smooth.  Stir in the water and bring to a boil until the sauce thickens.
         </p>
       </li>
       <li>
         <p>
-          
+          Add tomato sauce, chili powder, boullion, and cumin.  Simmer for 5 minutes.
+        </p>
+      </li>
+      <li>
+        <p>
+          Wrap tortillas in foil; bake at <m>350\circ</m> for 10 minutes, or until thoroughly heated. Spoon about <m>\frac{1}{2}</m> cup ground beef mixture on each warm tortilla. Roll tightly and place seam-side down on plate. When all burritos are made, spoon remaining sauce over the burritos.
         </p>
       </li>
     </ol>

@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="lasagne" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lasagna - Classic</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell>16 lasagne noodles</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>24 ounces pasta sauce</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 ounces tomato sauce</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>\frac{1}{2}</m> pound ground beef</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>15 ounces ricotta cheese</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 to 2 pounds grated mozarella cheese</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>Parmesan cheese</cell>
     </row>
   </tabular>
 
@@ -46,22 +34,22 @@
     <ol>
       <li>
         <p>
-          
+          Cook ground beef.  Add pasta sauce and tomato sauce and warm up.
         </p>
       </li>
       <li>
         <p>
-          
+          Boil pasta.
         </p>
       </li>
       <li>
         <p>
-          
+          Layer ingredients:  Sauce, pasta, sauce, ricotta, mozarella, pasta, sauce, ricotta, mozarella, etc.  Leave off last layer of parmesan and mozarella.
         </p>
       </li>
       <li>
         <p>
-          
+          Cover with aluminum foil.  Bake at <m>375^\circ</m> for 15 minutes. Remove pan from oven and add last layer of parmesan and mozarella (use as much or as little parmesan as you like).  Bake another 15 minutes without the foil.
         </p>
       </li>
     </ol>

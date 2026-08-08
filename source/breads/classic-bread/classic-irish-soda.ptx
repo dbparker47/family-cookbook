@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="curry" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Red Dwarf Chicken Curry</title>
+<section xml:id="irish-soda" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Whole Wheat Irish Soda Bread</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> cups white unbleached flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 cups whole wheat flour</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> tablespoons sugar</cell>
     </row>
     <row>
-    <cell></cell>
+    <cell><m>2 \frac{1}{2}</m> teaspoons baking soda</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon salt (optional)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons butter</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 eggs</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{1}{2}</m> cups buttermilk</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 tablespoons carroway seeds</cell>
     </row>
     <row>
-      <cell></cell>
-    </row>
-    <row>
-      <cell></cell>
+      <cell>1 cup golden raisins</cell>
     </row>
   </tabular>
 
@@ -46,22 +43,47 @@
     <ol>
       <li>
         <p>
-          
+          Combine white flour, wheat flour, sugar, baking soda, and salt.
         </p>
       </li>
       <li>
         <p>
-          
+          Work in butter with pastry blender (or food processor?)
         </p>
       </li>
       <li>
         <p>
-          
+          In a separate bowl, thoroughly mix eggs with buttermilk.
         </p>
       </li>
       <li>
         <p>
-          
+          Add carroway seeds and raisins.
+        </p>
+      </li>
+      <li>
+        <p>
+          Mix the whole mess, and knead until smooth.
+        </p>
+      </li>
+      <li>
+        <p>
+          Form into a flat 8-inch circle on a greased cookie sheet.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cut an ``X'' into the top with a flour-covered knife.
+        </p>
+      </li>
+      <li>
+        <p>
+          Bake at <m>350^\circ</m> for 45 to 55 minutes in the center of the oven.  Tap on bottom to see if it is done.
+        </p>
+      </li>
+      <li>
+        <p>
+          Lightly butter on top of loaf, and cool on rack.
         </p>
       </li>
     </ol>
