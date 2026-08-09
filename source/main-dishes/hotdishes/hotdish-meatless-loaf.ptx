@@ -38,7 +38,7 @@
       <cell>2 eggs, beaten</cell>
     </row>
     <row>
-      <cell><alert>Cashew sauce</alert></cell>
+      <cell><xref ref="cash-sauce">Cashew sauce</xref></cell>
     </row>
   </tabular>
 
