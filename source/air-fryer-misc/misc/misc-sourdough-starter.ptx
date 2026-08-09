@@ -35,7 +35,7 @@
       </li>
       <li>
         <p>
-          Used in <alert>Whole Wheat Sourdough Bread</alert> and <alert>Sourdough Pancakes &amp; Waffles</alert>
+          Used in <alert>Whole Wheat Sourdough Bread</alert> and <xref ref="sourdough-waff-cakes">Sourdough Pancakes</xref> &amp; <alert>Waffles</alert>
         </p>
       </li>
     </ul>
