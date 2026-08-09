@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Artichoke Casserole (Grandmommy Hamo)",
-  "body": " Artichoke Casserole (Grandmommy Hamo)  Ingredients:    6 tablespoons unsalted butter, melted    cup bread crumbs    2 onions, finely chopped    9 eggs, separated    30 ounces artichoke hearts    teaspoon cayenne    1 pound sharp cheddar cheese    2 tablespoons fresh parsley, chopped    Instructions   Mix 2 tablespoons of the butter with the bread crumbs    Cook onions with the remaining butter.    Beat egg whites until fluffy, and beat yolks until foamy.    Mix everything in a large bowl., and pour into an ungreased 9\" x 13\" x 2\" baking dish. Store overnight.    Top with bread crumbs, and bake at for 35 to 40 minutes.     Notes:        "
+  "body": " Artichoke Casserole (Grandmommy Hamo)  Ingredients:    6 tablespoons unsalted butter, melted    cup bread crumbs    2 onions, finely chopped    9 eggs, separated    30 ounces artichoke hearts    teaspoon cayenne    1 pound sharp cheddar cheese    2 tablespoons fresh parsley, chopped    Instructions   Mix 2 tablespoons of the butter with the bread crumbs    Cook onions with the remaining butter.    Beat egg whites until fluffy, and beat yolks until foamy.    Mix everything in a large bowl, and pour into an ungreased 9\" x 13\" x 2\" baking dish. Store overnight.    Top with bread crumbs, and bake at for 35 to 40 minutes.     Notes:        "
 },
 {
   "id": "quiche-cb",
@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Beef Burgundy",
-  "body": " Beef Burgundy  Ingredients:    cup flour    2 pounds English roast or chuck roast    1 onion, sliced    8 ounces mushrooms    cup fresh parsley, minced    3 garlic cloves    2 bay leaves    1 cup Burgundy wine    cup beef or vegetable broth    4 to 8 carrots    Instructions   Dredge the beef cubes in the flour.    Place the beef and remaining ingredients into the crock pot, mix thoroughly and combine.    Cover; cook on Low for 4 to 6 hours or on High for 2 to 3 hours.     Notes:        "
+  "body": " Beef Burgundy  Ingredients:    cup flour    2 pounds English roast or chuck roast    1 onion, sliced    8 ounces mushrooms    cup fresh parsley, minced    3 garlic cloves    2 bay leaves    1 cup Burgundy wine    cup beef or vegetable broth    4 to 8 carrots    Instructions   Dredge the beef cubes in the flour.    Place the beef and remaining ingredients into the crock pot, mix thoroughly and combine.    Cover; cook on low for 4 to 6 hours or on high for 2 to 3 hours.     Notes:        "
 },
 {
   "id": "b-stew",
@@ -178,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Sassy Sausage",
-  "body": " Sassy Sausage  Ingredients:    30 ounces black beans    1 pound frozen corn    1 quart canned tomatoes    2 cups wild rice    teaspoon chile powder    teaspoon cumin    1 clove garlic    2 sausages    Instructions   Toss it all into the crockpot. Cook on low for a long time.     Notes:        "
+  "body": " Sassy Sausage  Ingredients:    30 ounces black beans    1 pound frozen corn    1 quart canned tomatoes    2 cups wild rice    teaspoon chile powder    teaspoon cumin    1 clove garlic    2 sausages, sliced into small pieces    Instructions   Toss it all into the crockpot. Cook on low for a long time.     Notes:        "
 },
 {
   "id": "ter-pulled-pork",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Baked Couscous with Spinach and Pine Nuts",
-  "body": " Baked Couscous with Spinach and Pine Nuts  Ingredients:    2 cups couscous    3 cups boiling vegetable stock    t salt    cup olive oil    3 garlic cloves, minced    1 large onion, diced    1 28-oz can chopped and drained tomatoes (reserve cup of the juice)    3 T minced fresh basil (or 2 t dried basil)    cups pine nuts    5 oz fresh spinach, chopped    2 cups grated muenster cheese    Instructions   Combine the couscous, boiling stock, and salt int a large bowl; cover with a plate and let sit for 5 minutes, then fluff with a fork.    Heat the olive oil in a large skillet over medium heat. Saute the garlic and onion until very soft. Add the drained tomatoes and cook 10 minutes more, stirring frequently.    Stir the tomato mixture into the couscous and mix in the reserved tomato juice, basil, pine nuts, raw spinach.    Spread half the couscous mixture in a 12'' x 7'' x 2'' or other shallow baking dish. Sprinkle on the cheese, then top with the remaining couscous. Cover the dish with foil and bake at for 25 minutes, or until hot and bubbly.     Notes:        "
+  "body": " Baked Couscous with Spinach and Pine Nuts  Ingredients:    2 cups couscous    3 cups boiling vegetable stock    teaspoon salt    cup olive oil    3 garlic cloves, minced    1 large onion, diced    1 28-oz can chopped and drained tomatoes (reserve cup of the juice)    3 tablespoons minced fresh basil (or 2 teaspoons dried basil)    cups pine nuts    5 ounces fresh spinach, chopped    2 cups grated muenster cheese    Instructions   Combine the couscous, boiling stock, and salt int a large bowl; cover with a plate and let sit for 5 minutes, then fluff with a fork.    Heat the olive oil in a large skillet over medium heat. Saute the garlic and onion until very soft. Add the drained tomatoes and cook 10 minutes more, stirring frequently.    Stir the tomato mixture into the couscous and mix in the reserved tomato juice, basil, pine nuts, raw spinach.    Spread half the couscous mixture in a 13\" x 9\" x 2\" or other shallow baking dish. Sprinkle on the cheese, then top with the remaining couscous. Cover the dish with foil and bake at for 25 minutes, or until hot and bubbly.     Notes:        "
 },
 {
   "id": "ench-cass",
@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Enchilada Casserole",
-  "body": " Enchilada Casserole  Ingredients:    1 pound ground beef    1 large onion, chopped    2 cups salsa    15 ounces black beans, rinsed and drained    8 ounces corn    2 tablespoons taco seasoning    teaspoon ground cumin    6 flour tortillas    cup plain yogurt    1 cup Mexican or cheddar cheese    1 cup shredded lettuce    1 medium tomato    cup minced fresh cilantro    Instructions   Cook beef and onion over medium heat; drain.    Stir in salsa, beans, corn, taco seasoning, and cumin. Place three tortillas in a 2-quart baking dish coated with cooking spray. Layer with half the meat mixture, yogurt, and cheese. Repeat layers.    Cover and bake at . for 25 minutes. Uncover and bake 5 to 10 minutes longer or until heated through.    Let stand for 5 minutes before topping with lettuce, tomato, and cilantro.     Notes:        "
+  "body": " Enchilada Casserole  Ingredients:    1 pound ground beef    1 large onion, chopped    2 cups salsa    15 ounces black beans, rinsed and drained    8 ounces corn    2 tablespoons taco seasoning    teaspoon ground cumin    6 flour tortillas    cup plain yogurt    1 cup Mexican or cheddar cheese    1 cup shredded lettuce    1 medium tomato    cup minced fresh cilantro    Instructions   Cook beef and onion over medium heat; drain.    Stir in salsa, beans, corn, taco seasoning, and cumin. Place three tortillas in a 2-quart baking dish coated with cooking spray. Layer with half the meat mixture, yogurt, and cheese. Repeat layers.    Cover and bake at for 25 minutes. Uncover and bake 5 to 10 minutes longer or until heated through.    Let stand for 5 minutes before topping with lettuce, tomato, and cilantro.     Notes:        "
 },
 {
   "id": "meatless-loaf",
@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Meat Loaf",
-  "body": " Meat Loaf  Ingredients:    12 ounces ground chuck    12 ounces ground sirloin    cups onions, finely chopped    1 cup rolled oats    cup ketchup    cup fresh parsley    3 extra-large eggs, lightly beaten    1 teaspoon ground thyme    1 teaspoon salt (optional)    teaspoon black pepper (optional)    Instructions   Combine all ingredients in a large bowl. Knead mixture with your hands until everything is well blended. Do not overmix.    Fill the loaf pan with the meat mixture, mounding the top. Place the pan on a baking sheet and bake at until the meat is firm to the touch and has shrunk from the sides of the pan, or until an instant-read thermometer reads . This will take 1 to hours.    Pour off the excess fat and let stand for 15 minutes.         Notes:        "
+  "body": " Meat Loaf  Ingredients:    12 ounces ground chuck    12 ounces ground sirloin    cups onions, finely chopped    1 cup rolled oats    cup ketchup    cup fresh parsley    3 extra-large eggs, lightly beaten    1 teaspoon ground thyme    1 teaspoon salt (optional)    teaspoon black pepper (optional)    Instructions   Combine all ingredients in a large bowl. Knead mixture with your hands until everything is well blended. Do not overmix.    Fill the loaf pan with the meat mixture, mounding the top. Place the pan on a baking sheet and bake at until the meat is firm to the touch and has shrunk from the sides of the pan, or until an instant-read thermometer reads . This will take 1 to hours.    Pour off the excess fat and let stand for 15 minutes.     Notes:        "
 },
 {
   "id": "scheherazade",
@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Scheherazade (Soybean) Casserole",
-  "body": " Scheherazade (Soybean) Casserole  Ingredients    1 cup bulgur    1 cup boiling water    1 tablespoons olive oil    1 large onion, minced    3 large cloves of garlic, minced    teaspoon salt       2 teaspoon cumin    teaspoon basil    1 large bell pepper, diced    cup dry soybeans - soak in water for at least for 4 hours    14 ounce can diced tomato, drained    3 tablespoons tomato paste (half a small can)    cup finely minced parsley    to 2 cups feta cheese, cut up into small pieces    Instructions   Lightly oil a 9'' x 13'' baking pan.    Place the bulgur in a small bowl. Add the boiling water, cover with a plate and let stand at least 15 minutes.    Meanwhile, heat the olive oil in a large skillet. Add onion, garlic, salt,and seasonings. Stir occasionally as you saute over medium heat until soft. Add bell pepper and saute about 5 minutes more.    Drain the soybeans, if necessary, and place them in a blender or food processor with 1 cup fresh water. Grind until the soybeans resemble a coarse batter. Transfer to a large bowl.    Add the soaked bulgur and sauteed vegetables to the soybeans. Stir in the tomatoes. Add tomato paste, parsley, and 1 cup of the feta. Mix well.    Spread into the baking pan and sprinkle the remaining feta on top. Cover and bake for 30 minutes at , then uncover and bake 15 minutes more with the oven turned down to . Serve hot.     Notes:        "
+  "body": " Scheherazade (Soybean) Casserole  Ingredients    1 cup bulgur    1 cup boiling water    1 tablespoon olive oil    1 large onion, minced    3 large cloves of garlic, minced    teaspoon salt       2 teaspoons cumin    teaspoons basil    1 large bell pepper, diced    cup dry soybeans - soak in water for at least for 4 hours    14 ounce can diced tomato, drained    3 tablespoons tomato paste (half a small can)    cup finely minced parsley    to 2 cups feta cheese, cut up into small pieces    Instructions   Lightly oil a 9'' x 13'' baking pan.    Place the bulgur in a small bowl. Add the boiling water, cover with a plate and let stand at least 15 minutes.    Meanwhile, heat the olive oil in a large skillet. Add onion, garlic, salt,and seasonings. Stir occasionally as you saute over medium heat until soft. Add bell pepper and saute about 5 minutes more.    Drain the soybeans, if necessary, and place them in a blender or food processor with 1 cup fresh water. Grind until the soybeans resemble a coarse batter. Transfer to a large bowl.    Add the soaked bulgur and sauteed vegetables to the soybeans. Stir in the tomatoes. Add tomato paste, parsley, and 1 cup of the feta. Mix well.    Spread into the baking pan and sprinkle the remaining feta on top. Cover and bake for 30 minutes at , then uncover and bake 15 minutes more with the oven turned down to . Serve hot.     Notes:        "
 },
 {
   "id": "alfredo",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Alfredo Pasta (Bella)",
-  "body": " Alfredo Pasta (Bella)  Ingredients    2 tablespoons butter    2 cups milk    4 cloves garlic    4 cups broth    1 pound fettucine (or other suitable pasta)    1+ pounds chicken, cooked and cubed    Instructions   Melt butter in a medium saucepan over medium low heat. Saute garlic.    Add milk, broth, and pasta.    Simmer over medium heat (stirring occasionally) until pasta cooks and sauce thickens (about 20 minutes).    If including chicken, add chicken for last few minutes of the pasta cooking.     Notes:        "
+  "body": " Alfredo Pasta (Bella)  Ingredients    2 tablespoons butter    2 cups milk    4 cloves garlic    4 cups broth    1 pound fettucine (or other suitable pasta)    1+ pounds chicken, cooked and cubed (optional)    Instructions   Melt butter in a medium saucepan over medium low heat. Saute garlic.    Add milk, broth, and pasta.    Simmer over medium heat (stirring occasionally) until pasta cooks and sauce thickens (about 20 minutes).    If including chicken, add chicken for last few minutes of the pasta cooking.     Notes:        "
 },
 {
   "id": "art-pasta",
@@ -271,29 +271,38 @@ var ptx_lunr_docs = [
   "body": " Asparagus Mushroom Rigatoni  Ingredients    5 tablespoons olive oil    3 cloves garlic, thinly sliced    pound shiitake mushrooms, sliced    pound asparagus, cut into 1-inch spears    1 pound rigatoni pasta    2 tablespoons fresh parsley, chopped    2 tablespoons lemon zest    Parmesan cheese    Instructions   Heat 3 tablespoons of oil in a large saucepan over medium-high heat. Add garlic. When it turns gold, add mushrooms. Saute until darkened, about 5 minutes.    Add asparagus and toss gently to coat, sauteing a few minutes more.    Boil pasta simultaneously. After last step, turn saucepan heat to high and add a cup of pasta water. Cook until water reduces by half, about 30 seconds.    With slotted spoon, add pasta to saucepan. Toss over high heat for 1 minute. Turn off heat and toss with parsley, lemon zest, and cheese. Drizzle with remaining olive oil.     Notes:        "
 },
 {
+  "id": "balsamic-bowtie",
+  "level": "1",
+  "url": "balsamic-bowtie.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "Bow-Tie Pasta with Tomatoes, Basil, and Balsamic Vinegar",
+  "body": " Bow-Tie Pasta with Tomatoes, Basil, and Balsamic Vinegar  Ingredients    1 pound bow-tie pasta    1 clove garlic, minced    1 package grape tomatoes, quartered    cup fresh basil (or 3 teaspoons dried basil)    cup fresh parsley (or 3 teaspoons dried parsley)    teaspoon dried oregano    to teaspoon crushed red pepper flakes (optional)    2 tablespoons olive oil    2 tablespoons lemon juice    2 tablespoons balsamic vinegar    Instructions   Cook the pasta in a large pot of boiling water until al dente. Drain pasta.    Meanwhile, combine the rest of the ingredients in a large pasta bowl.    Add the pasta and serve immediately.     Notes:        "
+},
+{
   "id": "half-pasta",
   "level": "1",
   "url": "half-pasta.html",
   "type": "Section",
-  "number": "6.4",
+  "number": "6.5",
   "title": "Half-Marathon Pasta",
-  "body": " Half-Marathon Pasta  Ingredients    1+ pound chicken breast    10 ounces spinach    Onion, chopped    3 cloves garlic    2 tablespoons olive oil    1 pound pasta    Instructions   Cook chicken and boil pasta.    At the same time, cook onion and garlic in olive oil.    After onion and garlic are sufficiently cooked, add spinach. Cook until spinach wilts.    Add chicken and pasta. Toss together and serve.     Notes:        "
+  "body": " Half-Marathon Pasta  Ingredients    1+ pound chicken breast    5 to 10 ounces spinach    Onion, chopped    3 cloves garlic    2 tablespoons olive oil    1 pound pasta    Instructions   Cook chicken and boil pasta.    At the same time, cook onion and garlic in olive oil.    After onion and garlic are sufficiently cooked, add spinach. Cook until spinach wilts.    Add chicken and pasta. Toss together and serve.     Notes:        "
 },
 {
   "id": "jam-miso",
   "level": "1",
   "url": "jam-miso.html",
   "type": "Section",
-  "number": "6.5",
+  "number": "6.6",
   "title": "Jammy Onion and Miso Pasta",
-  "body": " Jammy Onion and Miso Pasta  Ingredients    2 Tbsp. extra-virgin olive oil    3 Tbsp. unsalted butter, divided    2 large onions, thinly sliced    Kosher salt    4 garlic cloves, thinly sliced    1 Tbsp. white miso    1 cup beef or chicken broth or water    Freshly ground pepper    12 ounce spaghetti    oz. Parmesan, finely grated, plus more for serving    cup \"-long chives    Instructions   Heat 2 Tbsp. extra-virgin olive oil and 2 Tbsp. unsalted butter in a large high-sided skillet over medium-high. Add 2 large onions, thinly sliced; season with kosher salt. Cook, stirring often, until onions are softened and brown around the edges, 10-14 minutes.    Add 4 garlic cloves, thinly sliced, to skillet with onions and cook, stirring constantly, until softened and fragrant, about 1 minute. Add 1 tablespoon white miso and cook, stirring constantly, until browned and beginning to stick to bottom of pan, 1 to 2 minutes. Pour in 1 cup low-sodium beef or chicken broth or water, scraping up any browned bits stuck to bottom of pan, and cook, stirring, until miso is dissolved, about 2 minutes. Season generously with freshly ground pepper. Reduce heat to low and keep onion mixture warm until pasta is ready.    Meanwhile, cook 12 ounce spaghetti in a large pot of boiling salted water, stirring occasionally, until very al dente, about 1 minute less than package directions.    Using tongs, transfer pasta to skillet (a little water coming along is okay). Increase heat to medium and add ounce Parmesan, finely grated, remaining 1 tablespoon unsalted butter, and cup pasta cooking liquid. Cook, tossing often and adding more pasta cooking liquid by -cupful as needed, until cheese is melted and sauce clings to pasta, about 2 minutes.    Divide pasta among bowls and top with cup \"-long chives and more finely gratedParmesan; season with pepper.     Notes:        "
+  "body": " Jammy Onion and Miso Pasta  Ingredients    2 tablespoons extra-virgin olive oil    3 tablespoons unsalted butter, divided    2 large onions, thinly sliced    Kosher salt    4 garlic cloves, thinly sliced    1 tablespoon white miso    1 cup beef or chicken broth or water    Freshly ground pepper    12 ounces spaghetti    ounces Parmesan cheese, finely grated, plus more for serving    cup \"-long chives    Instructions   Heat 2 tablespoons extra-virgin olive oil and 2 tablespoons unsalted butter in a large high-sided skillet over medium-high. Add 2 large onions, thinly sliced; season with kosher salt. Cook, stirring often, until onions are softened and brown around the edges, 10 to 14 minutes.    Add 4 garlic cloves, thinly sliced, to skillet with onions and cook, stirring constantly, until softened and fragrant, about 1 minute. Add 1 tablespoon white miso and cook, stirring constantly, until browned and beginning to stick to bottom of pan, 1 to 2 minutes. Pour in 1 cup low-sodium beef or chicken broth or water, scraping up any browned bits stuck to bottom of pan, and cook, stirring, until miso is dissolved, about 2 minutes. Season generously with freshly ground pepper. Reduce heat to low and keep onion mixture warm until pasta is ready.    Meanwhile, cook 12 ounces spaghetti in a large pot of boiling salted water, stirring occasionally, until very al dente, about 1 minute less than package directions.    Using tongs, transfer pasta to skillet (a little water coming along is okay). Increase heat to medium and add ounces Parmesan, finely grated, remaining 1 tablespoon unsalted butter, and cup pasta cooking liquid. Cook, tossing often and adding more pasta cooking liquid by -cupful as needed, until cheese is melted and sauce clings to pasta, about 2 minutes.    Divide pasta among bowls and top with cup \"-long chives and more finely grated Parmesan; season with pepper.     Notes:        "
 },
 {
   "id": "chick-las",
   "level": "1",
   "url": "chick-las.html",
   "type": "Section",
-  "number": "6.6",
+  "number": "6.7",
   "title": "Lasagna - Chicken (Jill Vanderstoep)",
   "body": " Lasagna - Chicken (Jill Vanderstoep)  Ingredients    cup butter    2 cloves garlic, chopped    cup flour    1 teaspoon salt (optional)    2 cups milk    2 cups chicken broth    2 cups mozzarella cheese    1 cup parmesan cheese    1 onion, chopped    teaspoon basil    teaspoon oregano    teaspoon pepper (optional)    8 ounces lasagna noodles, uncooked    2 cups cottage cheese    2 cups chicken, cooked and cubed    20 ounces chopped spinach    Instructions   Melt butter in large pan and add garlic.    Stir in flour and salt. Add milk and broth and whisk to prevent lumps. Heat until it boils, stirring constantly. Boil for 1 minute.    Stir in mozzarella cheese and cup parmesan cheese. Add onion, basil, oregano, and pepper. Stir constantly over low heat until cheese melts.    Spread of the cheese sauce (from above) in a 9\" x 13\" ungreased pan. Top with 3 uncooked noodles.    Spread half of the cottage cheese, of the cheese sauce, and top with 3 uncooked noodles.    Spread the remaining cottage cheese; layer the chicken; put spinach over chicken; spread of the cheese sauce. Top with 3 uncooked noodles.    Spread remaining cheese sauce, and top with cup parmesan cheese.    Bake at for 40 minutes until bubbly and starting to brown. Let stand for 10 to 15 minutes before serving.     Notes:        "
 },
@@ -302,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lasagne.html",
   "type": "Section",
-  "number": "6.7",
+  "number": "6.8",
   "title": "Lasagna - Classic",
   "body": " Lasagna - Classic  Ingredients    16 lasagne noodles    24 ounces pasta sauce    15 ounces tomato sauce    pound ground beef    15 ounces ricotta cheese    1 to 2 pounds grated mozarella cheese    Parmesan cheese    Instructions   Cook ground beef. Add pasta sauce and tomato sauce and warm up.    Boil pasta.    Layer ingredients: Sauce, pasta, sauce, ricotta, mozarella, pasta, sauce, ricotta, mozarella, etc. Leave off last layer of parmesan and mozarella.    Cover with aluminum foil. Bake at for 15 minutes. Remove pan from oven and add last layer of parmesan and mozarella (use as much or as little parmesan as you like). Bake another 15 minutes without the foil.     Notes:        "
 },
@@ -311,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "mac-cheese.html",
   "type": "Section",
-  "number": "6.8",
+  "number": "6.9",
   "title": "Macaroni &amp; Cheese (Nana)",
   "body": " Macaroni & Cheese (Nana)  Ingredients    4 cups uncooked elbow macaroni noodles    1 onion, chopped    4 tablespoons butter    4 tablespoons flour    1 teaspoon salt (optional)    teaspoon pepper (optional)    4 cups milk    4 cups cheese (shredded)    1 tablespoon worcestershire sauce    Bread crumbs on top    Instructions   Boil pasta until somewhat soft.    Saute onions with butter until it is as soft as you like it (we like it very soft).    Lay out noodles evenly in a 9\" x 13\" pan. Sprinkle cheese evenly on top of noodles. Pour liquid over cheese and noodles.    Bake at for 35 to 40 minutes.     Notes:        "
 },
@@ -320,7 +329,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "p-fresca.html",
   "type": "Section",
-  "number": "6.9",
+  "number": "6.10",
   "title": "Pasta Fresca",
   "body": " Pasta Fresca  Ingredients    4 cups chopped ripe tomatoes    6 to 8 large basil leaves    1 large garlic clove    1 tablespoon olive oil    Salt and pepper to taste    1 pound bow-tie pasta    pound mozzarella cheese, cut into inch cubes    Grated parmesan cheese (optional)    Instructions   Bring a large pot of water to a rapid boil.    In a blender or food processor, puree the tomatoes, basil, garlic, and olive oil until smooth. Add salt and pepper to taste.    Cook the pasta. Drain. Toss the pasta immediately with the cubed mozzarella cheese, Add the sauce and mix well. Top with grated parmesan cheese.     Notes:        "
 },
@@ -329,7 +338,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "pb-noodles.html",
   "type": "Section",
-  "number": "6.10",
+  "number": "6.11",
   "title": "Peanut Butter Noodles",
   "body": " Peanut Butter Noodles  Ingredients    to 2 pounds pasta (spaghetti, spaghettini, or rotini)    4 tablespoons sesame oil    cup natural-style peanut butter    cup soy sauce (tamari preferably)    3 tablespoons Chinese rice wine (or sherry)    1 tablespoon water    tablespoons rice vinegar    6 tablespoons firmly packed light brown sugar    3 cloves garlic, minced    1 teaspoon minced fresh ginger (or teaspoon dried ginger)    teaspoon cayenne pepper (optional)    1 cucumber, peeled, cut lengthwise, seeded, julienned (optional)    cup chopped fresh cilantro    Instructions   Cook the spaghetti al dente. Drain and rinse under cold water. Drain very well again. With your hands, toss the noodles with 2 tablespoons of the sesame oil. Cover and chill until ready to combine with the peanut sauce, or up to 24 hours.    To make the sauce, combine the remaining 2 tablespoons sesame oil with all the other ingredients. Stir until well mixed. The sauce can be kept in the refrigerator, covered, up to 24 hours before using.    Just before serving, gently toss the noodles with the sauce.     Notes:   If you don't have rice vinegar handy, other vinegars work as well.     "
 },
@@ -338,25 +347,25 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "pesto.html",
   "type": "Section",
-  "number": "6.11",
+  "number": "6.12",
   "title": "Pesto - Classic (Piehl family via the Bianco family)",
-  "body": " Pesto - Classic (Piehl family via the Bianco family)  Ingredients    1 bunch pesto (enough to be a little below the blade of the food processor)    3 to 4 cloves garlic, lightly minced    cup pine nuts    cup olive oil    cup parmesan cheese    Pasta (I use rotini, but original recipe called for spaghetti, and bowtie and others work, too)    Broccoli florets, cooked (optional)                Instructions   Put all ingredients except pasta into a food processor. Run food processor until sauce is creamy.    If using broccoli, toss it with the pasta. Add sauce and toss.     Notes:   There is a lot of flexibility in the proportions of the sauce ingredients. We like a sauce with a stronger basil and garlic flavor. You should adjust the recipe for your own tastes.    The recipe, as written, makes about 12 ounces of sauce (maybe a smidge more). We usually use 8 ounces of sauce for 1 pound pasta.    The sauce freezes really well. We freeze it in 8-ounce canning jars, and eat pesto all year round. When you use frozen sauce, make sure to heat it back up at low temperature. I usually put it in cold water and heat on the stove at low heat for 45 minutes or more.     "
+  "body": " Pesto - Classic (Piehl family via the Bianco family)  Ingredients    1 bunch pesto (enough to be a little below the top part of the blade of the food processor)    3 to 4 cloves garlic, lightly minced    cup pine nuts    cup olive oil    cup grated fresh parmesan cheese    Pasta (I use rotini, but original recipe called for spaghetti, and bowtie and others work, too)    Broccoli florets, cooked (optional)                Instructions   Put all ingredients except pasta into a food processor. Run food processor until sauce is creamy.    If using broccoli, toss it with the pasta. Add sauce and toss.     Notes:   There is a lot of flexibility in the proportions of the sauce ingredients. We like a sauce with a stronger basil and garlic flavor. You should adjust the recipe for your own tastes.    The recipe, as written, makes about 12 ounces of sauce (maybe a smidge more). We usually use 8 ounces of sauce for 1 pound pasta.    We usually leave out the parmesan from the sauce and add it to the pasta. This also keeps the sauce a little fresher when you freeze it.    The sauce freezes really well. We freeze it in 8-ounce canning jars, and eat pesto all year round. When you use frozen sauce, make sure to heat it back up at low temperature. I usually put it in cold water and heat on the stove at low heat for 45 minutes or more.     "
 },
 {
   "id": "sb-pesto",
   "level": "1",
   "url": "sb-pesto.html",
   "type": "Section",
-  "number": "6.12",
+  "number": "6.13",
   "title": "Spinach Basil Pesto",
-  "body": " Spinach Basil Pesto  Ingredients    1 cup olive oil    1 jar sun-dried tomatoes (not sure how much that is)    3 to 4 cloves garlic    1 wedge feta cheese (not sure how much that is)    Some chopped fresh basil (1 package)    10 oz spinach, chopped    1 to 2 red peppers, chopped    to cup Parmesan cheese    cup pine nuts, lightly toasted    Fusilli pasta    Instructions   Mix ingredients (except pine nuts) in a bowl. Let sit all day. Stir occasionally.     Notes:        "
+  "body": " Spinach Basil Pesto  Ingredients    1 cup olive oil    1 jar sun-dried tomatoes (not sure how much that is)    3 to 4 cloves garlic    1 wedge feta cheese (not sure how much that is)    Some chopped fresh basil (1 package)    10 ounces spinach, chopped    1 to 2 red peppers, chopped    to cup Parmesan cheese    cup pine nuts, lightly toasted    Fusilli pasta    Instructions   Mix ingredients (except pine nuts) in a bowl. Let sit all day. Stir occasionally.     Notes:        "
 },
 {
   "id": "port-asp-pasta",
   "level": "1",
   "url": "port-asp-pasta.html",
   "type": "Section",
-  "number": "6.13",
+  "number": "6.14",
   "title": "Portobello &amp; Asparagus Pasta",
   "body": " Portobello & Asparagus Pasta  Ingredients    Some pesto    Parmesan cheese    pounds pasta    32 medium asparagus spears    1 tablespoon olive oil    2 large portobello mushroom caps, sliced (remove gills with spoon)    4 teaspoons chopped parsley    Instructions   Boil pasta; after 5 minutes, add asparagus.    In saute pan, heat olive oil. Add portobello and cook till tender (7 minutes).    Drain pasta and asparagus, reserving cup water. Transfer pasta and asparagus back to pot with half of reserved water. Mix in pesto and drizzle with remaining water. Toss and serve.     Notes:        "
 },
@@ -365,16 +374,16 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "spag-kids.html",
   "type": "Section",
-  "number": "6.14",
+  "number": "6.15",
   "title": "Spaghetti Sauce - Tomato-y Version",
-  "body": " Spaghetti Sauce - Tomato-y Version  Ingredients    3 tbsp. extra-virgin olive oil, divided    1 medium onion    6 garlic cloves    tsp. oregano    3 tsp. kosher salt, divided    1 teaspoon freshly ground black pepper, divided    pound ground round    2 28-oz. cans crushed tomatoes (or whole peeled tomatoes if you want to squish them)    1 Parmesan rind    cup chopped fresh basil    1 tablespoon unsalted butter    Instructions   In a medium saucepan over medium heat, heat 2 tablespoons oil. Add onion, garlic, basil (if using), oregano, 1 teaspoon salt, and teaspoon pepper and cook, stirring occasionally, until onion is translucent and light golden brown, about 7 minutes.    Increase heat to medium-high. Add beef and break up into small pieces with a wooden spoon. Cook, stirring occasionally and reducing heat if needed, until beef begins to brown, about 8 minutes; season with 1 teaspoon salt and remaining teaspoon pepper.    In a medium bowl, put in crushed tomatoes (or crush tomatoes and their juices with your hands until small pieces form). Add tomatoes and Parmesan rind to saucepan and cook over medium heat, stirring occasionally, until sauce reduces by about one-quarter and raw tomato flavor has cooked out, 25 to 30 minutes. Remove from heat; discard Parmesan rind.    Add butter and remaining 1 tablespoon oil and 1 teaspoon salt; toss to combine until sauce is glossy and butter is melted.     Notes:        "
+  "body": " Spaghetti Sauce - Tomato-y Version  Ingredients    3 tablespoons extra-virgin olive oil, divided    1 medium onion    6 garlic cloves    teaspoon oregano    3 teaspoons kosher salt, divided    1 teaspoon freshly ground black pepper, divided    pound ground round    56 ounces (i.e. two big cans) crushed tomatoes (or whole peeled tomatoes if you want to squish them)    1 Parmesan rind    cup chopped fresh basil    1 tablespoon unsalted butter    Instructions   In a medium saucepan over medium heat, heat 2 tablespoons oil. Add onion, garlic, basil (if using), oregano, 1 teaspoon salt, and teaspoon pepper and cook, stirring occasionally, until onion is translucent and light golden brown, about 7 minutes.    Increase heat to medium-high. Add beef and break up into small pieces with a wooden spoon. Cook, stirring occasionally and reducing heat if needed, until beef begins to brown, about 8 minutes; season with 1 teaspoon salt and remaining teaspoon pepper.    In a medium bowl, put in crushed tomatoes (or crush tomatoes and their juices with your hands until small pieces form). Add tomatoes and Parmesan rind to saucepan and cook over medium heat, stirring occasionally, until sauce reduces by about one-quarter and raw tomato flavor has cooked out, 25 to 30 minutes. Remove from heat; discard Parmesan rind.    Add butter and remaining 1 tablespoon oil and 1 teaspoon salt; toss to combine until sauce is glossy and butter is melted.     Notes:        "
 },
 {
   "id": "spag-veg",
   "level": "1",
   "url": "spag-veg.html",
   "type": "Section",
-  "number": "6.15",
+  "number": "6.16",
   "title": "Spaghetti Sauce - Vegetable",
   "body": " Spaghetti Sauce - Vegetable  Ingredients    1 onion    2 garlic cloves    pound ground round    4 to 8 ounces mushrooms    1 green bell pepper    6 ounces tomato paste    15 ounces diced tomatoes    teaspoon oregano    teaspoon thyme    teaspoon fennel    to 1 teaspoon cayenne pepper (optional)    1 teaspoon dried basil    Instructions   Cook onion and garlic until onion is soft.    Add beef and cook until almost done.    Add bell pepper and mushrooms. Cook until mushrooms just start to turn color.    Add tomato paste, diced tomatoes, and spices. Simmer for 30 minutes.     Notes:        "
 },
@@ -383,18 +392,9 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "tag-tut-bene.html",
   "type": "Section",
-  "number": "6.16",
+  "number": "6.17",
   "title": "Tagliatelle (Tutto Bene)",
   "body": " Tagliatelle (Tutto Bene)  Ingredients    12 pounds Italian sausage, cooked, chopped, and drained.    4 ounces shitake mushrooms, sliced    pound oyster mushrooms, sliced    pound fresh mushrooms, sliced    pound sun-dried tomatoes, soaked, drained, and chopped    2 tablespoons butter    2 to 3 cloves garlic, minced    1 tablespoon parsley, minced    2 pounds fettucine or tagliatelle noodles    Instructions   Cook butter and mushrooms over medium heat until mushrooms begin to soften.    Add garlic, parsley, sausage, and sun-dried tomatoes. Cook over medium heat, stirring frequently, until mushrooms are cooked.    Cook and drain pasta. Toss pasta in the pan with the remaining ingredients.     Notes:        "
-},
-{
-  "id": "balsamic-bowtie",
-  "level": "1",
-  "url": "balsamic-bowtie.html",
-  "type": "Section",
-  "number": "6.17",
-  "title": "",
-  "body": "  Ingredients    Bow-tie pasta with tomatoes, basil, and balsamic vinegar    1 pound bow-tie pasta    1 clove garlic, minced    1 package grape tomatoes, quartered    cup fresh basil (or 3 teaspoons dried basil)    cup fresh parsley (or 3 teaspoons dried parsley)    teaspoon dried oregano    to teaspoon crushed red pepper flakes (optional)    2 tablespoons olive oil    2 tablespoons lemon juice    2 tablespoons balsamic vinegar    Instructions   Cook the pasta in a large pot of boiling water until al dente. Drain pasta.    Meanwhile, combine the rest of the ingredients in a large pasta bowl.    Add the pasta and serve immediately.     Notes:        "
 },
 {
   "id": "sp-kopita",
@@ -1369,9 +1369,9 @@ var ptx_lunr_docs = [
   "body": " Wild Rice with Broccoli, Tomatoes, and Feta  Ingredients    2 cups wild rice (or brown rice)    4 cups water    teaspoon salt    cup olive oil    4 cloves of garlic, minced    4 medium tomatoes, diced    1 to 2 bunches of broccoli, cut up    1 teaspoon dried oregano    8 ounces feta, cut into small pieces    Instructions   Combine the rice, water, and salt in a saucepan and bring it to a boil over high heat. Lower the heat to simmer and cook. For wild rice, it will be about 1 hour, and for brown rice, it will be about 45 minutes. You may need to drain the wild rice. When done, remove from the heat.    In a large skillet, heat the olive oil over medium heat. Saute the garlic 2 minutes, stirring frequently. Do not brown. Add the tomatoes and saute 2 minutes more. Add the broccoli and oregano, toss well, pour in the water, and cover the pan. Raise the heat to medium-high and cook 5 minutes, or until the broccoli is tender but not mushy. (remove the cover occasionally and toss the mixture.)    Stir in the hot rice and feta cheese. Serve immediately.     Notes:        "
 },
 {
-  "id": "",
+  "id": "dlm-broc-salad",
   "level": "1",
-  "url": ".html",
+  "url": "dlm-broc-salad.html",
   "type": "Section",
   "number": "22.1",
   "title": "Broccoli Salad (Dorothy Lane Market)",
