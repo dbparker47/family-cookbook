@@ -43,7 +43,7 @@
     <ul>
       <li>
         <p>
-          This crust is used in <xref ref="quiche-cb">Cheese and Bacon Quiche</xref>, <alert>Apple Pie</alert>, <alert>Blueberry Pie</alert>, <alert>Rhubarb Pie</alert>, <alert>Squash Pie</alert>, <alert>Sweet Potato Pie</alert>.
+          This crust is used in <xref ref="quiche-cb">Cheese and Bacon Quiche</xref>, <alert>Apple Pie</alert>, <alert>Blueberry Pie</alert>, <alert>Rhubarb Pie</alert>, <alert>Squash Pie</alert>, <alert>Sweet Potato Pie</alert>, <xref ref="spin-ric-pie">Spinach-Ricotta Pie</xref>, and <xref ref="zucc-cresc">Zucchini Crescent Pie</xref>.
         </p>
       </li>
     </ul>

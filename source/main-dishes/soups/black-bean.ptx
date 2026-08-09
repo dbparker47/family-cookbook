@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="bl-bean" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title></title>
+  <title>Black Bean Soup</title>
 
   <p>
     Ingredients
   </p>
   <tabular>
-    <row>
-      <cell>Black Bean Soup</cell>
-    </row>
     <row>
       <cell><m>1 \frac{1}{2}</m> cups dried black beans (or 15 oz. can, not dried)</cell>
     </row>
