@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="charlie-sf" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Stir Fry (Charlie)</title>
+  <title>Stir Fry - Charlie</title>
 
   <p>
     Ingredients
@@ -32,12 +32,17 @@
       <cell>Chicken (1+ pounds) or super firm tofu</cell>
     </row>
     <row>
-      <cell><alert>Stir Fry Sauce</alert></cell>
+      <cell><xref ref="charlie-sauce">Stir Fry Sauce</xref></cell>
     </row>
   </tabular>
 
   <p>Instructions
     <ol>
+      <li>
+        <p>
+          Heat up a wok to very high heat (almost smoking, but not hot enough for the canola oil to catch fire).  Drizzle canola oil over wok.
+        </p>
+      </li>
       <li>
         <p>
           Cook garlic, ginger, and green onions in canola oil for 10 seconds
@@ -51,11 +56,6 @@
       <li>
         <p>
           Cook for 1 minute.  Done.
-        </p>
-      </li>
-      <li>
-        <p>
-          
         </p>
       </li>
     </ol>

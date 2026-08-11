@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="santa-rosa-chick" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chicken Salad (Santa Rosa)</title>
+  <title>Chicken Salad - Santa Rosa</title>
 
   <p>
     Ingredients
@@ -32,7 +32,7 @@
       <cell>1 cup pecans, chopped and toasted</cell>
     </row>
     <row>
-      <cell><alert>Vinagrette Dressing (with rice vinegar and canola oil)</alert></cell>
+      <cell><xref ref="vinaigrette">Vinaigrette Dressing</xref> (with rice vinegar and canola oil)</cell>
     </row>
   </tabular>
 

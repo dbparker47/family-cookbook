@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="chick-roast" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chicken (Roasted)</title>
+  <title>Chicken - Roasted</title>
 
   <p>
     Ingredients
@@ -46,7 +46,7 @@
     <ol>
       <li>
         <p>
-          Preheat the oven to <m>425\circ</m> F.
+          Preheat the oven to <m>425^\circ</m> F.
         </p>
       </li>
       <li>
