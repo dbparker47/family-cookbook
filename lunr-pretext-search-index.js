@@ -1168,7 +1168,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "15.3",
   "title": "Doughnuts - Basic",
-  "body": " Doughnuts - Basic  Ingredients:    cups flour    cup sugar    teaspoons baking powder    9 tablespoons butter, melted    cup milk    1 egg, lightly beaten    Instructions   Combine all dry ingredients in one mixing bowl; combine all wet ingredients in another mixing bowl.    Pour wet ingredients into dry ingredients; mix until batter is smooth.    Cook in doughnut maker.     Notes:  This recipe requires a doughnut maker. If you would prefer using an air fryer, I have an air fryer doughnuts recipe.    "
+  "body": " Doughnuts - Basic  Ingredients:    cups flour    cup sugar    teaspoons baking powder    9 tablespoons butter, melted    cup milk    1 egg, lightly beaten    Instructions   Combine all dry ingredients in one mixing bowl; combine all wet ingredients in another mixing bowl.    Pour wet ingredients into dry ingredients; mix until batter is smooth.    Cook in doughnut maker.     Notes:   This recipe requires a doughnut maker. If you would prefer using an air fryer, I have an air fryer doughnuts recipe.     "
 },
 {
   "id": "fak-sang",
