@@ -11,7 +11,7 @@
       <cell>5 cups bow-tie pasta</cell>
     </row>
     <row>
-      <cell>4 cups <alert>Baked Butternut Squash</alert></cell>
+      <cell>4 cups <xref ref="bake-squash">Baked Butternut Squash</xref></cell>
     </row>
     <row>
       <cell><m>\frac{1}{2}</m> pound cooked sausage</cell>
