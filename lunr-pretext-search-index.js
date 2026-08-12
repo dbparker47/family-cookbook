@@ -982,29 +982,56 @@ var ptx_lunr_docs = [
   "body": " Chocolate Chip Cookies  Ingredients:    1 cup butter    1 cup sugar    1 cup packed brown sugar    2 eggs    2 teaspoons vanilla extract    1 teaspoon baking soda, dissolved in 2 teaspoons hot water    teaspoon salt    3 cups flour    2 cups chocolate chips    1 cup chopped walnuts (optional)    Instructions   Cream together butter, sugar, brown sugar until smooth.    Beat in the eggs, one at a time, and then stir in vanilla. Add in dissolved baking soda and salt.    Stir in flour, chololate chips, and nuts. Drop large spoonfuls onto ungreased pans (20 cookies per sheet).    Bake for 20 minutes at , or until edges are nicely browned.    If making as cookie bars, bake at for 31 minutes for a full recipe and 25 minutes for half recipe.     Notes:   This works great as a half recipe, except there are barely more than one baking sheet worth of cookies. I have had luck putting the last five or so cookies on a sheet, turning off the oven, and letting them bake as the oven cools. Just keep an eye on them.    If making cookie bars, use cups chocolate chips.    I have tried these with an air fryer, and it sucks. If you have any ideas, let me know.     "
 },
 {
+  "id": "choc-chip-oat",
+  "level": "1",
+  "url": "choc-chip-oat.html",
+  "type": "Section",
+  "number": "13.2",
+  "title": "Chocolate Chip Oatmeal Cookies (Mrs. Fields)",
+  "body": " Chocolate Chip Oatmeal Cookies (Mrs. Fields)  Ingredients    1 cup butter    1 cup brown sugar    1 cup white sugar    2 eggs    teaspoon salt    1 teaspoon baking powder    1 teaspoon baking soda    1 teaspoon vanilla    2 cups flour    cups oats    12 ounces chocolate chips    Instructions   Cream together the butter, brown & white sugars, and eggs.    Stir in the salt, baking powder, baking soda, vanilla, and flour    Grind the oats to a fine powder in a food processor.    Stir the oats into the dough. Then stir in the chocolate chips.     Notes:   Beach cookies!     "
+},
+{
   "id": "choc-chip-mug",
   "level": "1",
   "url": "choc-chip-mug.html",
   "type": "Section",
-  "number": "13.2",
+  "number": "13.3",
   "title": "Chocolate Chip Cookie (Mug)",
   "body": " Chocolate Chip Cookie (Mug)  Ingredients:    1 tablespoon butter    Pinch of salt    1 tablespoon each brown\/white sugar    1 egg yolk    teaspoon vanilla    2 heaping tablespoons flour    1 tablespoon chocolate chips    Instructions   Melt butter. Add sugar, vanilla, and egg. Mix together. Add flour and stir. Add chocolate chips and stir.    Microwave for 50 seconds on half power (one cookie).     Notes:        "
+},
+{
+  "id": "eng-toff",
+  "level": "1",
+  "url": "eng-toff.html",
+  "type": "Section",
+  "number": "13.4",
+  "title": "English Toffee (Grandma Janet)",
+  "body": " English Toffee (Grandma Janet)  Ingredients    2 cups unsalted butter    2 cups white sugar    teaspoon salt    2 cups semisweet chocolate chips    1 cup finely chopped almonds    Instructions   Combine butter, sugar, and salt in a large, heavy-bottomed saucepan over medium heat.    Stir constantly in one direction until butter is melted, about 5 minutes.    Meanwhile, line a 9\" x 13\" baking dish with a sheet of parchment paper, letting it overhang two sides of the dish.    Once the butter has melted, stop stirring and bring mixture to a boil. Once boiling, cook, stirring only 2 to 3 times, until it turns a dark amber color and the temperature reaches F on a candy thermometer, 20 to 30 minutes.    Immediately pour toffee into the prepared baking dish. Sprinkle chocolate chips on top and let sit until they soften, 1 to 2 minutes.    Use a spatula to spread softened chocolate into a thin, even layer.    Sprinkle nuts over the chocolate and press down slightly; wearing a plastic bag over your hand will minimize the mess.    Place toffee in the refrigerator until set, about 1 hour. Lift hardened toffee out of the baking dish with the parchment paper.    Break into pieces and store in an airtight container.     Notes:   Make sure the parchment paper is the right width for the pan. Otherwise, the toffee thickness will be uneven.     "
 },
 {
   "id": "ginger-cookie",
   "level": "1",
   "url": "ginger-cookie.html",
   "type": "Section",
-  "number": "13.3",
+  "number": "13.5",
   "title": "Gingerbread Cookies",
-  "body": " Gingerbread Cookies  Ingredients:    cups flour    teaspoon cloves    teaspoon baking soda    teaspoons ground ginger    teaspoons cinnamon    sticks butter (14 tablespoons)    1 cup packed brown sugar    1 egg    1 teaspoon vanilla extract    Powdered Sugar Glaze (optional)    Instructions   Sift flour, baking soda, ginger, cinnamon, and cloves into large bowl.    Beat butter and brown sugar in a medium bowl until creamy. Add egg and vanilla extract, and beat until blended.    Stir flour mixture into butter mixture, blending well. Refrigerate dough until firm.    Roll out some dough until it is inch thick. Cut cookie dough into shapes.    Bake on ungreased cookie sheet for 15 minutes for people and 11 minutes for candy canes at .    Put icing on after they cool a little.     Notes:   Notice the reference to the candy cane and people shapes for the cookies. Just be aware that different shapes may require different cooking times.     "
+  "body": " Gingerbread Cookies  Ingredients:    cups flour    teaspoon cloves    teaspoon baking soda    teaspoons ground ginger    teaspoons cinnamon    sticks butter (14 tablespoons)    1 cup packed brown sugar    1 egg    1 teaspoon vanilla extract    Powdered Sugar Glaze (optional)    Instructions   Sift flour, baking soda, ginger, cinnamon, and cloves into large bowl.    Beat butter and brown sugar in a medium bowl until creamy. Add egg and vanilla extract, and beat until blended.    Stir flour mixture into butter mixture, blending well. Refrigerate dough until firm.    Roll out some dough until it is inch thick. Cut cookie dough into shapes.    Bake on ungreased cookie sheet for 15 minutes for people and 11 minutes for candy canes at .    Put glaze on after they cool a little.     Notes:   Notice the reference to the candy cane and people shapes for the cookies. Just be aware that different shapes may require different cooking times.     "
+},
+{
+  "id": "shortbread",
+  "level": "1",
+  "url": "shortbread.html",
+  "type": "Section",
+  "number": "13.6",
+  "title": "Scotch Shortbread (Grandma Janet)",
+  "body": " Scotch Shortbread (Grandma Janet)  Ingredients    2 cups flour    1 cup butter    cup powdered sugar    1 cup semisweet chocolate chips (optional)    Instructions   Cream butter and sugar thoroughly.    Add flour and sugar, mixing in quickly and lightly. Chill dough hour.    Roll out dough to inch. Cut as desired and place on cookie sheets and bake at for 5 minutes. Reduce temperature to and bake for 20 to 30 minutes longer. Do not let them brown.    Melt chocolate chips, either in the microwave on low power or on the stove. Spread melted chocolate on top of cookies     Notes:        "
 },
 {
   "id": "snowball",
   "level": "1",
   "url": "snowball.html",
   "type": "Section",
-  "number": "13.4",
+  "number": "13.7",
   "title": "Snowballs (Grandma Joy)",
   "body": " Snowballs (Grandma Joy)  Ingredients:    1 pound butter    cup white sugar    4 cups flour (add cup flour for no nuts)    2 cups walnuts    teaspoon salt    2 teaspoons vanilla    Confectioners' sugar    Instructions   Melt butter on stove; let it cool a little.    Add flour, salt, and sugar; mix well.    Stir in nuts and vanilla, and roll into balls.    Place on cookie sheet; bake at for 10 to 15 minutes. Snowballs should be slightly browned on the edges.    Let them cool a little; roll in powdered sugar.     Notes:        "
 },
@@ -1013,7 +1040,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sugar-cookie.html",
   "type": "Section",
-  "number": "13.5",
+  "number": "13.8",
   "title": "Sugar Cookies",
   "body": " Sugar Cookies  Ingredients:    cups sifted flour    1 teaspoon salt    1 cup butter, softened    1 cup white sugar    2 eggs    1 teaspoon vanilla    Powdered sugar, for rolling out dough    Powdered Sugar Glaze    Instructions   Resift flour with the salt.    Beat butter and sugar in a medium bowl until creamy. Add egg and vanilla, and beat until blended.    Add flour mixture into butter mixture, and mix just enough to combine the ingredients. Refrigerate dough until firm (2 hours?).    Roll out some dough until it is inch thick. Cut cookie dough into shapes.    Bake on ungreased cookie sheet for 10 minutes for people and 8 minutes for candy canes at .    For air fryer, place in basket. Bake three people cookies at for 5 to 6 minutes.    Put on glaze after cookies have cooled a little.     Notes:        "
 },
@@ -1024,16 +1051,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.1",
   "title": "Apple Pie (Grandma Joy)",
-  "body": " Apple Pie (Grandma Joy)  Ingredients:    Regular Pie Crust    8 to 9 Tart Apples    1 tablespoon all-purpose flour    1 teaspoon cinnamon    Dots of butter    Instructions   Break crust into two pieces. Flatten each with a rolling pin. Put one into pie pan.    Put apples on crust in pie pan. Mix flour, sugar, and cinnamon together and pour over apples. Dot with butter.    Bake at for 25 minutes with aluminum foil around the edge of the crust. Bake 25 minutes more without aluminum foil.     Notes:        "
+  "body": " Apple Pie (Grandma Joy)  Ingredients:    Regular Pie Crust    8 to 9 Tart Apples    1 tablespoon all-purpose flour    1 teaspoon cinnamon    Dots of butter    Instructions   Break crust into two pieces. Flatten each with a rolling pin. Put one into greased pie pan.    Put apples on crust in pie pan. Mix flour, sugar, and cinnamon together and pour over apples. Dot with butter.    Bake at for 25 minutes with aluminum foil around the edge of the crust. Bake 25 minutes more without aluminum foil.     Notes:        "
 },
 {
-  "id": "pie-black-bot",
+  "id": "bl-bot-pie",
   "level": "1",
-  "url": "pie-black-bot.html",
+  "url": "bl-bot-pie.html",
   "type": "Section",
   "number": "14.2",
-  "title": "Black Bottom Pie",
-  "body": " Black Bottom Pie  Ingredients:                                     Instructions                    Notes:        "
+  "title": "Black Bottom Pie (Grandma Janet)",
+  "body": " Black Bottom Pie (Grandma Janet)  Ingredients    Pie Filling:    ounces unflavored gelatin (optional?)    cups milk    4 eggs, separated    1 cup sugar    teaspoon salt    4 teaspoons cornstarch    2 ounces unsweetened chocolate    1 teaspoon vanilla extract    3 tablespoons rum or teaspoons rum flavoring    1 cup whipping cream, whipped    2 tablespoons confectioners' sugar    Gingersnap Crust    Instructions   If using, soften gelatin in cup of the milk. Scald remaining milk in top of double boiler over boiling water.    Beat egg yolks. Blend in cup of the sugar, salt and cornstarch. Add remaining milk slowly, stirring constantly.    Return to double boiler and cook over simmering water, stirring constantly, until custard coats spoon. Remove from heat. Set aside cup custard.    Add gelatin to remainder and stir until dissolved. Chill.    Melt ounces of the chocolate. Blend in reserved cup custard and vanilla. Pour into crust. Spread evenly. Chill.    When remaining custard begins to set, blend in rum. Beat egg whites until stiff. Gradually beat in remaining sugar. Fold in custard. Spread over chocolate mixture in pie plate.    Combine whipped cream and powdered sugar. Spread some over custard. Use a pastry tube with star tip and pipe rest around edges. Shave remaining chocolate over top.    Chill 4-6 hours.     Notes:        "
 },
 {
   "id": "blue-pie",
@@ -1045,13 +1072,13 @@ var ptx_lunr_docs = [
   "body": " Blueberry Pie  Ingredients:    Regular Pie Crust    cup sugar    to 4 tablespoons corn starch    teaspoon cinnamon    5 cups (approximately 2 pounds) blueberries    1 teaspoon grated lemon zest    Instructions   Mix sugar, cornstarch, and cinnamon, and sprinkle over blueberries.    Line pie dish with one pie crust. Pour berry mixture into the crust, and dot with butter. Cut remaining pastry into to inch wide strips, and make lattice top. Crimp and flute edges.    Bake pie on lower shelf of oven at for about 50 minutes, or until crust is golden brown.     Notes:        "
 },
 {
-  "id": "pudd-pie",
+  "id": "choc-pud-pie",
   "level": "1",
-  "url": "pudd-pie.html",
+  "url": "choc-pud-pie.html",
   "type": "Section",
   "number": "14.4",
   "title": "Chocolate Pudding Pie (Grandma Genevieve)",
-  "body": " Chocolate Pudding Pie (Grandma Genevieve)  Ingredients:                                     Instructions                    Notes:        "
+  "body": " Chocolate Pudding Pie (Grandma Genevieve)  Ingredients    Regular Pie Crust    2 ounces unsweetened chocolate    2 tablespoons butter    cup sugar    teaspoon salt    cup milk, scalded    3 eggs, separated    tsp. vanilla    Instructions   Melt chocolate and butter over hot water.    Mix flour, sugar, and salt together. Stir into chocolate. Add milk and stir constantly until mixture is fully thickened (about 15 minutes).    Beat egg yolks well. Stir in a little of the chocolate mixture. Then pour into rest of hot mixture and cook 2 minutes stirring constantly. Remove from heat.    Cool partially and stir in vanilla. Pour into baked pie crust. Serve topped with fresh whipped cream.     Notes:        "
 },
 {
   "id": "choc-silk",
@@ -1060,7 +1087,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.5",
   "title": "Chocolate Silk Pie",
-  "body": " Chocolate Silk Pie  Ingredients:    Graham Pie Crust    4 to 5 large eggs    to 1 cup sugar    2 to tablespoons water    10 to tablespoons butter    teaspoon salt    3 to 4 ounces bittersweet or semisweet chocolate, melted and cooled slightly    to 2 teaspoon vanilla extract    1 cup heavy cream    4 tablespoons confectioner's sugar    Chocolate shavings, for garnish    Instructions   Fill a medium pot with 1 inch water over medium heat. Whisk the eggs with to cup of the sugar and the water in a large heatproof bowl that will fit over the pot without touching the water. Place the bowl over the simmering water and continue whisking constantly until the eggs become thick and fluffy, and a drizzle of the mixture will hold its shape and sit on top of the custard, about 5 minutes. Remove from the heat and set aside to cool, whisking occasionally so the eggs do not scramble.    Combine the butter, salt and remaining to cup sugar in a medium bowl and beat in a stand mixer or with hand beaters on medium-high speed until fluffy. Pour in the chocolate and to teaspoons of the vanilla and continue to beat, scraping down the sides of the bowl as needed, until combined. Add the custard and continue to beat until the filling is thick, fluffy and smooth, about 5 minutes.    Spread into the pie crust and cover with plastic wrap. Chill until cold and set, 2 to 3 hours. Before serving, whip the cream with the confectioners' sugar and remaining teaspoon vanilla until it forms soft peaks. Spread over the pie filling and garnish with chocolate shavings.     Notes:        "
+  "body": " Chocolate Silk Pie  Ingredients:    Graham Pie Crust    4 to 5 large eggs    to 1 cup sugar    2 to tablespoons water    10 to tablespoons butter    teaspoon salt    3 to 4 ounces bittersweet or semisweet chocolate, melted and cooled slightly    to 2 teaspoons vanilla extract    1 cup heavy cream    4 tablespoons confectioner's sugar    Chocolate shavings, for garnish    Instructions   Fill a medium pot with 1 inch water over medium heat. Whisk the eggs with to cup of the sugar and the water in a large heatproof bowl that will fit over the pot without touching the water. Place the bowl over the simmering water and continue whisking constantly until the eggs become thick and fluffy, and a drizzle of the mixture will hold its shape and sit on top of the custard, about 5 minutes. Remove from the heat and set aside to cool, whisking occasionally so the eggs do not scramble.    Combine the butter, salt and remaining to cup sugar in a medium bowl and beat in a stand mixer or with hand beaters on medium-high speed until fluffy. Pour in the chocolate and to teaspoons of the vanilla and continue to beat, scraping down the sides of the bowl as needed, until combined. Add the custard and continue to beat until the filling is thick, fluffy and smooth, about 5 minutes.    Spread into the pie crust and cover with plastic wrap. Chill until cold and set, 2 to 3 hours. Before serving, whip the cream with the confectioners' sugar and remaining teaspoon vanilla until it forms soft peaks. Spread over the pie filling and garnish with chocolate shavings.     Notes:   Each ingredient has a range dependent on the size of the pie pan. Use the smaller measurements for a smaller pie and the larger measurements for a bigger pie.     "
 },
 {
   "id": "rhu-pie",
@@ -1069,7 +1096,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.6",
   "title": "Rhubarb Pie",
-  "body": " Rhubarb Pie  Ingredients:    Regular Pie Crust    cups white sugar    5 tablespoons all-purpose flour    4+ cups chopped rhubarb    1 tablespoon butter    Instructions   Combine sugar and flour in a bowl; sprinkle of the sugar mixture over the prepared bottom crust.    Heap rhubarb on top and sprinkle with remaining sugar mixture. Dot with butter and cover with top crust.    Bake pie at for 15 minutes. Reduce temperature to F and continue baking until filling is bubbly and crust is golden brown, 40 to 45 minutes.         Notes:        "
+  "body": " Rhubarb Pie  Ingredients:    Regular Pie Crust    cups white sugar    5 tablespoons all-purpose flour    4+ cups chopped rhubarb    1 tablespoon butter    Instructions   Combine sugar and flour in a bowl; sprinkle of the sugar mixture over the prepared bottom crust.    Heap rhubarb on top and sprinkle with remaining sugar mixture. Dot with butter and cover with top crust.    Bake pie at for 15 minutes. Reduce temperature to F and continue baking until filling is bubbly and crust is golden brown, 40 to 45 minutes.     Notes:        "
 },
 {
   "id": "pump-pie",
@@ -1096,7 +1123,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.9",
   "title": "Pie Crust (Regular)",
-  "body": " Pie Crust (Regular)  Ingredients:    cup canola oil    2 cups all-purpose flour    cup water    Instructions   Mix oil and water briskly.    Dump oil-water mixture on flour and mix vigorously with fork. Bring crust together with hands. Pray for good luck.    If you need to blind bake it, bake crust 8-10 minutes at 475 degrees.     Notes:   This crust is used in Cheese and Bacon Quiche , Apple Pie , Blueberry Pie , Rhubarb Pie , Squash Pie , Sweet Potato Pie , Spinach-Ricotta Pie , and Zucchini Crescent Pie .     "
+  "body": " Pie Crust (Regular)  Ingredients:    cup canola oil    2 cups all-purpose flour    cup water    Instructions   Mix oil and water briskly.    Dump oil-water mixture on flour and mix vigorously with fork. Bring crust together with hands. Pray for good luck.    If you need to blind bake it, bake crust 8-10 minutes at 475 degrees.     Notes:   This crust is used in Cheese and Bacon Quiche , Apple Pie , Blueberry Pie , Chocolate Pudding Pie (Grandma Genevieve) , Rhubarb Pie , Squash Pie , Sweet Potato Pie , Spinach-Ricotta Pie , and Zucchini Crescent Pie .     "
 },
 {
   "id": "gr-crust",
