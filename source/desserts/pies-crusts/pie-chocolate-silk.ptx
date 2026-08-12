@@ -8,7 +8,7 @@
   </p>
   <tabular>
     <row>
-      <cell><alert>Graham Pie Crust</alert></cell>
+      <cell><xref ref="gr-crust">Graham Pie Crust</xref></cell>
     </row>
     <row>
       <cell>4 to 5 large eggs</cell>
@@ -29,7 +29,7 @@
       <cell>3 to 4 ounces bittersweet or semisweet chocolate, melted and cooled slightly</cell>
     </row>
     <row>
-      <cell><m>1 \frac{1}{2}</m> to 2 teaspoon vanilla extract</cell>
+      <cell><m>1 \frac{1}{2}</m> to 2 teaspoons vanilla extract</cell>
     </row>
     <row>
       <cell>1 cup heavy cream</cell>
@@ -67,7 +67,7 @@
     <ul>
       <li>
         <p>
-          
+          Each ingredient has a range dependent on the size of the pie pan.  Use the smaller measurements for a smaller pie and the larger measurements for a bigger pie.
         </p>
       </li>
     </ul>

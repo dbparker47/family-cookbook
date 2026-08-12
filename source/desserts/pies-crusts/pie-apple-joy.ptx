@@ -8,7 +8,7 @@
   </p>
   <tabular>
     <row>
-      <cell><alert>Regular Pie Crust</alert></cell>
+      <cell><xref ref="reg-crust">Regular Pie Crust</xref></cell>
     </row>
     <row>
       <cell>8 to 9 Tart Apples</cell>
@@ -28,7 +28,7 @@
     <ol>
       <li>
         <p>
-          Break crust into two pieces.  Flatten each with a rolling pin.  Put one into pie pan.
+          Break crust into two pieces.  Flatten each with a rolling pin.  Put one into greased pie pan.
         </p>
       </li>
       <li>
@@ -38,7 +38,7 @@
       </li>
       <li>
         <p>
-          Bake at <m>425\circ</m> for 25 minutes with aluminum foil around the edge of the crust.  Bake 25 minutes more without aluminum foil.
+          Bake at <m>425^\circ</m> for 25 minutes with aluminum foil around the edge of the crust.  Bake 25 minutes more without aluminum foil.
         </p>
       </li>
     </ol>

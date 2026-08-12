@@ -8,7 +8,7 @@
   </p>
   <tabular>
     <row>
-      <cell><alert>Regular Pie Crust</alert></cell>
+      <cell><xref ref="reg-crust">Regular Pie Crust</xref></cell>
     </row>
     <row>
       <cell><m>1 \frac{2}{3}</m> cups white sugar</cell>
@@ -38,12 +38,7 @@
       </li>
       <li>
         <p>
-          Bake pie at <m>450\circ</m> for 15 minutes.  Reduce temperature to <m>350\circ</m> F and continue baking until filling is bubbly and crust is golden brown, 40 to 45 minutes.
-        </p>
-      </li>
-      <li>
-        <p>
-          
+          Bake pie at <m>450^\circ</m> for 15 minutes.  Reduce temperature to <m>350^\circ</m> F and continue baking until filling is bubbly and crust is golden brown, 40 to 45 minutes.
         </p>
       </li>
     </ol>

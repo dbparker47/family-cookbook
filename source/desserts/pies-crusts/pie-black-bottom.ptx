@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="pie-black-bot" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Black Bottom Pie</title>
+<section xml:id="bl-bot-pie" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Black Bottom Pie (Grandma Janet)</title>
 
   <p>
-    Ingredients:
+    Ingredients
   </p>
   <tabular>
     <row>
-      <cell></cell>
+      <cell><term>Pie Filling:</term></cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>2 \frac{1}{2}</m> ounces unflavored gelatin (optional?)</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>1 \frac{3}{4}</m> cups milk</cell>
     </row>
     <row>
-    <cell></cell>
+      <cell>4 eggs, separated</cell>
     </row>
     <row>
-      <cell></cell>
+    <cell>1 cup sugar</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell><m>\frac{1}{2}</m>  teaspoon salt</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>4 teaspoons cornstarch</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>2 ounces unsweetened chocolate</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 teaspoon vanilla extract</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>3 tablespoons rum or <m>\frac{1}{2}</m> teaspoons rum flavoring</cell>
     </row>
     <row>
-      <cell></cell>
+      <cell>1 cup whipping cream, whipped</cell>
+    </row>
+    <row>
+      <cell>2 tablespoons confectioners' sugar</cell>
+    </row>
+    <row>
+      <cell><xref ref="ginger-crust">Gingersnap Crust</xref></cell>
     </row>
   </tabular>
 
@@ -46,22 +52,42 @@
     <ol>
       <li>
         <p>
-          
+          If using, soften gelatin in <m>\frac{1}{4}</m> cup of the milk. Scald remaining milk in top of double boiler over boiling water.
         </p>
       </li>
       <li>
         <p>
-          
+          Beat egg yolks. Blend in <m>\frac{1}{2}</m> cup of the sugar, salt and cornstarch. Add remaining milk slowly, stirring constantly.
         </p>
       </li>
       <li>
         <p>
-          
+          Return to double boiler and cook over simmering water, stirring constantly, until custard coats spoon. Remove from heat. Set aside <m>\frac{1}{2}</m> cup custard.
         </p>
       </li>
       <li>
         <p>
-          
+          Add gelatin to remainder and stir until dissolved. Chill.
+        </p>
+      </li>
+      <li>
+        <p>
+          Melt <m>1 \frac{1}{2}</m> ounces of the chocolate. Blend in reserved <m>\frac{1}{2}</m> cup custard and vanilla. Pour into crust. Spread evenly. Chill.
+        </p>
+      </li>
+      <li>
+        <p>
+          When remaining custard begins to set, blend in rum. Beat egg whites until stiff. Gradually beat in remaining sugar. Fold in custard. Spread over chocolate mixture in pie plate.
+        </p>
+      </li>
+      <li>
+        <p>
+          Combine whipped cream and powdered sugar. Spread some over custard. Use a pastry tube with star tip and pipe rest around edges. Shave remaining chocolate over top.
+        </p>
+      </li>
+      <li>
+        <p>
+          Chill 4-6 hours.
         </p>
       </li>
     </ol>

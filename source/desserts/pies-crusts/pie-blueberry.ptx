@@ -8,7 +8,7 @@
   </p>
   <tabular>
     <row>
-      <cell><alert>Regular Pie Crust</alert></cell>
+      <cell><xref ref="reg-crust">Regular Pie Crust</xref></cell>
     </row>
     <row>
       <cell><m>\frac{3}{4}</m> cup sugar</cell>
@@ -41,7 +41,7 @@
       </li>
       <li>
         <p>
-          Bake pie on lower shelf of oven at <m>425\circ</m> for about 50 minutes, or until crust is golden brown.
+          Bake pie on lower shelf of oven at <m>425^\circ</m> for about 50 minutes, or until crust is golden brown.
         </p>
       </li>
     </ol>

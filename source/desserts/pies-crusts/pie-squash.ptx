@@ -8,10 +8,10 @@
   </p>
   <tabular>
     <row>
-      <cell>1 large <alert>baked butternut squash</alert> (or 29 ounce can of pumpkin)</cell>
+      <cell>1 large <xref ref="bake-squash">baked butternut squash</xref> (or 29 ounce can of pumpkin)</cell>
     </row>
     <row>
-      <cell>Half-recipe of <alert>Regular Pie Crust</alert></cell>
+      <cell>Half-recipe of <xref ref="reg-crust">Regular Pie Crust</xref></cell>
     </row>
     <row>
       <cell>3 eggs</cell>
@@ -56,7 +56,7 @@
       </li>
       <li>
         <p>
-          Bake at <m>400\circ</m> for 75 minutes, or until center of pie barely jiggles when you shake it.
+          Bake at <m>400^\circ</m> for 75 minutes, or until center of pie barely jiggles when you shake it.
         </p>
       </li>
     </ol>
