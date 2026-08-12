@@ -1528,7 +1528,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "24.8",
   "title": "Ramen Egg",
-  "body": " Ramen Egg  Ingredients    Marinade    cup mirin    cup soy sauce    cup dark soy sauce    cup water (if marinating longer than 6 hours)    Spices (optional)    teaspoon cayenne pepper    2 cloves garlic    1 star anise    Instructions   Bring eggs to a boil. Remove from heat, and let sit 10 minutes. Put in cold water until cool.    Meanwhile, put marinade ingredients in a tall container with airtight lid. Whisk to combine. If adding additional spices, bring marinade just to simmer in a small saucepan with spices. Remove from heat and let it cool to room temperature.    Peel eggs and place in marinade in the tall airtight container. Add cup water if marinating longer than 6 hours. Let sit for 2 to 24 hours.    Remove eggs from marinade and place in an airtight container. Store for up to 5 days. Marinade can be stored in airtight container for up to 3 weeks.     Notes:   Used in Ramen (Shoyu)      "
+  "body": " Ramen Egg  Ingredients    Marinade    cup mirin    cup soy sauce    cup dark soy sauce    cup water (if marinating longer than 6 hours)    Spices (optional)    teaspoon cayenne pepper    2 cloves garlic    1 star anise    Instructions   Bring eggs to a boil. Remove from heat, and let sit 10 minutes. Put in cold water until cool.    Meanwhile, put marinade ingredients in a tall container with airtight lid. Whisk to combine. If adding additional spices, bring marinade just to simmer in a small saucepan with spices. Remove from heat and let it cool to room temperature.    Peel eggs and place in marinade in the tall airtight container. Add cup water if marinating longer than 6 hours. Let sit for 2 to 24 hours.    Remove eggs from marinade and place in an airtight container. Store for up to 5 days. Marinade can be stored in airtight container for up to 3 weeks.     Notes:   You can substitute regular soy sauce for dark soy sauce if you do not have a full range of soy sauces.    Used in Ramen (Shoyu)      "
 },
 {
   "id": "kraut",
@@ -1555,7 +1555,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "24.11",
   "title": "Stir Fry Sauce - Charlie",
-  "body": " Stir Fry Sauce - Charlie  Ingredients    cup light soy sauce    cup all purpose soy sauce    cup oyster sauce    cup Chinese wine (or dry sherry)    cup cornstarch or cornflour    1 tablespoon sugar    2 tablespoons sesame oil    1 to 2 teaspoons ground white pepper    Instructions   Combine ingredients. Shake or stir to combine.    Store in fridge and shake or stir before use.     Notes:   Used in Stir Fry (Charlie)      "
+  "body": " Stir Fry Sauce - Charlie  Ingredients    cup light soy sauce    cup all purpose soy sauce    cup oyster sauce    cup Chinese wine (or dry sherry)    cup cornstarch or cornflour    1 tablespoon sugar    2 tablespoons sesame oil    1 to 2 teaspoons ground white pepper    Instructions   Combine ingredients. Shake or stir to combine.    Store in fridge and shake or stir before use.     Notes:   You can substitute regular soy sauce for the other soy sauces if you do not have a full range of soy sauces.    Used in Stir Fry (Charlie)      "
 },
 {
   "id": "tac-season",
@@ -1573,7 +1573,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "24.13",
   "title": "Vinaigrette Dressing",
-  "body": " Vinaigrette Dressing  Ingredients    2 cloves garlic, minced finely    1 tablespoon dijon mustard    teaspoon salt (optional)    teaspoon honey    teaspoon pepper (optional)    1\/3 cup vinegar (balsamic, apple cider, rice, others?)    to cup oil (olive or canola), so that vinegar and oil combine for to cup.    Instructions   Mix together ingredients. Let sit for a while before using.     Notes:   The three vinaigrettes I make are rice vinegar with canola oil, balsamic vinegar with olive oil, and apple cider vinegar with olive oil. For the rice vinaigrette, I put a little less oil in ( cup), and I put in the higher amount for the olive oil vinaigrettes.    Used in Santa Rosa Chicken Salad      "
+  "body": " Vinaigrette Dressing  Ingredients    2 cloves garlic, minced finely    1 tablespoon dijon mustard    teaspoon salt (optional)    teaspoon honey    teaspoon pepper (optional)    cup vinegar (balsamic, apple cider, rice, others?)    to cup oil (olive or canola), so that vinegar and oil combine for to cup.    Instructions   Mix together ingredients. Let sit for a while before using.     Notes:   The three vinaigrettes I make are rice vinegar with canola oil, balsamic vinegar with olive oil, and apple cider vinegar with olive oil. For the rice vinaigrette, I put a little less oil in ( cup), and I put in the higher amount for the olive oil vinaigrettes.    Used in Santa Rosa Chicken Salad      "
 },
 {
   "id": "backmatter-2",
