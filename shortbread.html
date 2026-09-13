@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 <link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
-<script type="module">import { startMathJax } from './_static/pretext/js/dist/mathjax_startup.js';
+<script type="module">import { startMathJax } from './_static/pretext/js/mathjax_startup.js';
 startMathJax({
 hasWebworkReps: false,
 hasSage: false,
@@ -29,13 +29,9 @@ htmlPresentation: false,
 </script><script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="og:type" content="book">
-<meta name="twitter:title" content="Family Recipe Book: Recipes from the Parkers, Connicks, Edwards, and Hamptons">
-<meta property="og:title" content="Family Recipe Book: Recipes from the Parkers, Connicks, Edwards, and Hamptons">
-<meta property="book:title" content="Family Recipe Book: Recipes from the Parkers, Connicks, Edwards, and Hamptons">
-<meta name="twitter:description" content="A simple string (no markup is allowed) to describe your book.">
-<meta property="og:description" content="A simple string (no markup is allowed) to describe your book.">
-<meta name="twitter:card" content="summary">
-<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/dist/pretext-core.js?v=2.43"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<meta property="book:title" content="Family Recipe Book">
+<meta property="book:author" content="Darren Parker (editor)">
+<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><!--** eBookCongig is necessary to configure interactive       **-->
 <!--** Runestone components to run locally in reader's browser **-->
 <!--** No external communication:                              **-->
 <!--**     log level is 0, Runestone Services are disabled     **-->
@@ -57,16 +53,16 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '8.2.4';
+eBookConfig.runestone_version = '8.2.10';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.40bd1420d3277749.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.b388362b5f43738a.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
-<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.8086b62682b271d1.css">
-<script src="_static/pretext/js/dist/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/dist/pretext_search.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+<script src="_static/prefix-runtime.e3f9706509fcf6f7.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.c5ba0ffa5f963084.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.efe427683fc41f98.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script>
 </head>
 <body id="changeme" class="pretext book ignore-math">
@@ -74,35 +70,18 @@ eBookConfig.enable_chatcodes =  false;
 <h1 class="heading"><a href="my-great-book.html"><span class="title">Family Recipe Book</span> <span class="subtitle">Recipes from the Parkers, Connicks, Edwards, and Hamptons</span></a></h1>
 <p class="byline">Darren Parker (editor)</p>
 </div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
-<button id="ptx-toc-toggle" type="button" aria-controls="ptx-sidebar" class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="ptx-search-box">
-<div class="ptx-search-widget"><button id="ptx-search-button" type="button" class="ptx-search-button button" title="Search Book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
-<dialog id="ptx-search-dialog" class="ptx-dialog ptx-search-dialog"><div class="ptx-search-dialog-controls">
-<input aria-label="Search term" id="ptx-search-terms" class="ptx-search-terms" type="text" name="terms" placeholder="Search terms"><button aria-label="Close" id="ptx-search-close" class="ptx-search-close"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cd;</span></button>
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
 </div>
-<div id="ptx-search-status" class="ptx-search-status" aria-live="polite" aria-atomic="true"></div>
-<h2 class="heading ptx-search-results-heading">Search Results: </h2>
-<div id="ptx-search-empty" class="ptx-search-empty"><span>No results.</span></div>
-<ol id="ptx-search-results" class="ptx-search-results"></ol></dialog>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
 </div>
-<span class="nav-other-controls"><button id="ptx-readability-options-button" class="ptx-readability-options-button button" title="Readability settings"><span class="icon material-symbols-outlined" aria-hidden="true">&#xf6f1;</span><span class="name">Readability settings</span></button><dialog class="ptx-dialog ptx-readability-options-popup" id="ptx-readability-options-popup"><div class="ptx-readability-options-popup-controls">
-<h2 class="heading">Readability settings</h2>
-<button class="ptx-readability-options-close-button button" id="ptx-readability-options-close-button" title="Close"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cd;</span></button>
 </div>
-<div class="ptx-readability-options-group">
-<label class="ptx-readability-slider-label" for="ptx-readability-line-height"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe240;</span><span>Line height</span><output id="ptx-readability-line-height-value" for="ptx-readability-line-height">1.35</output></label><input type="range" id="ptx-readability-line-height" min="1.10" max="3" step="0.05" value="1.35">
-</div>
-<div class="ptx-readability-options-group">
-<label class="ptx-readability-slider-label" for="ptx-readability-font-size"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe245;</span><span>Content font size</span><output id="ptx-readability-font-size-value" for="ptx-readability-font-size">100%</output></label><input type="range" id="ptx-readability-font-size" min="0.8" max="1.5" step="0.05" value="1">
-</div>
-<fieldset class="ptx-readability-options-group ptx-readability-options-group-theme">
-<legend>Theme</legend>
-<label for="ptx-readability-theme-system"><input type="radio" name="ptx-readability-theme" id="ptx-readability-theme-system" value="system"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe1ab;</span><span>System</span></label><label for="ptx-readability-theme-light"><input type="radio" name="ptx-readability-theme" id="ptx-readability-theme-light" value="light"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe518;</span><span>Light</span></label><label for="ptx-readability-theme-dark"><input type="radio" name="ptx-readability-theme" id="ptx-readability-theme-dark" value="dark"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span>Dark</span></label>
-</fieldset>
-<fieldset class="ptx-readability-options-group">
-<legend>Assistive technologies</legend>
-<label for="ptx-readability-accessible-permalinks"><input type="checkbox" id="ptx-readability-accessible-permalinks"><span>🔗</span><span>Expose permalinks</span></label>
-</fieldset>
-<div class="ptx-readability-options-group"><button type="button" class="ptx-readability-reset-button button" id="ptx-readability-reset-button"><span class="icon material-symbols-outlined" aria-hidden="true">&#xf053;</span><span class="name">Reset All</span></button></div></dialog></span><span class="treebuttons"><a class="previous-button button" href="ginger-cookie.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="cookie.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="snowball.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+<span class="nav-other-controls"><button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="ginger-cookie.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="cookie.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="snowball.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
 </div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R}
 \newcommand{\lt}{&lt;}
 \newcommand{\gt}{&gt;}
@@ -111,14 +90,14 @@ eBookConfig.enable_chatcodes =  false;
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div class="ptx-page">
-<div id="ptx-sidebar" role="complementary" class="ptx-sidebar"><nav id="ptx-toc" tabindex="-1" aria-label="Contents" class="ptx-toc depth3 parts focused" data-preexpanded-levels="0" data-max-levels="3"><ul class="structural toc-item-list contains-active">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth3 parts focused" data-preexpanded-levels="0" data-max-levels="3"><ul class="structural toc-item-list contains-active">
 <li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="break.html" class="internal"><span class="codenumber">I</span> <span class="title">Breakfast</span></a></div>
-<ul id="ptx-toc-group-break" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="pancake-waffle-grain.html" class="internal"><span class="codenumber">1</span> <span class="title">Pancakes, Waffles, &amp; Other Grains</span></a></div>
-<ul id="ptx-toc-group-pancake-waffle-grain" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="f-toast.html" class="internal"><span class="codenumber">1.1</span> <span class="title">French Toast</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="f-toast-mug.html" class="internal"><span class="codenumber">1.2</span> <span class="title">French Toast (Mug)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="granola.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Granola (Grandma Joy)</span></a></div></li>
@@ -130,7 +109,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="egg.html" class="internal"><span class="codenumber">2</span> <span class="title">Eggs</span></a></div>
-<ul id="ptx-toc-group-egg" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="artichoke-casserole.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Artichoke Casserole (Grandmommy Hamo)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="quiche-cb.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Cheese and Bacon Quiche</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="omelet.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Omelets</span></a></div></li>
@@ -139,7 +118,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="sweet.html" class="internal"><span class="codenumber">3</span> <span class="title">Sweets</span></a></div>
-<ul id="ptx-toc-group-sweet" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="apple-cake.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Baked Apple Pancake</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bub-bread.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Bubble Bread (Grandma Joy)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cinn-rolls.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Cinnamon Rolls (Grandma Joy)</span></a></div></li>
@@ -151,10 +130,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="main-dish.html" class="internal"><span class="codenumber">II</span> <span class="title">Main Dishes</span></a></div>
-<ul id="ptx-toc-group-main-dish" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="crock.html" class="internal"><span class="codenumber">4</span> <span class="title">Crock Pot</span></a></div>
-<ul id="ptx-toc-group-crock" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="beef-burg.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Beef Burgundy</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="b-stew.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Beef Stew</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sass-saus.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Sassy Sausage</span></a></div></li>
@@ -163,7 +142,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="hotdish.html" class="internal"><span class="codenumber">5</span> <span class="title">Hotdishes</span></a></div>
-<ul id="ptx-toc-group-hotdish" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bean-enchilada.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Black Bean Veggie Enchiladas</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cous-spinach.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Baked Couscous with Spinach and Pine Nuts</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="ench-cass.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Enchilada Casserole</span></a></div></li>
@@ -174,7 +153,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="pastas.html" class="internal"><span class="codenumber">6</span> <span class="title">Pasta</span></a></div>
-<ul id="ptx-toc-group-pastas" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="alfredo.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Alfredo Pasta (Bella)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="art-pasta.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Artichoke Pasta</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="asp-mush-rig.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Asparagus Mushroom Rigatoni</span></a></div></li>
@@ -196,7 +175,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="pie-savory.html" class="internal"><span class="codenumber">7</span> <span class="title">Pies</span></a></div>
-<ul id="ptx-toc-group-pie-savory" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sp-kopita.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Spanakopita (Spinach Pie)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="spin-ric-pie.html" class="internal"><span class="codenumber">7.2</span> <span class="title">Spinach-Ricotta Pie</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="zucc-cresc.html" class="internal"><span class="codenumber">7.3</span> <span class="title">Zucchini Crescent Pie</span></a></div></li>
@@ -205,7 +184,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="soup.html" class="internal"><span class="codenumber">8</span> <span class="title">Soups</span></a></div>
-<ul id="ptx-toc-group-soup" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="avo-ban.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Avocado-Banana Soup</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bl-bean.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Black Bean Soup</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="butt-sw-gb-soup.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Butternut Squash (or Sweet Potato) and Garbanzo Bean Soup</span></a></div></li>
@@ -230,7 +209,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="other-entree.html" class="internal"><span class="codenumber">9</span> <span class="title">Other Entrees</span></a></div>
-<ul id="ptx-toc-group-other-entree" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="span-burr.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Burritos - Spanish Rice</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="wet-burr.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Burritos - Wet</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="chick-not-pie.html" class="internal"><span class="codenumber">9.3</span> <span class="title">Chicken Not Pie</span></a></div></li>
@@ -253,10 +232,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-part contains-active">
 <div class="toc-title-box"><a href="dessert.html" class="internal"><span class="codenumber">III</span> <span class="title">Desserts</span></a></div>
-<ul class="structural toc-item-list contains-active" id="ptx-toc-group-dessert">
+<ul class="structural toc-item-list contains-active">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="brownie.html" class="internal"><span class="codenumber">10</span> <span class="title">Brownies</span></a></div>
-<ul id="ptx-toc-group-brownie" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="reg-brownie.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Basic Brownies</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="brownie-ggg.html" class="internal"><span class="codenumber">10.2</span> <span class="title">Brownies (Grandma Genevieve)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="brownie-rich.html" class="internal"><span class="codenumber">10.3</span> <span class="title">Extra Rich Brownies</span></a></div></li>
@@ -266,7 +245,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="cake.html" class="internal"><span class="codenumber">11</span> <span class="title">Cakes</span></a></div>
-<ul id="ptx-toc-group-cake" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="apple-cider-loaf.html" class="internal"><span class="codenumber">11.1</span> <span class="title">Apple Cider Doughnut Loaf Cake</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="chocolate-sheet.html" class="internal"><span class="codenumber">11.2</span> <span class="title">Chocolate Sheet Cake (Aunt Evelyn)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="poop.html" class="internal"><span class="codenumber">11.3</span> <span class="title">Chocolate Upside-Down Pudding Cake (Aunt Kathleen)</span></a></div></li>
@@ -278,7 +257,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="cookie-bar.html" class="internal"><span class="codenumber">12</span> <span class="title">Bars</span></a></div>
-<ul id="ptx-toc-group-cookie-bar" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="apple-bar.html" class="internal"><span class="codenumber">12.1</span> <span class="title">Apple Squares</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="baklava.html" class="internal"><span class="codenumber">12.2</span> <span class="title">Baklava</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="blueberry-bar.html" class="internal"><span class="codenumber">12.3</span> <span class="title">Blueberry Crumb Bars</span></a></div></li>
@@ -295,7 +274,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter contains-active">
 <div class="toc-title-box"><a href="cookie.html" class="internal"><span class="codenumber">13</span> <span class="title">Cookies</span></a></div>
-<ul class="structural toc-item-list contains-active" id="ptx-toc-group-cookie">
+<ul class="structural toc-item-list contains-active">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="choc-chip.html" class="internal"><span class="codenumber">13.1</span> <span class="title">Chocolate Chip Cookies</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="choc-chip-oat.html" class="internal"><span class="codenumber">13.2</span> <span class="title">Chocolate Chip Oatmeal Cookies (Mrs. Fields)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="choc-chip-mug.html" class="internal"><span class="codenumber">13.3</span> <span class="title">Chocolate Chip Cookie (Mug)</span></a></div></li>
@@ -308,7 +287,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="pie-crust.html" class="internal"><span class="codenumber">14</span> <span class="title">Pies &amp; Crusts</span></a></div>
-<ul id="ptx-toc-group-pie-crust" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="app-pie.html" class="internal"><span class="codenumber">14.1</span> <span class="title">Apple Pie (Grandma Joy)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bl-bot-pie.html" class="internal"><span class="codenumber">14.2</span> <span class="title">Black Bottom Pie (Grandma Janet)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="blue-pie.html" class="internal"><span class="codenumber">14.3</span> <span class="title">Blueberry Pie</span></a></div></li>
@@ -324,7 +303,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="other-dessert.html" class="internal"><span class="codenumber">15</span> <span class="title">Other Desserts</span></a></div>
-<ul id="ptx-toc-group-other-dessert" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bread-pudd.html" class="internal"><span class="codenumber">15.1</span> <span class="title">Bread Pudding</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="dough-apple-cider.html" class="internal"><span class="codenumber">15.2</span> <span class="title">Doughnuts - Apple Cider</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="dough-basic.html" class="internal"><span class="codenumber">15.3</span> <span class="title">Doughnuts - Basic</span></a></div></li>
@@ -342,10 +321,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="bread.html" class="internal"><span class="codenumber">IV</span> <span class="title">Breads</span></a></div>
-<ul id="ptx-toc-group-bread" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="biscuit-roll.html" class="internal"><span class="codenumber">16</span> <span class="title">Biscuits &amp; Rolls</span></a></div>
-<ul id="ptx-toc-group-biscuit-roll" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="biscuit-hazel.html" class="internal"><span class="codenumber">16.1</span> <span class="title">Biscuits (Grandma Hazel)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="pot-roll.html" class="internal"><span class="codenumber">16.2</span> <span class="title">Potato Rolls (Grandma Joy)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="yog-bis.html" class="internal"><span class="codenumber">16.3</span> <span class="title">Yogurt Biscuits</span></a></div></li>
@@ -353,7 +332,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="classic-bread.html" class="internal"><span class="codenumber">17</span> <span class="title">Classic Breads</span></a></div>
-<ul id="ptx-toc-group-classic-bread" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cowboy-fp.html" class="internal"><span class="codenumber">17.1</span> <span class="title">Cowboy Frying Pan Bread</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="irish-soda.html" class="internal"><span class="codenumber">17.2</span> <span class="title">Whole Wheat Irish Soda Bread</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="whole-wheat-sourdough.html" class="internal"><span class="codenumber">17.3</span> <span class="title">Whole Wheat Sourdough Bread</span></a></div></li>
@@ -363,10 +342,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="app.html" class="internal"><span class="codenumber">V</span> <span class="title">Appetizers</span></a></div>
-<ul id="ptx-toc-group-app" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="dip-spread.html" class="internal"><span class="codenumber">18</span> <span class="title">Dips &amp; Spreads</span></a></div>
-<ul id="ptx-toc-group-dip-spread" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bake-art.html" class="internal"><span class="codenumber">18.1</span> <span class="title">Baked Artichoke Dip</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="curr-squash.html" class="internal"><span class="codenumber">18.2</span> <span class="title">Curry Squashcotta Dip</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="humm.html" class="internal"><span class="codenumber">18.3</span> <span class="title">Hummus</span></a></div></li>
@@ -374,16 +353,16 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="other-app.html" class="internal"><span class="codenumber">19</span> <span class="title">Other Appetizers</span></a></div>
-<ul id="ptx-toc-group-other-app" class="structural toc-item-list"><li class="toc-item toc-section"><div class="toc-title-box"><a href="stuffed-leaves.html" class="internal"><span class="codenumber">19.1</span> <span class="title">Stuffed Grape Leaves</span></a></div></li></ul>
+<ul class="structural toc-item-list"><li class="toc-item toc-section"><div class="toc-title-box"><a href="stuffed-leaves.html" class="internal"><span class="codenumber">19.1</span> <span class="title">Stuffed Grape Leaves</span></a></div></li></ul>
 </li>
 </ul>
 </li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="side-dish.html" class="internal"><span class="codenumber">VI</span> <span class="title">Side Dishes</span></a></div>
-<ul id="ptx-toc-group-side-dish" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="potato-vegetable.html" class="internal"><span class="codenumber">20</span> <span class="title">Potatoes &amp; Vegetables</span></a></div>
-<ul id="ptx-toc-group-potato-vegetable" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="russell-sweet-pot.html" class="internal"><span class="codenumber">20.1</span> <span class="title">Senator Russell Butternut Squash (or Sweet Potatoes)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="pot-colcannon.html" class="internal"><span class="codenumber">20.2</span> <span class="title">Mashed Potatoes Colcannon</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="green-beans-hol.html" class="internal"><span class="codenumber">20.3</span> <span class="title">Holiday Green Beans (Grandmommy Hamo?)</span></a></div></li>
@@ -391,7 +370,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="rice.html" class="internal"><span class="codenumber">21</span> <span class="title">Rice Dishes</span></a></div>
-<ul id="ptx-toc-group-rice" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="butt-sq-ris.html" class="internal"><span class="codenumber">21.1</span> <span class="title">Butternut Squash Risotto</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="greek-rice.html" class="internal"><span class="codenumber">21.2</span> <span class="title">Greek Rice Pilaf</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="rice-broc-feta.html" class="internal"><span class="codenumber">21.3</span> <span class="title">Rice, Broccoli, and Feta Cheese Saute</span></a></div></li>
@@ -400,7 +379,7 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="salad.html" class="internal"><span class="codenumber">22</span> <span class="title">Salads</span></a></div>
-<ul id="ptx-toc-group-salad" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="dlm-broc-salad.html" class="internal"><span class="codenumber">22.1</span> <span class="title">Broccoli Salad (Dorothy Lane Market)</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bulg-corn-zucc-bas.html" class="internal"><span class="codenumber">22.2</span> <span class="title">Bulghur Salad with Corn, Zucchini, and Shredded Basil</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cous-art-wal.html" class="internal"><span class="codenumber">22.3</span> <span class="title">Couscous with Artichoke Hearts and Walnuts</span></a></div></li>
@@ -412,17 +391,17 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-part">
 <div class="toc-title-box"><a href="af-misc.html" class="internal"><span class="codenumber">VII</span> <span class="title">Air Fryer &amp; Miscellaneous</span></a></div>
-<ul id="ptx-toc-group-af-misc" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="af.html" class="internal"><span class="codenumber">23</span> <span class="title">Air Fryer</span></a></div>
-<ul id="ptx-toc-group-af" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="af-dough.html" class="internal"><span class="codenumber">23.1</span> <span class="title">Doughnuts</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="fr-sq.html" class="internal"><span class="codenumber">23.2</span> <span class="title">Fries/Squash</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="miscellaneous.html" class="internal"><span class="codenumber">24</span> <span class="title">Miscellaneous</span></a></div>
-<ul id="ptx-toc-group-miscellaneous" class="structural toc-item-list">
+<ul class="structural toc-item-list">
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="bake-squash.html" class="internal"><span class="codenumber">24.1</span> <span class="title">Baked Squash</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cash-sauce.html" class="internal"><span class="codenumber">24.2</span> <span class="title">Cashew Sauce</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="cream-cheese-frost.html" class="internal"><span class="codenumber">24.3</span> <span class="title">Cream Cheese Frosting</span></a></div></li>
@@ -447,7 +426,7 @@ eBookConfig.enable_chatcodes =  false;
 <h2 class="heading hide-type">
 <span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">13.6</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Scotch Shortbread (Grandma Janet)</span>
 </h2>
-<div class="para" id="shortbread-2">Ingredients<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="shortbread-2">Ingredients<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="tabular-box natural-width"><table class="tabular">
 <tr>
@@ -468,39 +447,39 @@ eBookConfig.enable_chatcodes =  false;
 <div class="para">Instructions</div>
 <ol class="decimal" id="shortbread-4-1">
 <li id="shortbread-4-1-1">
-<div class="para" id="shortbread-4-1-1-1">Cream butter and sugar thoroughly.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-4-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="shortbread-4-1-1-1">Cream butter and sugar thoroughly.<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-4-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Item 1"><a tabindex="-1" href="#shortbread-4-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#shortbread-4-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
 <li id="shortbread-4-1-2">
-<div class="para" id="shortbread-4-1-2-1">Add flour and sugar, mixing in quickly and lightly.  Chill dough <span class="process-math">\(\frac{1}{2}\)</span> hour.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-4-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="shortbread-4-1-2-1">Add flour and sugar, mixing in quickly and lightly.  Chill dough <span class="process-math">\(\frac{1}{2}\)</span> hour.<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-4-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Item 2"><a tabindex="-1" href="#shortbread-4-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#shortbread-4-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
 <li id="shortbread-4-1-3">
-<div class="para" id="shortbread-4-1-3-1">Roll out dough to <span class="process-math">\(\frac{1}{2}\)</span> inch.  Cut as desired and place on cookie sheets and bake at <span class="process-math">\(350^\circ\)</span> for 5 minutes. Reduce temperature to <span class="process-math">\(300^\circ\)</span> and bake for 20 to 30 minutes longer.  Do not let them brown.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-4-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="shortbread-4-1-3-1">Roll out dough to <span class="process-math">\(\frac{1}{2}\)</span> inch.  Cut as desired and place on cookie sheets and bake at <span class="process-math">\(350^\circ\)</span> for 5 minutes. Reduce temperature to <span class="process-math">\(300^\circ\)</span> and bake for 20 to 30 minutes longer.  Do not let them brown.<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-4-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Item 3"><a tabindex="-1" href="#shortbread-4-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+<div class="autopermalink" data-description="Item 3"><a href="#shortbread-4-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
 <li id="shortbread-4-1-4">
-<div class="para" id="shortbread-4-1-4-1">Melt chocolate chips, either in the microwave on low power or on the stove. Spread melted chocolate on top of cookies<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-4-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="shortbread-4-1-4-1">Melt chocolate chips, either in the microwave on low power or on the stove. Spread melted chocolate on top of cookies<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-4-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Item 4"><a tabindex="-1" href="#shortbread-4-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+<div class="autopermalink" data-description="Item 4"><a href="#shortbread-4-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
 </li>
 </ol>
-<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="para logical" id="shortbread-5">
 <div class="para">Notes:</div>
 <ul class="disc" id="shortbread-5-1">
 <li id="shortbread-5-1-1">
-<div class="para" id="shortbread-5-1-1-1"><div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-5-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div></div>
-<div class="autopermalink" aria-hidden="true" data-description="Item"><a tabindex="-1" href="#shortbread-5-1-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
+<div class="para" id="shortbread-5-1-1-1"><div class="autopermalink" data-description="Paragraph"><a href="#shortbread-5-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div></div>
+<div class="autopermalink" data-description="Item"><a href="#shortbread-5-1-1" title="Copy heading and permalink for Item" aria-label="Copy heading and permalink for Item">🔗</a></div>
 </li>
 </ul>
-<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#shortbread-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Paragraph"><a href="#shortbread-5" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Section 13.6: Scotch Shortbread (Grandma Janet)"><a tabindex="-1" href="#shortbread" title="Copy heading and permalink for Section 13.6: Scotch Shortbread (Grandma Janet)" aria-label="Copy heading and permalink for Section 13.6: Scotch Shortbread (Grandma Janet)">🔗</a></div>
+<div class="autopermalink" data-description="Section 13.6: Scotch Shortbread (Grandma Janet)"><a href="#shortbread" title="Copy heading and permalink for Section 13.6: Scotch Shortbread (Grandma Janet)" aria-label="Copy heading and permalink for Section 13.6: Scotch Shortbread (Grandma Janet)">🔗</a></div>
 </section>
 </div>
 <div id="ptx-content-footer" class="ptx-content-footer">
