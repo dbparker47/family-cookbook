@@ -618,8 +618,8 @@ var ptx_lunr_docs = [
   "url": "span-burr.html",
   "type": "Section",
   "number": "9.1",
-  "title": "Burritos - Spanish Rice",
-  "body": " Burritos - Spanish Rice  Ingredients    12 flour tortillas    14-ounce can of diced tomatoes    cup brown rice    cups water    15-ounce can of black beans    pound ground beef (optional)    cup salsa    teaspoon honey    1 clove garlic, minced    teaspoon pepper (optional)    1 medium onion, chopped    teaspoon dried oregano    Cheddar cheese (optional)    Plain yogurt or sour cream (optional)    Green onions (optional)    Hot sauce (optional)    Instructions   Combine rice and water in a medium pot and cook covered at low heat for 40 minutes or just a little less than the rice package directions.    Cook the onions and garlic in a saute pan on medium-low until almost done. Add meat and cook until done. Set aside.    Add the diced tomatoes, salt, pepper, and oregano to the rice. Cook on medium-low for about 15 minutes.    Stir in the black beans, meat, onion, and garlic with the rice mixture, and heat until you are happy with the temperature.    To serve, place some of the mixture on a tortilla, put hot sauce on, and sprinkle cheese on it. Top with green onions and yogurt.     Notes:   This also makes a great rice and beans meal. Just leave out the tortillas.     "
+  "title": "Burritos - Spanish Rice (Grandma Joy)",
+  "body": " Burritos - Spanish Rice (Grandma Joy)  Ingredients    12 flour tortillas    14-ounce can of diced tomatoes    cup brown rice    cups water    15-ounce can of black beans    pound ground beef (optional)    cup salsa    teaspoon honey    1 clove garlic, minced    teaspoon pepper (optional)    1 medium onion, chopped    teaspoon dried oregano    Cheddar cheese (optional)    Plain yogurt or sour cream (optional)    Green onions (optional)    Hot sauce (optional)    Instructions   Combine rice and water in a medium pot and cook covered at low heat for 40 minutes or just a little less than the rice package directions.    Cook the onions and garlic in a saute pan on medium-low until almost done. Add meat and cook until done. Set aside.    Add the diced tomatoes, salt, pepper, and oregano to the rice. Cook on medium-low for about 15 minutes.    Stir in the black beans, meat, onion, and garlic with the rice mixture, and heat until you are happy with the temperature.    To serve, place some of the mixture on a tortilla, put hot sauce on, and sprinkle cheese on it. Top with green onions and yogurt.     Notes:   This also makes a great rice and beans meal. Just leave out the tortillas.     "
 },
 {
   "id": "wet-burr",
@@ -1027,11 +1027,20 @@ var ptx_lunr_docs = [
   "body": " Scotch Shortbread (Grandma Janet)  Ingredients    2 cups flour    1 cup butter    cup powdered sugar    1 cup semisweet chocolate chips (optional)    Instructions   Cream butter and sugar thoroughly.    Add flour and sugar, mixing in quickly and lightly. Chill dough hour.    Roll out dough to inch. Cut as desired and place on cookie sheets and bake at for 5 minutes. Reduce temperature to and bake for 20 to 30 minutes longer. Do not let them brown.    Melt chocolate chips, either in the microwave on low power or on the stove. Spread melted chocolate on top of cookies     Notes:        "
 },
 {
+  "id": "snickerdoodle",
+  "level": "1",
+  "url": "snickerdoodle.html",
+  "type": "Section",
+  "number": "13.7",
+  "title": "Snickerdoodle Cookies (Grandma Joy)",
+  "body": " Snickerdoodle Cookies (Grandma Joy)  Ingredients    1 cup soft shortening (part butter)    cups plus 2 tablespoons sugar, divided    2 eggs    cups all-purpose flour    2 teaspoons cream of tartar    1 teaspoon baking soda    teaspoon salt    2 teaspoons cinnamon    Instructions   Mix shortening, cups sugar, and eggs thoroughly.    Combine flour, cream of tartar, baking soda, and salt. Stir these into the shortening\/sugar\/eggs mixture.    Mix cinnamon and 2 tablespoons sugar together. Roll dough into balls the size of small walnuts (see my backyard in late summer if you need an example), and roll them into the sugar\/cinnamon mixture.    Place balls of dough 2 inches apart on an ungreased baking sheet. Bake 8 to 10 minutes at . The cookies should puff up at first and then flatten out. Makes about 60 cookies.     Notes:   Not sure what part butter means in the shortening.     "
+},
+{
   "id": "snowball",
   "level": "1",
   "url": "snowball.html",
   "type": "Section",
-  "number": "13.7",
+  "number": "13.8",
   "title": "Snowballs (Grandma Joy)",
   "body": " Snowballs (Grandma Joy)  Ingredients:    1 pound butter    cup white sugar    4 cups flour (add cup flour for no nuts)    2 cups walnuts    teaspoon salt    2 teaspoons vanilla    Confectioners' sugar    Instructions   Melt butter on stove; let it cool a little.    Add flour, salt, and sugar; mix well.    Stir in nuts and vanilla, and roll into balls.    Place on cookie sheet; bake at for 10 to 15 minutes. Snowballs should be slightly browned on the edges.    Let them cool a little; roll in powdered sugar.     Notes:        "
 },
@@ -1040,7 +1049,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sugar-cookie.html",
   "type": "Section",
-  "number": "13.8",
+  "number": "13.9",
   "title": "Sugar Cookies",
   "body": " Sugar Cookies  Ingredients:    cups sifted flour    1 teaspoon salt    1 cup butter, softened    1 cup white sugar    2 eggs    1 teaspoon vanilla    Powdered sugar, for rolling out dough    Powdered Sugar Glaze    Instructions   Resift flour with the salt.    Beat butter and sugar in a medium bowl until creamy. Add egg and vanilla, and beat until blended.    Add flour mixture into butter mixture, and mix just enough to combine the ingredients. Refrigerate dough until firm (2 hours?).    Roll out some dough until it is inch thick. Cut cookie dough into shapes.    Bake on ungreased cookie sheet for 10 minutes for people and 8 minutes for candy canes at .    For air fryer, place in basket. Bake three people cookies at for 5 to 6 minutes.    Put on glaze after cookies have cooled a little.     Notes:        "
 },
