@@ -1060,7 +1060,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "14.1",
   "title": "Apple Pie (Grandma Joy)",
-  "body": " Apple Pie (Grandma Joy)  Ingredients:    Regular Pie Crust    8 to 9 Tart Apples    1 tablespoon all-purpose flour    1 teaspoon cinnamon    Dots of butter    Instructions   Break crust into two pieces. Flatten each with a rolling pin. Put one into greased pie pan.    Put apples on crust in pie pan. Mix flour, sugar, and cinnamon together and pour over apples. Dot with butter.    Bake at for 25 minutes with aluminum foil around the edge of the crust. Bake 25 minutes more without aluminum foil.     Notes:        "
+  "body": " Apple Pie (Grandma Joy)  Ingredients:    Regular Pie Crust    8 to 9 Tart Apples    1 cup white sugar    1 tablespoon all-purpose flour    1 teaspoon cinnamon    Dots of butter    Instructions   Break crust into two pieces. Flatten each with a rolling pin. Put one into greased pie pan.    Put apples on crust in pie pan. Mix flour, sugar, and cinnamon together and pour over apples. Dot with butter.    Bake at for 25 minutes with aluminum foil around the edge of the crust. Bake 25 minutes more without aluminum foil.     Notes:        "
 },
 {
   "id": "bl-bot-pie",
