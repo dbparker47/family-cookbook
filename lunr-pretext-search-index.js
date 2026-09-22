@@ -1041,8 +1041,8 @@ var ptx_lunr_docs = [
   "url": "snowball.html",
   "type": "Section",
   "number": "13.8",
-  "title": "Snowballs (Grandma Joy)",
-  "body": " Snowballs (Grandma Joy)  Ingredients:    1 pound butter    cup white sugar    4 cups flour (add cup flour for no nuts)    2 cups walnuts    teaspoon salt    2 teaspoons vanilla    Confectioners' sugar    Instructions   Melt butter on stove; let it cool a little.    Add flour, salt, and sugar; mix well.    Stir in nuts and vanilla, and roll into balls.    Place on cookie sheet; bake at for 10 to 15 minutes. Snowballs should be slightly browned on the edges.    Let them cool a little; roll in powdered sugar.     Notes:        "
+  "title": "Snowballs (Grandma Genevieve)",
+  "body": " Snowballs (Grandma Genevieve)  Ingredients:    1 pound butter    cup white sugar    4 cups flour (add cup flour for no nuts)    2 cups walnuts    teaspoon salt    2 teaspoons vanilla    Confectioners' sugar    Instructions   Melt butter on stove; let it cool a little.    Add flour, salt, and sugar; mix well.    Stir in nuts and vanilla, and roll into balls.    Place on cookie sheet; bake at for 10 to 15 minutes. Snowballs should be slightly browned on the edges.    Let them cool a little; roll in powdered sugar.     Notes:        "
 },
 {
   "id": "sugar-cookie",
